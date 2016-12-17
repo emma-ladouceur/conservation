@@ -1,0 +1,8 @@
+<nav>
+<ul class="nav {{include.navclass}}">
+  <li><a href="{{site.baseurl}}/index.html" class="{% if page.url== '/' %}current{% endif %}" >Home</a></li>
+  <li><a href="{{site.baseurl}}/posts.html" class="{% if page.url== '/posts.html' %}current{% endif %}" >Posts</a></li>
+  <li><a href="{{site.baseurl}}/publications.html" class="{% if page.url== '/publications.html' %}current{% endif %}" >Publications</a></li>
+  <li><a href="{{site.baseurl}}/photography.html" >Photography</a></li>
+  </ul>
+  </nav>

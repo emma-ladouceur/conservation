@@ -3,23 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <title>Emma Ladouceur</title>
+<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 </head>
 <body>
 
 <header>
 <h1>Emma Ladouceur Conservation Science &amp; Photography</h1>
-<nav>
-  <li><a href="{{site.baseurl}}/index.html" >Home</a></li>
-  <li><a href="{{site.baseurl}}/posts.html" >Posts</a></li>
-  <li><a href="{{site.baseurl}}/publications.html" >Publications</a></li>
-  <li><a href="{{site.baseurl}}/photography.html" >Photography</a></li>
-  </ul>
-  </nav>
+{% include nav.html navclass='nav-top' %}
 </header>
 
 {{content}}
 
 <footer>
+{% include nav.html navclass='nav-bottom' %}
 <p>(C) 2016 Emma Ladouceur</p>
       </body>
       </html>
