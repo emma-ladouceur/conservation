@@ -1,23 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>Emma Ladouceur  by emma-ladouceur</title>
-  </head>
-  <body>
-  <header>
-  <h1> Emma Ladouceur Conservation Science &amp; Photography</h1>
-  <nav>
-  <ul>
-  <li><a href="{{site.baseurl}}/index.html">Home</a></li>
-  <li><a href="{{site.baseurl}}/rcode.html">R Code</a></li>
-  <li><a href="{{site.baseurl}}/publications.html">Publications</a></li>
-  <li><a href="{{site.baseurl}}/photography.html">Photography</a></li>
-  </ul>
-  </nav>
-  </header>
+<head>
+<meta charset="UTF-8">
+<title>Emma Ladouceur</title>
+<link href="{{site.baseurl}}css/common.css" rel="stylesheet">
+</head>
+<body>
 
-  {{content}}
+<header>
+<h1>Emma Ladouceur Conservation Science &amp; Photography</h1>
+{% include nav.html navclass='nav-top' %}
+</header>
 
+{{content}}
+
+<footer>
+{% include nav.html navclass='nav-bottom'%}
+<p>(C) 2016 Emma Ladouceur</p>
       </body>
       </html>
