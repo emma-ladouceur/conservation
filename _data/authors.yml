@@ -1,0 +1,10 @@
+# /_data/authors.yml
+
+Collaboration:
+  name: "Collaboration"
+  uri: "http://thewhip.com"
+  email: "billy@rick.com"
+  bio: "A Collaborative post"
+  avatar: "/assets/images/collab.jpg"
+  twitter: "extravagantman"
+

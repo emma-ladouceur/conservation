@@ -1,0 +1,27 @@
+# main links
+main:
+  - title: "Emma Ladouceur"
+    url: https://emma-ladouceur.github.io/conservation/
+
+  - title: "All Posts"
+    url: /year-archive/
+  - title: "Publications"
+    url: /publications
+  - title: "CV"
+    url: /cv
+  - title: "Portfolio"
+    url: /portfolio-archive/
+  - title: "Posts by Category"
+    url: /categories/
+
+
+ 
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

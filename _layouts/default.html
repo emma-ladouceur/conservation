@@ -1,21 +1,28 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<head>
-<meta charset="UTF-8">
-<title>Emma Ladouceur</title>
-<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
-</head>
-<body>
+---
+---
 
-<header>
-<h1>Emma Ladouceur Conservation Science &amp; Photography</h1>
-{% include nav.html navclass='nav-top' %}
-</header>
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-{{content}}
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-<footer>
-{% include nav.html navclass='nav-bottom' %}
-<p>(C) 2016 Emma Ladouceur</p>
-      </body>
-      </html>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
