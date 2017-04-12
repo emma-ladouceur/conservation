@@ -86,7 +86,6 @@ date: 2016-12-28T18:38:52+00:00
 						<h4><strong>Earth &amp; Environmental Sciences / PhD</strong> University of Pavia</h4>
 						<span class="lieu">Pavia, Italy</span>
 						<span class="dates">2014-2018</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
 					</li>
 					<li>
 						<h4><strong>Temporal and Spatial Analysis of Ecological Data in an Open Source Environment (GRASS GIS) / Certificate</strong> Foundazione Edmund Mach</h4>
@@ -107,13 +106,11 @@ date: 2016-12-28T18:38:52+00:00
 						<h4><strong>Conservation Biology / MSc</strong> University of Queensland</h4>
 						<span class="lieu">Brisbane, Australia</span>
 						<span class="dates">2011-2012</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
 					</li>
 					<li>
 						<h4><strong>Urban &amp; Regional Planning  / Bachelor</strong> Ryerson University</h4>
 						<span class="lieu">Toronto, Canada</span>
 						<span class="dates">2003-2007</span>
-						<p>Clarifiez la formation (les abréviations ne sont pas connues de tout le monde).</p>
 					</li>
 				</ul>
 			</div>
