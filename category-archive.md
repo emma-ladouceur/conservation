@@ -5,7 +5,7 @@ permalink: /categories/
 title: "Posts By Category"
 author_profile: true
 header:
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/leaf.jpg
 ---
 
 {% include base_path %}

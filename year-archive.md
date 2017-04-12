@@ -5,7 +5,7 @@ permalink: /year-archive/
 title: "All Posts"
 author_profile: true
 header:
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/blackdown_moss.jpg
 ---
 
 {% include base_path %}
