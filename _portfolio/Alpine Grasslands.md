@@ -3,8 +3,8 @@ title: "Alpine Grasslands"
 excerpt: "From low-high altitude, Italian Alps"
 layout: single
 header:
-  image: /assets/images/alpine meadows/header.JPG
-  teaser: /assets/images/alpine meadows/header.JPG
+  image: /assets/images/alpine meadows/meadow.jpg
+  teaser: /assets/images/alpine meadows/meadow.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/alpine meadows/avatar.JPG
@@ -22,7 +22,7 @@ gallery:
   - url: /assets/images/alpine meadows/oxy 2.jpg
     image_path: /assets/images/alpine meadows/oxy 2.jpg
     alt: "placeholder image 3"  
-  - url: /assets/images/alpine meadows/globularia.JPG
+  - url: /assets/images/alpine meadows/globularia.jpg
     image_path: /assets/images/alpine meadows/globularia.jpg
     alt: "placeholder image 2"
   - url: /assets/images/alpine meadows/IMG_1505 copy.jpg

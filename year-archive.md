@@ -2,10 +2,9 @@
 title: "All Posts"
 layout: archive
 permalink: /year-archive/
-title: "All Posts"
 author_profile: true
 header:
-  overlay_image: /assets/images/blackdown_moss.jpg
+  overlay_image: /assets/images/leaf.jpg
 ---
 
 {% include base_path %}

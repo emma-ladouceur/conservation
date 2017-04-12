@@ -2,7 +2,6 @@
 title: "Posts by Category"
 layout: archive
 permalink: /categories/
-title: "Posts By Category"
 author_profile: true
 header:
   overlay_image: /assets/images/leaf.jpg

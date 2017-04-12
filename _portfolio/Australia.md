@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/australia/eucleaf.JPG
 sidebar:
   - title: "Role"
-    image: /assets/images/australia/avatar.JPG
+    image: /assets/images/australia/avatar.jpg
     image_alt: "logo"
     text: "MSc Student-> Research Assistant-> Tutor-> Research Officer"
   - title: "Habitats"
@@ -40,8 +40,8 @@ gallery:
   - url: /assets/images/australia/mossaman_gorge.jpg
     image_path: /assets/images/australia/mossaman_gorge.jpg
     alt: "placeholder image 3"  
-  - url: /assets/images/australia/mantis.JPG
-    image_path: /assets/images/australia/mantis.JPG
+  - url: /assets/images/australia/mantis.jpg
+    image_path: /assets/images/australia/mantis.jpg
     alt: "placeholder image 5"  
   - url: /assets/images/australia/carnarvon_amphitheatre2.jpg
     image_path: /assets/images/australia/carnarvon_amphitheatre2.jpg

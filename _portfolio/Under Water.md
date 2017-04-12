@@ -22,8 +22,8 @@ gallery:
   - url: /assets/images/under water/thirdtrysidemanta.jpg
     image_path: /assets/images/under water/thirdtrysidemanta.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/under water/5697477149_37b1c4ed16_o.jpg
-    image_path: /assets/images/under water/5697477149_37b1c4ed16_o.jpg
+  - url: /assets/images/under water/soft.jpg
+    image_path: /assets/images/under water/soft.jpg
     alt: "placeholder image 5"
   - url: /assets/images/under water/5697549811_44a8b2a705_o.jpg
     image_path: /assets/images/under water/5697549811_44a8b2a705_o.jpg
@@ -40,11 +40,11 @@ gallery:
   - url: /assets/images/under water/white_island_ray_1st underwater.jpg
     image_path: /assets/images/under water/white_island_ray_1st underwater.jpg
     alt: "placeholder image 5"
-  - url: /assets/images/under water/5697562717_9353c5b795_o.jpg
-    image_path: /assets/images/under water/5697562717_9353c5b795_o.jpg
+  - url: /assets/images/under water/snorkle.jpg
+    image_path: /assets/images/under water/snorkle.jpg
     alt: "placeholder image 5"
-  - url: /assets/images/under water/giantpinkandblueclam_GBR2.jpg
-    image_path: /assets/images/under water/giantpinkandblueclam_GBR2.jpg
+  - url: /assets/images/under water/clam.jpg
+    image_path: /assets/images/under water/clam.jpg
     alt: "placeholder image 5"
   - url: /assets/images/under water/bubble.jpg
     image_path: /assets/images/under water/bubble.jpg
