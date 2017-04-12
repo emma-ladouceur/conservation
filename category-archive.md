@@ -1,4 +1,5 @@
 ---
+title: "Posts by Category"
 layout: archive
 permalink: /categories/
 title: "Posts By Category"
