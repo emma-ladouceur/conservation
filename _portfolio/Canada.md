@@ -46,7 +46,7 @@ gallery:
     alt: "placeholder image 5"
   - url: /assets/images/canada/sflow.jpg
     image_path: /assets/images/canada/sflow.jpg
-    alt: "placeholder image 5"  
+    alt: "placeholder image 5"
   - url: /assets/images/canada/bf.jpg
     image_path: /assets/images/canada/bf.jpg
     alt: "placeholder image 5"
