@@ -1,28 +1,24 @@
 ---
 title: "Publications"
 layout: single
+author_profile: true
 permalink: /publications/
 header:
   overlay_image: /assets/images/blackdown_moss.jpg
 ---
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
 
 ## In Revision
-* **Ladouceur, E**, Ranalii, R, Gobbi, M, Jiménez-Alfaro, B. In Prep. The Butterfly Diversity of Alpine Grasslands. Conservaton Biology.
 
-* **Ladouceur, E**, Pritchard, H, Fernandez-Pascual, E. In Prep. On thermal time and cardinal temperatures: a novel approach using R. Seed Science Research.
-
-* **Ladouceur, E**, Jiménez-Alfaro, B, Bonomi, C, Tudela-Isanta, M, Mondoni, A, Poschlod, P, Amiaud, B, Burrascano, S, Cerabolini, B, Craine, J, Klimešová, J, Louault, F, Minden, V, Öllerer, K, Onipchenko, V, Soudzilovskaia, N. In Prep. Contribution of plant and regeneration traits for detecting ecological differentiation across temperate grasslands. The Journal of Ecology.
-
-* **Ladouceur, E**, Jiménez-Alfaro, B, Marin, M, DeVitis, M, Abbandonato, H, Iannetta, P, Bonomi, C, Pritchard, H. In Prep. Native seed production and the restoration species pool. Conservation Letters.
-
-* Firn, J, **Ladouceur, E**, Dorrough, J. In Review. Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands. The Journal of Applied Ecology.
+* **Ladouceur, E**, Jiménez-Alfaro, B, Marin, M, DeVitis, M, Abbandonato, H, Iannetta, P, Bonomi, C, Pritchard, H. Native seed supply and the restoration species pool. Conservation Letters.
 {: .notice}
 
 
 ## 2017
+* Firn, J, **Ladouceur, E**, Dorrough, J. Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands. The Journal of Applied Ecology. In Press.
 
-* **Ladouceur, E**, Mayfield, M. In Press. The early response of subtropical grasslands to restoration treatments. The Journal of Restoration Ecology.
+* **Ladouceur, E**, Mayfield, M. In Press. [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/abstract), The Journal of Restoration Ecology.
 {: .notice}
 
 ## Technical Reports

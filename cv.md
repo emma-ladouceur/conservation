@@ -18,11 +18,11 @@ date: 2016-12-28T18:38:52+00:00
 
 <title>Emma Ladouceur- Conservation Science</title>
 
-
 <link rel="stylesheet" media="screen and (min-width:481px)" href="Sheldon%20COOPER%20-%20Physicien%20surdou%C3%A9%20et%20Geek%20qualifi%C3%A9_files/cv.css">
 
 
 </head>
+
 
 <body>
 <section>
@@ -47,7 +47,7 @@ date: 2016-12-28T18:38:52+00:00
 				<h3>Professional Experience</h3>
 				<ul>
 					<li>
-						<h4><strong>Early Stage Researcher</strong> Museo delle Science (MUSE)</h4>
+						<h4><strong>Early Stage Researcher</strong> Museo delle Science (MUSE),</h4>
 						<span class="lieu">Trento, Italy</span>
 						<span class="dates">2014-2018</span>
 						<p>PhD candidate and researcher as apart of the NAtive Seed Science TEchnology &amp; Conservation (NASSTEC), Marie Curie FP7 Initial Training Network (ITN)</p>
@@ -65,7 +65,7 @@ date: 2016-12-28T18:38:52+00:00
 						<p>Full-time field position surveying vegetation of rehabilitated mine sites</p>
 					</li>
 					<li>
-						<h4><strong>Research Assistant &amp; Teacher </strong> The School of Biological Sciences &amp; Scool of Geography, Planning and Environmental Management, University of Queensland</h4>
+						<h4><strong>Research Assistant &amp; Teacher </strong> The School of Biological Sciences, &amp; Scool of Geography, Planning and Environmental Management, University of Queensland</h4>
 						<span class="lieu">Brisbane, Australia</span>
 						<span class="dates">2011-2012</span>
 						<p>Courses taught include: PLAN3000: Plan Making, ENVM3203/7206: Tools for Environmental Assessment and Analysis</p>

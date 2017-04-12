@@ -10,12 +10,12 @@ sidebar:
     image_alt: "logo"
     text: "Adventures as a biologist-tourist"
 gallery:
-  - url: /assets/images/indonesia/Indo07.jpg
-    image_path: /assets/images/indonesia/Indo07.jpg
-    alt: "placeholder image 1"
   - url: /assets/images/indonesia/Indo14.jpg
     image_path: /assets/images/indonesia/Indo14.jpg
     alt: "placeholder image 2"
+  - url: /assets/images/indonesia/Indo07.jpg
+    image_path: /assets/images/indonesia/Indo07.jpg
+    alt: "placeholder image 1"  
   - url: /assets/images/indonesia/Indo13.jpg
     image_path: /assets/images/indonesia/Indo13.jpg
     alt: "placeholder image 3"

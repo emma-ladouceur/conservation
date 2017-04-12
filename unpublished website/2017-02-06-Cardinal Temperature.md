@@ -43,6 +43,12 @@ library(segmented)
 #Set up to automatically download dataset from github
 {% endhighlight %}
 
+
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/Fig 1 Final germination percentage.png" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure>
+
 ## STEP 1: 
 Check whether the data represents the full germination temperature range.
 
@@ -92,7 +98,25 @@ ggsave(filename = "Fig 1 Final germination percentage.tiff", plot = FGPfig,
        path = NULL, scale = 1, width = 173, height = 173, units = "mm", dpi = 300)
 {% endhighlight %}
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Fig 1 Final germination percentage.png){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+
+
+
+<figure style="width: 350px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/Fig 2 Cumulative germination curves.png" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure>
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+Filler
+filler filller
+filler
+filler filler
+filler
+filler
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
 ## STEP 2: 
 
@@ -205,10 +229,13 @@ ggsave(filename = "Fig 2 Cumulative germination curves.tiff", plot = CGfig,
        path = NULL, scale = 1, width = 173, height = 173, units = "mm", dpi = 300)
 {% endhighlight %}
 
+
+
 <figure>
-    <a href="/assets/images/posts/Fig 2 Cumulative germination curves.png"><img src="/assets/images/posts/Fig 2 Cumulative germination curves.png"></a>
-        <figcaption>Cumulative Germination Curves</figcaption>
+    <a href="/assets/images/posts/Fig 3 Germination rate vs T (segmented model).png"><img src="/assets/images/posts/Fig 3 Germination rate vs T (segmented model).png"></a>
+        <figcaption>Segmented Model; Germination Rate vs. Temperature</figcaption>
 </figure>
+
 
 ## STEP 3A: 
 
@@ -307,9 +334,11 @@ ggsave(filename = "Fig 3 Germination rate vs T (segmented model).tiff", plot = B
 
 {% endhighlight %}
 
+
+
 <figure>
-    <a href="/assets/images/posts/Fig 3 Germination rate vs T (segmented model).png"><img src="/assets/images/posts/Fig 3 Germination rate vs T (segmented model).png"></a>
-        <figcaption>Segmented Model; Germination Rate vs. Temperature</figcaption>
+    <a href="/assets/images/posts/Fig 4 Germination rate vs T (linear models).png"><img src="/assets/images/posts/Fig 4 Germination rate vs T (linear models).png"></a>
+        <figcaption>Linear Model: Germination Rate vs. Temperature</figcaption>
 </figure>
 
 ## STEP 3B: 
@@ -399,7 +428,4 @@ ggsave(filename = "Fig 4 Germination rate vs T (linear models).tiff", plot = LMf
 
 {% endhighlight %}
 
-<figure>
-    <a href="/assets/images/posts/Fig 4 Germination rate vs T (linear models).png"><img src="/assets/images/posts/Fig 4 Germination rate vs T (linear models).png"></a>
-        <figcaption>Linear Model: Germination Rate vs. Temperature</figcaption>
-</figure>
+
