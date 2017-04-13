@@ -22,8 +22,8 @@ gallery:
   - url: /assets/images/alpine meadows/oxy 2.jpg
     image_path: /assets/images/alpine meadows/oxy 2.jpg
     alt: "placeholder image 3"  
-  - url: /assets/images/alpine meadows/globularia.jpg
-    image_path: /assets/images/alpine meadows/globularia.jpg
+  - url: /assets/images/alpine meadows/globularia.JPG
+    image_path: /assets/images/alpine meadows/globularia.JPG
     alt: "placeholder image 2"
   - url: /assets/images/alpine meadows/IMG_1505 copy.jpg
     image_path: /assets/images/alpine meadows/IMG_1505 copy.jpg

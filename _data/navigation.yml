@@ -3,6 +3,8 @@ main:
   - title: "Emma Ladouceur"
     url: https://emma-ladouceur.github.io/conservation/
 
+  - title: "Home"
+    url: /
   - title: "All Posts"
     url: /year-archive/
   - title: "Publications"

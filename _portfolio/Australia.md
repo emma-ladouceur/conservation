@@ -70,8 +70,8 @@ gallery:
   - url: /assets/images/australia/kingbluegrassinthewind.jpg
     image_path: /assets/images/australia/kingbluegrassinthewind.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/australia/gallahs2.jpg
-    image_path: /assets/images/australia/gallahs2.jpg
+  - url: /assets/images/australia/gallahs2.JPG
+    image_path: /assets/images/australia/gallahs2.JPG
     alt: "placeholder image 3"
   - url: /assets/images/australia/carnarvon_mossgarden3.jpg
     image_path: /assets/images/australia/carnarvon_mossgarden3.jpg
@@ -82,11 +82,11 @@ gallery:
   - url: /assets/images/australia/carnarvon_amphitheatre3.jpg
     image_path: /assets/images/australia/carnarvon_amphitheatre3.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/australia/themedatriandra.jpg
-    image_path: /assets/images/australia/themedatriandra.jpg
+  - url: /assets/images/australia/themedatriandra.JPG
+    image_path: /assets/images/australia/themedatriandra.JPG
     alt: "placeholder image 1"  
-  - url: /assets/images/australia/straddie.jpg
-    image_path: /assets/images/australia/straddie.jpg
+  - url: /assets/images/australia/straddie.JPG
+    image_path: /assets/images/australia/straddie.JPG
     alt: "placeholder image 1"    
   - url: /assets/images/australia/waterfall_base.jpg
     image_path: /assets/images/australia/waterfall_base.jpg

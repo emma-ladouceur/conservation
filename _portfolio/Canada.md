@@ -44,8 +44,8 @@ gallery:
   - url: /assets/images/canada/lp.JPG
     image_path: /assets/images/canada/lp.JPG
     alt: "placeholder image 5"
-  - url: /assets/images/canada/sflow.jpg
-    image_path: /assets/images/canada/sflow.jpg
+  - url: /assets/images/canada/sflow.JPG
+    image_path: /assets/images/canada/sflow.JPG
     alt: "placeholder image 5"
   - url: /assets/images/canada/bf.jpg
     image_path: /assets/images/canada/bf.jpg
