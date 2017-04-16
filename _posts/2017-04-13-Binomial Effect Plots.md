@@ -14,7 +14,7 @@ tags:
   - ROpensci
 ---
 
-If you have binomial data and categorical/binomial variables, it can be difficult to visualise your results. Here I present a simple and rigorous solution. Includes R code and data.
+If you have binomial data and categorical/binomial variables, it can be difficult to visualise your results. Here I present a simple and rigorous solution that is a bit more robust than descriptive statistics. Includes R code and data.
 
 > Note: This is a FAKE dataset, to be used as an example only. 
 
