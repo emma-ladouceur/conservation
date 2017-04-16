@@ -38,7 +38,7 @@ library(ggplot2)
 library(effects)
 
 # read data
-dat <- read.csv("https://raw.githubusercontent.com/emma-ladouceur/codeemma/master/picked.csv",
+dat <- read.csv("https://raw.githubusercontent.com/emma-ladouceur/codeemma/master/picked.csv")
 
 # Run a binomial GLM with petal length and width as explanatory variables
 # and whether a flower is picked or not as a response variable
@@ -59,11 +59,11 @@ limits <- aes(ymax = picked.prob$upper, ymin=picked.prob$lower)
 
 # Plot
 ggplot(picked.prob, aes(fill=wider.petal, y=Est., x=longer.petal)) + ylim(0.00, 1.00) + 
-  geom_bar(stat="identity",position=dodge) + geom_errorbar(limits,  position=dodge, width=0.2, lwd=1) + 
+  geom_bar(stat="identity",position=position_dodge()) + geom_errorbar(position=position_dodge(0.9),limits, width=0.2, lwd=1) + 
   scale_fill_manual(values=c("#00A08A", "#35274A")) +  theme_bw() +
-  labs(fill= "Petal width", x= "Petal length", y= "Probability Estimate that a flower is picked") 
-
-
+  labs(fill= "Petal width", x= "Petal length", y= "Probability Estimate that a flower is picked")
+  
+  
 {% endhighlight %}
 
 
