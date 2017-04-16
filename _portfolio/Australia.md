@@ -63,7 +63,7 @@ gallery:
     alt: "placeholder image 5"
   - url: /assets/images/australia/basalt_soil.JPG
     image_path: /assets/images/australia/basalt_soil.JPG
-    alt: "placeholder image 5"  
+    alt: "placeholder image 7"  
   - url: /assets/images/australia/piller.JPG
     image_path: /assets/images/australia/piller.JPG
     alt: "placeholder image 5"  
