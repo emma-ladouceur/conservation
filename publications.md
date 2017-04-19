@@ -16,9 +16,9 @@ header:
 
 
 ## 2017
-* Firn, J, **Ladouceur, E**, Dorrough, J. Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands. The Journal of Applied Ecology. In Press.
+* Firn, J, **Ladouceur, E**, Dorrough, J. **In Press.** Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands. The Journal of Applied Ecology. 
 
-* **Ladouceur, E**, Mayfield, M. In Press. [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/abstract), The Journal of Restoration Ecology.
+* **Ladouceur, E**, Mayfield, M. 2017. [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/abstract), The Journal of Restoration Ecology.
 {: .notice}
 
 ## Technical Reports

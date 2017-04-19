@@ -61,11 +61,11 @@ gallery:
   - url: /assets/images/australia/mantis.jpg
     image_path: /assets/images/australia/mantis.jpg
     alt: "placeholder image 5"
-  - url: /assets/images/australia/basalt_soil.JPG
-    image_path: /assets/images/australia/basalt_soil.JPG
+  - url: /assets/images/australia/basalt_soil.jpg
+    image_path: /assets/images/australia/basalt_soil.jpg
     alt: "placeholder image 7"  
-  - url: /assets/images/australia/piller.JPG
-    image_path: /assets/images/australia/piller.JPG
+  - url: /assets/images/australia/piller.jpg
+    image_path: /assets/images/australia/piller.jpg
     alt: "placeholder image 5"  
   - url: /assets/images/australia/straight.jpg
     image_path: /assets/images/australia/straight.jpg
