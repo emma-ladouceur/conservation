@@ -76,7 +76,7 @@ And here is the Figure;
 So, here we can see  bigger flowers with wider + longer petals have a probability of being  picked the most (88% probability), wider + shorter  with a 59% probability of being picked,  longer + thinner a 35% probability of being picked,  and shorter + thinner petals (smallest flowers) a 9 % probability of being picked.
 
 
-> Although this dataset is fake and unrealistic to collect, I am interested in studying the 'charisma' of flowers in the future; ie. what makes a flower beautiful? And in context of conservation biology; what makes people care about plant species?
+> Although this dataset is fake and unrealistic to collect in this form, I am interested in studying the 'charisma' of flowers in the future; ie. what makes a flower beautiful? And in context of conservation biology; what makes people care about plant species? While this has been [studied widely in mammals](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-263X.2012.00229.x/full), it has largely not been addressed in vegetation yet.
 
 
 Feel free to contact me with any questions or if the code doesn't work for you.
