@@ -9,7 +9,7 @@ comments: true
 share: true
 related: true
 categories:
-  - R
+  - Rstats
 tags:
   - ROpensci
 ---
