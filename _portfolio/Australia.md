@@ -80,7 +80,7 @@ gallery:
     image_path: /assets/images/australia/carnarvon_amphitheatre2.jpg
     alt: "placeholder image 4"
   - url: /assets/images/australia/eucrace.jpg
-    image_path: /assets/images//australia/eucrace.jpg
+    image_path: /assets/images/australia/eucrace.jpg
     alt: "placeholder image 1"    
   - url: /assets/images/australia/carnarvon_wadesgorge_ferns2.jpg
     image_path: /assets/images//australia/carnarvon_wadesgorge_ferns2.jpg
@@ -93,7 +93,16 @@ gallery:
     alt: "placeholder image 3"
   - url: /assets/images/australia/carnarvon_mossgarden3.jpg
     image_path: /assets/images/australia/carnarvon_mossgarden3.jpg
-    alt: "placeholder image 5"    
+    alt: "placeholder image 5" 
+  - url: /assets/images/australia/saltlake.JPG
+    image_path: /assets/images/australia/fsaltlake.JPG
+    alt: "placeholder image 5"
+  - url: /assets/images/australia/ferny.jpg
+    image_path: /assets/images/australia/ferny.jpg
+    alt: "placeholder image 5"   
+  - url: /assets/images/australia/redcentre.JPG
+    image_path: /assets/images/australia/redcentre.JPG
+    alt: "placeholder image 5"  
   - url: /assets/images/australia/carnarvon_mossgarden_steve.jpg
     image_path: /assets/images/australia/carnarvon_mossgarden_steve.jpg
     alt: "placeholder image 4"
@@ -111,7 +120,25 @@ gallery:
     alt: "placeholder image 1"  
   - url: /assets/images/australia/xanthorrea sp.jpg
     image_path: /assets/images/australia/xanthorrea sp.jpg
-    alt: "placeholder image 1"    
+    alt: "placeholder image 1"
+  - url: /assets/images/australia/rainforestcreek.jpg
+    image_path: /assets/images/australia/rainforestcreek.jpg
+    alt: "placeholder image 1"  
+  - url: /assets/images/australia/water.jpg
+    image_path: /assets/images/australia/water.jpg
+    alt: "placeholder image 1"   
+  - url: /assets/images/australia/figtreecurtain.jpg
+    image_path: /assets/images/australia/figtreecurtain.jpg
+    alt: "placeholder image 1" 
+  - url: /assets/images/australia/rainforestcreek.jpg
+    image_path: /assets/images/australia/rainforestcreek.jpg
+    alt: "placeholder image 1"  
+  - url: /assets/images/australia/water.jpg
+    image_path: /assets/images/australia/water.jpg
+    alt: "placeholder image 1"   
+  - url: /assets/images/australia/figtreecurtain.jpg
+    image_path: /assets/images/australia/figtreecurtain.jpg
+    alt: "placeholder image 1"              
 ---
 
 
