@@ -11,13 +11,12 @@ header:
 
 ## In Revision
 * **Emma Ladouceur**, Hugh W. Pritchard, Eduardo Fernández-Pascual. Standardised measurement of seed functional traits: calculation of germination cardinal temperatures and thermal time using R.
-
 {: .notice}
 
 
 ## 2017
 
-* **Emma Ladouceur *, Borja Jiménez-Alfaro, Maria Marin, Marcello DeVitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh Pritchard. Native seed supply and the restoration species pool *Conservation Letters* (Accepted)
+* **Emma Ladouceur**, Borja Jiménez-Alfaro, Maria Marin, Marcello DeVitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh Pritchard. Native seed supply and the restoration species pool *Conservation Letters* (Accepted)
 
 * Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **In Press.** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology* (Early View)
 
