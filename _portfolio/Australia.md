@@ -95,7 +95,7 @@ gallery:
     image_path: /assets/images/australia/carnarvon_mossgarden3.jpg
     alt: "placeholder image 5" 
   - url: /assets/images/australia/saltlake.JPG
-    image_path: /assets/images/australia/fsaltlake.JPG
+    image_path: /assets/images/australia/saltlake.JPG
     alt: "placeholder image 5"
   - url: /assets/images/australia/ferny.jpg
     image_path: /assets/images/australia/ferny.jpg
@@ -129,16 +129,7 @@ gallery:
     alt: "placeholder image 1"   
   - url: /assets/images/australia/figtreecurtain.jpg
     image_path: /assets/images/australia/figtreecurtain.jpg
-    alt: "placeholder image 1" 
-  - url: /assets/images/australia/rainforestcreek.jpg
-    image_path: /assets/images/australia/rainforestcreek.jpg
-    alt: "placeholder image 1"  
-  - url: /assets/images/australia/water.jpg
-    image_path: /assets/images/australia/water.jpg
-    alt: "placeholder image 1"   
-  - url: /assets/images/australia/figtreecurtain.jpg
-    image_path: /assets/images/australia/figtreecurtain.jpg
-    alt: "placeholder image 1"              
+    alt: "placeholder image 1"            
 ---
 
 
