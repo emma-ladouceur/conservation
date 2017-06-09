@@ -31,15 +31,6 @@ gallery:
   - url: /assets/images/alpine meadows/IMG_1471 copy.jpg
     image_path: /assets/images/alpine meadows/IMG_1471 copy.jpg
     alt: "placeholder image 2"
-   - url: /assets/images/alpine meadows/gentiana.JPG
-    image_path: /assets/images/alpine meadows/gentiana.JPG
-    alt: "placeholder image 2"
-  - url: /assets/images/alpine meadows/cushion.JPG
-    image_path: /assets/images/alpine meadows/cushion.JPG
-    alt: "placeholder image 2"
-  - url: /assets/images/alpine meadows/aster.JPG
-    image_path: /assets/images/alpine meadows/aster.JPG
-    alt: "placeholder image 2"
   - url: /assets/images/alpine meadows/dancingman3.JPG
     image_path: /assets/images/alpine meadows/dancingman3.JPG
   - url: /assets/images/alpine meadows/IMG_1564 copy.jpg
@@ -58,15 +49,6 @@ gallery:
   - url: /assets/images/alpine meadows/IMG_1475.JPG
     image_path: /assets/images/alpine meadows/IMG_1475.JPG
     alt: "placeholder image 2"
-  - url: /assets/images/alpine meadows/bell.JPG
-    image_path: /assets/images/alpine meadows/bell.JPG
-    alt: "placeholder image 2"
-  - url: /assets/images/alpine meadows/pink.JPG
-    image_path: /assets/images/alpine meadows/pink.JPG
-    alt: "placeholder image 2"
-  - url: /assets/images/alpine meadows/pully.jpg
-    image_path: /assets/images/alpine meadows/pully.jpg
-    alt: "placeholder image 2"  
 ---
 
 
