@@ -42,7 +42,6 @@ gallery:
     alt: "placeholder image 2"
   - url: /assets/images/alpine meadows/dancingman3.JPG
     image_path: /assets/images/alpine meadows/dancingman3.JPG
-    alt: "placeholder image 2"
   - url: /assets/images/alpine meadows/IMG_1564 copy.jpg
     image_path: /assets/images/alpine meadows/IMG_1564 copy.jpg
     alt: "placeholder image 2"
