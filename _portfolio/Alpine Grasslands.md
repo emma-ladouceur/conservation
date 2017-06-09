@@ -65,8 +65,8 @@ gallery:
   - url: /assets/images/alpine meadows/pully.jpg
     image_path: /assets/images/alpine meadows/pully.jpg
     alt: "placeholder image 2" 
-  - url: /assets/images/alpine meadows/pink.JPG
-    image_path: /assets/images/alpine meadows/pink.JPG
+  - url: /assets/images/alpine meadows/pink copy.jpg
+    image_path: /assets/images/alpine meadows/pink copy.jpg
     alt: "placeholder image 2" 
 ---
 
