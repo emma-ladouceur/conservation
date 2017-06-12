@@ -10,6 +10,8 @@ header:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
 
 ## In Revision
+* **Emma Ladouceur**, Borja Jiménez-Alfaro, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini1, J. Hans Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda Soudzilovskaia, Costantino Bonomi. The regeneration niche and the trait spectrum of European temperate grasslands.
+
 * **Emma Ladouceur**, Hugh W. Pritchard, Eduardo Fernández-Pascual. Standardised measurement of seed functional traits: calculation of germination cardinal temperatures and thermal time using R.
 {: .notice}
 
