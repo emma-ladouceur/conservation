@@ -7,9 +7,6 @@ read_time: true
 comments: true
 share: true
 related: true
-categories:
-  - Ecology
-  - Learning
 tags:
   - Ecology
   - Learning

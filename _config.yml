@@ -73,8 +73,8 @@ author:
   name             : "Emma Ladouceur"
   avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Conservation Science &amp; Photography"
-  location         : "Trento, Italy"
-  email            : "emmala@gmail.com"
+  location         :
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -262,5 +262,7 @@ compress_html:
     values:
       author_profile: false
       share: true
+
+
 
 

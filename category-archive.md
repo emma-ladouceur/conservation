@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "R Post Archive"
 layout: archive
 permalink: /categories/
 author_profile: true

@@ -11,7 +11,7 @@ related: true
 categories:
   - Rstats
 tags:
-  - ROpensci
+  - Rstats
 ---
 
 If you have binomial data and categorical/binomial variables, it can be difficult to visualise your results. Here I present a simple and rigorous solution that is a bit more robust than descriptive statistics. Includes R code and data.

@@ -4,7 +4,7 @@ layout: archive
 permalink: /year-archive/
 author_profile: true
 header:
-  overlay_image: /assets/images/leaf.jpg
+  overlay_image: /assets/images/kingbluegrassinthewind.jpg
 ---
 
 {% include base_path %}

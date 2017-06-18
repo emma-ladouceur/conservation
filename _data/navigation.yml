@@ -1,19 +1,32 @@
 # main links
 main:
-  
+  - title: "About"
+    url: /about/
   - title: "All Posts"
     url: /year-archive/
   - title: "Publications"
     url: /publications
   - title: "CV"
     url: /cv
-  - title: "Portfolio"
+  - title: "Photography"
     url: /portfolio-archive/
-  - title: "Posts by Category"
+  - title: "R Blog"
     url: /categories/
 
-
- 
+sidebar-pub:
+  - title: "Useful Links"
+    children:
+      - title: "NASSTEC"
+        url: https://nasstec.eu/home
+      - title: "INSR Blog"
+        url: http://ser-insr.org/news/
+      - title: "SER"
+        url: http://www.ser.org/  
+      - title: "SCB"
+        url: http://conbio.org/
+      - title: "IAVS"
+        url: http://iavs.org/    
+      
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
