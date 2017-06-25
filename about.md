@@ -19,7 +19,7 @@ I am formally trained in planning (urban & environmental), environmental managem
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/fieldwork.jpg){: .align-center}
 
 ## Contact 
-[Email me](mailto: emmala@gmail.com) with any feeback about my research or this site, or for potential collaboration. Find me on Twitter in the navigation pane on the left.
+You can find all relevant contacts in the side menu on the left!
 
 
 
