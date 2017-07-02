@@ -9,7 +9,7 @@ sidebar:
   - title: "Film"
     image: /assets/images/film/avatar.JPG
     image_alt: "logo"
-    text: "When I have space, I always try to carry a film camera too"
+    text: "I always try to carry a film camera too"
 gallery:
   - url: /assets/images/film/IMM002.JPG
     image_path: /assets/images/film/IMM002.JPG
@@ -29,6 +29,15 @@ gallery:
   - url: /assets/images/film/vol_cra.jpg
     image_path: /assets/images/film/vol_cra.jpg
     alt: "placeholder image 5"  
+  - url: /assets/images/film/byron.jpg
+    image_path: /assets/images/film/byron.jpg
+    alt: "placeholder image 4"
+  - url: /assets/images/film/byronbeachcamp.jpg
+    image_path: /assets/images/film/byronbeachcamp.jpg
+    alt: "placeholder image 5"
+  - url: /assets/images/film/byronsunset2.jpg
+    image_path: /assets/images/film/byronsunset2.jpg
+    alt: "placeholder image 5"   
 ---
 
 
