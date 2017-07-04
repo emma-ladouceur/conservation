@@ -18,11 +18,11 @@ header:
 
 ## 2017
 
-* **Emma Ladouceur**, Borja Jiménez-Alfaro, Maria Marin, Marcello De Vitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh Pritchard. **In Press.** [Native Seed Supply and the Restoration Species Pool](http://onlinelibrary.wiley.com/doi/10.1111/conl.12381/abstract) *Conservation Letters* (Early View)
+* **Emma Ladouceur**, Borja Jiménez-Alfaro, Maria Marin, Marcello De Vitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh Pritchard. **2017** [Native Seed Supply and the Restoration Species Pool](http://onlinelibrary.wiley.com/doi/10.1111/conl.12381/abstract) *Conservation Letters* (Early View)
 
-* Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **In Press.** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology* (Early View)
+* Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **2017** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology* (Early View)
 
-* **Emma Ladouceur**, Margaret Morrow Mayfield. (2017) [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/abstract) *Restoration Ecology* (Early View)
+* **Emma Ladouceur**, Margaret Morrow Mayfield. **2017** [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/abstract) *Restoration Ecology* (Early View)
 {: .notice}
 
 ## Technical Reports
