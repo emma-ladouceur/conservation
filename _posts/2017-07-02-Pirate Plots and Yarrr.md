@@ -18,7 +18,7 @@ I have been using 'Pirate Plots' in alot of my work lately and have had a few in
 
 > Note: I first heard about Pirate Plots from [Rbloggers](https://www.r-bloggers.com/the-pirate-plot-an-r-pirates-favorite-plot/), who told me, 'Don't use barplots!', and showed me a convincing argument of  [why](https://www.r-bloggers.com/the-pirate-plot-2-0-the-rdi-plotting-choice-of-r-pirates/). I then found [Nathan Philips](https://ndphillips.github.io/) helpful [Pirate's Guide to R](https://ndphillips.github.io/piratesguide.html), which contains a nice section which helps one to get familiar with his package, [yarrr](https://ndphillips.github.io/yarrr.html), now available on [CRAN](https://cran.r-project.org/web/packages/yarrr/index.html), which is the package you need to create his game-changing Pirate Plots.
 
-Pirate plots also now have pre-set [Themes](https://www.r-bloggers.com/the-new-and-improved-pirateplot-now-with-themes/) That offer options with  everything set for you, but this post will cover custom adjustments and extra tweaks to create a publication ready pirate plot, as R-bloggers already covers the themes well.
+Pirate plots also now have pre-set [Themes](https://www.r-bloggers.com/the-new-and-improved-pirateplot-now-with-themes/) That offer options with  everything set for you, but this post will cover custom adjustments and extra tweaks to create a publication-ready pirate plot, as R-bloggers already covers the themes well.
 
 > To The Point: Why a Pirate Plot? Well it doesn't take much convincing when you examine the elements of a pirate plot below:
 
@@ -54,34 +54,46 @@ Below is the complete pirate palette offered. Of course, you can create your own
 </figure>
 
 ## NEXT: 
-Try out a standard pirate plot and compare it to a boring old barplot!
+Try out a standard pirate plot and compare it to a boring old barplot and a standard box and whiskers plot.
 
 {% highlight r %}
-# partition the document into two columns and set margin measurements
-par(mfrow = c(1, 2), mar=c(4,4.5,2,2))
-
-# A Standard Pirate Plot plot with no custom adjustments
-pirateplot(formula = beard.length ~ favorite.pirate,
-           data = pirates,
-           cex.names = .8,
-           xlab = "Favorite Pirate",
-           ylab = "Beard Length",
-           main = "My First Pirate Plot!")
+# partition the figure document into three columns and set margins
+par(mfrow = c(1, 3), mar=c(5,5,2,1))
 
 # Standard Barplot
 pirateplot(beard.length~favorite.pirate,
            data=pirates,
-           cex.names = .8,
+           cex.names = .5,
            main = "Boring Barplot",
+           xlab = " ",
+           ylab = " ",
            theme = 0, # Start from scratch
            bar.f.o = .7) # Just turn on the bars
+
+
+# And I even find pirate plots better than a boxplot because a boxplt can hide whats 
+# happening behind the summarized box and whiskers
+boxplot(beard.length~favorite.pirate,
+        data=pirates, cex.axis=0.75, mtext("Normal Boxplot", xlab="Favorite Pirate", 
+        font=2,side = 3, line = -1.5, cex=.75, outer = TRUE),
+        mtext("Favorite Pirate", 
+            font=2, side = 3, line = -52.5, cex=.75, outer = TRUE),
+                            title(ylab="Beard legnth"))
+
+# A Standard pirate plot with no adjustments shows you exactly whats happening with your data!
+pirateplot(formula = beard.length ~ favorite.pirate,
+           data = pirates,
+           cex.names = .5,
+           xlab = " ",
+           ylab = " ",
+           main = "My First Pirate Plot!")
 
 
 {% endhighlight %}
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/pirate_plot_vs_barplot.png" alt="">
-  <figcaption>Shark vs. Bear? Pirate Plot vs. Barplot! Jack Sparrows Beard vs. the world. </figcaption>
+  <figcaption>Shark vs. Bear? Pirate Plot vs. Barplot & Box plot! Jack Sparrows Beard vs. the world. </figcaption>
 </figure>
 
 
@@ -99,7 +111,7 @@ dfnlabels<-data.frame(nlabels)
 View(dfnlabels)
 
 
-# Then we will statistically test between the groups using a pairwise wilcox test
+# Then we will statistically test between the groups using a pairwise wilcox test (cause pirates ain't normal)
 test  <-  pairwise.wilcox.test(pirates$parrots, pirates$favorite.pirate, p.adj="bonferroni", exact=FALSE)
 
 test$p.value
@@ -110,7 +122,7 @@ a.pvals  <-  a.cc[, 3]
 names(a.pvals)  <-  paste(a.cc[, 1], a.cc[, 2], sep="-")
 a.pvals # How's your p-values looking?
 
-# Create letter labels to indicate the difference between groups
+# Create letter labels to indicate the difference between groups with 'MultcompView'
 ml<-multcompLetters(a.pvals,reversed = TRUE)
 
 # ....put those labels into a dataframe
@@ -129,7 +141,7 @@ dflabels<- merge(dfnlabels, dfml, by = c("Var1"))
 So now we have two data frames that we have merged together into two columns of one data frame; one that tells us how many data points comprise each variable, and one that indicates the statistical difference between our groups. We will use these to label our custom plot.
 
 ## AND FINALLY: 
-Create your very own custom pirate plot!
+Create your very own custom-tailored pirate plot!
 
 {% highlight r %}
 # Make your own custom color palette!
@@ -159,8 +171,8 @@ text(x = c(1,2,3,4,5,6), y=8.5 , labels=paste(dflabels$Letters), cex=1.2) #print
                                                                           #staistical differentitation 
                                                                          #between groups
 
-And of course querying 'Pirate Plot' will show you all custom specifications possible!
-??pirate plot # here
+And of course, querying 'Pirate Plot' will show you all custom specifications possible!
+??pirateplot # here
 
 {% endhighlight %}
 
@@ -169,7 +181,9 @@ And of course querying 'Pirate Plot' will show you all custom specifications pos
   <figcaption> Your first custom Pirate Plot! When using pirate plots in my work I use the following legend (to be amended, of course to anything you change in your custom pirate plot): RDI plots (Raw data, Descriptive and Inference statistics) show jittered points of raw data, centre bars indicate the mean of the data, beans outline the smoothed density of the data, whiskers mark the 10% and 90% quartiles of the data, and inference bands show the Bayesian 95% High Density Interval inferential statistics for each group. Numbers at the top of each group indicates the number of data points for each trait, and letters show statistical differences between groups.</figcaption>
 </figure>
 
-I have checked this legend with Nathan Philips and he agreed it was appropriate and descriptive. He asks when using yarrr in published work to always cite it! Pirate plots are now capable of having up to three independent variables displayed in one [plot](https://www.r-bloggers.com/the-yarrr-package-0-0-8-is-finally-on-cran/). For me, the bottom line is: Pirate plots help me and my readers understand the data better!
+I have checked this legend with Nathan Philips and he agreed it was appropriate and descriptive. He asks when using yarrr in published work to always cite it! Pirate plots are now capable of having up to three independent variables displayed in one [plot](https://www.r-bloggers.com/the-yarrr-package-0-0-8-is-finally-on-cran/). 
+
+> For me, the bottom line is: Pirate plots helps me and my readers understand the data better!
 
 I must be an outlier myself, as I am partial to Long John Silver as my favorite pirate, based on the show I've been watching, [Black Sails](https://youtu.be/Pvxpv_fycl8). I welcome any questions or comments you might have. Comment below.
 
