@@ -14,7 +14,7 @@ tags:
   - Rstats
 ---
 
-I have been using 'Pirate Plots' in alot of my work lately and have had a few inquiries as to how to create them. The answer is; it's easy. Here I present R code and use the example 'pirates' dataset from the package, 'yarrr' to demonstrate, how to get your pirate plots publication ready, and to your liking.
+I have been using `Pirate Plots` in alot of my work lately and have had a few inquiries as to how to create them. The answer is; it's easy. Here I present R code and use the example 'pirates' dataset from the package, `yarrr` to demonstrate, how to get your pirate plots publication ready, and to your liking.
 
 > Note: I first heard about Pirate Plots from [Rbloggers](https://www.r-bloggers.com/the-pirate-plot-an-r-pirates-favorite-plot/), who told me, 'Don't use barplots!', and showed me a convincing argument of  [why](https://www.r-bloggers.com/the-pirate-plot-2-0-the-rdi-plotting-choice-of-r-pirates/). I then found [Nathan Philips](https://ndphillips.github.io/) helpful [Pirate's Guide to R](https://ndphillips.github.io/piratesguide.html), which contains a nice section which helps one to get familiar with his package, [yarrr](https://ndphillips.github.io/yarrr.html), now available on [CRAN](https://cran.r-project.org/web/packages/yarrr/index.html), which is the package you need to create his game-changing Pirate Plots.
 
@@ -181,9 +181,9 @@ And of course, querying 'Pirate Plot' will show you all custom specifications po
   <figcaption> Your first custom Pirate Plot! When using pirate plots in my work I use the following legend (to be amended, of course to anything you change in your custom pirate plot): RDI plots (Raw data, Descriptive and Inference statistics) show jittered points of raw data, centre bars indicate the mean of the data, beans outline the smoothed density of the data, whiskers mark the 10% and 90% quartiles of the data, and inference bands show the Bayesian 95% High Density Interval inferential statistics for each group. Numbers at the top of each group indicates the number of data points for each trait, and letters show statistical differences between groups.</figcaption>
 </figure>
 
-I have checked this legend with Nathan Philips and he agreed it was appropriate and descriptive. He asks when using yarrr in published work to always cite it! Pirate plots are now capable of having up to three independent variables displayed in one [plot](https://www.r-bloggers.com/the-yarrr-package-0-0-8-is-finally-on-cran/). 
+I have checked this legend with Nathan Philips and he agreed it was appropriate and descriptive. He asks when using `yarrr` in published work to always cite it! `Pirate plots` are now capable of having up to three independent variables displayed in one [plot](https://www.r-bloggers.com/the-yarrr-package-0-0-8-is-finally-on-cran/). 
 
-> For me, the bottom line is: Pirate plots help me and my readers understand the data better!
+> For me, the bottom line is: `Pirate plots` help me and my readers understand the data better!
 
 I must be an outlier myself, as I am partial to Long John Silver as my favorite pirate, based on the show I've been watching, [Black Sails](https://youtu.be/Pvxpv_fycl8). I welcome any questions or comments you might have. Comment below.
 
