@@ -99,7 +99,7 @@ pirateplot(formula = beard.length ~ favorite.pirate,
 
 ## NEXT: 
 
-Prepare some data frames to label your future custom pirate plot. Next we will look at number of parrots per pirate next as its clear to us Jack Sparrows Beard wins. No further beard analysis necessary. We will labels our custom plot to clearly tell the reader the number of data points (who likes which pirate more?), and label the statistical differences between groups right on the plot, based in a piarwise.wilcox test using the package [MultcompView](https://cran.r-project.org/web/packages/multcompView/index.html). We will merge the data frames together into one using [sqldf](https://cran.r-project.org/web/packages/sqldf/index.html).
+Prepare some data frames to label your future custom pirate plot. Next we will look at number of parrots per pirate next as its clear to us Jack Sparrows Beard wins. No further beard analysis necessary. We will labels our custom plot to clearly tell the reader the number of data points (who likes which pirate more?), and label the statistical differences between groups right on the plot, based in a pairwise.wilcox test using the package [MultcompView](https://cran.r-project.org/web/packages/multcompView/index.html). We will merge the data frames together into one using [sqldf](https://cran.r-project.org/web/packages/sqldf/index.html).
 
 {% highlight r %}
 
@@ -133,7 +133,7 @@ dfml<-setNames(cbind(rownames(dfml), dfml, row.names = NULL),
 # ....and merge the label dataframes together using 'sqldf'
 dflabels<- merge(dfnlabels, dfml, by = c("Var1"))
 
-# I am well aware there are more elegant ways to do this. This is just my quick solution.
+# I am well aware there are more elegant ways to do this. This is just my quick solution. I welcome comments suggesting more elegant approaches. Elegancy in R is not yet my strong suit.
 
 {% endhighlight %}
 
@@ -183,7 +183,7 @@ And of course, querying 'Pirate Plot' will show you all custom specifications po
 
 I have checked this legend with Nathan Philips and he agreed it was appropriate and descriptive. He asks when using yarrr in published work to always cite it! Pirate plots are now capable of having up to three independent variables displayed in one [plot](https://www.r-bloggers.com/the-yarrr-package-0-0-8-is-finally-on-cran/). 
 
-> For me, the bottom line is: Pirate plots helps me and my readers understand the data better!
+> For me, the bottom line is: Pirate plots help me and my readers understand the data better!
 
 I must be an outlier myself, as I am partial to Long John Silver as my favorite pirate, based on the show I've been watching, [Black Sails](https://youtu.be/Pvxpv_fycl8). I welcome any questions or comments you might have. Comment below.
 
