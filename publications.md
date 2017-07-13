@@ -17,7 +17,6 @@ header:
 
 
 ## 2017
-
 * **Emma Ladouceur**, Borja Jiménez-Alfaro, Maria Marin, Marcello De Vitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh Pritchard. **2017** [Native Seed Supply and the Restoration Species Pool](http://onlinelibrary.wiley.com/doi/10.1111/conl.12381/abstract) *Conservation Letters* (Early View)
 
 * Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **2017** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology* (Early View)
@@ -32,7 +31,6 @@ header:
 
 
 ## Earlier
-
 * Sabastien Darchen, **Emma Ladouceur** (2012) Social sustainability in urban regeneration practice: case study of the Foritude Valley Renewal Plan. *Australian Planner* 50 (4): 340-350.
 
 * Sabastien Darchen, Simon Huston, **Emma Ladouceur** (2012) De-risking transport-oriented development regeneration. *Journal of Urban Regeneration and Renewal.* 5 (3): 224-234. 
@@ -41,10 +39,9 @@ header:
 {: .notice}
 
 ## Easy Reading
+* [Research, management and local knowledge: an innovative approach to invasive species control](https://jappliedecologyblog.wordpress.com/2017/07/06/research-management-and-local-knowledge/) *Journal of Applied Ecology Blog*. Research Summary, by Executive Editor Marc Cadotte.
 
-[Research, management and local knowledge: an innovative approach to invasive species control](https://jappliedecologyblog.wordpress.com/2017/07/06/research-management-and-local-knowledge/) *Journal of Applied Ecology Blog*. Research Summary, by Executive Editor Marc Cadotte.
 
-
-[Native Seed Supply & The Restoration Species Pool](http://ser-insr.org/news/2017/7/4/native-seed-supply-the-restoration-species-pool) *International Network for Seed-Based Restoration (INSR), Chapter of the Society for Ecological Restoration (SER), Blog*. Research Summary, By Emma Ladouceur.
+* [Native Seed Supply & The Restoration Species Pool](http://ser-insr.org/news/2017/7/4/native-seed-supply-the-restoration-species-pool) *International Network for Seed-Based Restoration (INSR), Chapter of the Society for Ecological Restoration (SER), Blog*. Research Summary, By Emma Ladouceur.
 {: .notice}
 
