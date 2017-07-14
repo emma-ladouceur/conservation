@@ -32,5 +32,5 @@ gallery:
 
 
 
-{% include gallery caption="Hawaii." %}
+{% include gallery caption="New Zeal!" %}
 
