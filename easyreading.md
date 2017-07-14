@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /easyreading/
 header:
-  overlay_image: /assets/images/blackdown_moss.jpg
+  overlay_image: /assets/images/lilypad.jpg
 ---
 
 ## Easy Reading
