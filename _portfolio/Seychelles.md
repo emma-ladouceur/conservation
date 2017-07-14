@@ -25,15 +25,40 @@ gallery:
   - url: /assets/images/seychelles/emma seychelles 2 165.jpg
     image_path: /assets/images/seychelles/emma seychelles 2 165.jpg
     alt: "placeholder image 4"
-  - url: /assets/images/seychelles/emma seychelles 2 204.jpg
-    image_path: /assets/images/seychelles/emma seychelles 2 204.jpg
-    alt: "placeholder image 5"
   - url: /assets/images/seychelles/palm treeedit1.jpg
     image_path: /assets/images/seychelles/palm treeedit1.jpg
     alt: "placeholder image 5"
+  - url: /assets/images/seychelles/emma seychelles 2 204.jpg
+    image_path: /assets/images/seychelles/emma seychelles 2 204.jpg
+    alt: "placeholder image 5"  
+  - url: /assets/images/seychelles/talltree.jpg
+    image_path: /assets/images/seychelles/talltree.jpg
+    alt: "placeholder image 5"  
+  - url: /assets/images/seychelles/stepsedit.jpg
+    image_path: /assets/images/seychelles/stepsedit.jpg
+    alt: "placeholder image 5"
+  - url: /assets/images/seychelles/IMG_6233.JPG
+    image_path: /assets/images/seychelles/IMG_6233.JPG
+    alt: "placeholder image 5"    
+  - url: /assets/images/seychelles/seychelleslandscapeedit1.jpg
+    image_path: /assets/images/seychelles/seychelleslandscapeedit1.jpg
+    alt: "placeholder image 5"  
+  - url: /assets/images/seychelles/sunsetpalmtressedit1.jpg
+    image_path: /assets/images/seychelles/sunsetpalmtressedit1.jpg
+    alt: "placeholder image 5"
+  - url: /assets/images/seychelles/emma seychelles 2 149.jpg
+    image_path: /assets/images/seychelles/emma seychelles 2 149.jpg
+    alt: "placeholder image 5"
+  - url: /assets/images/seychelles/play.jpg
+    image_path: /assets/images/seychelles/play.jpg
+    alt: "placeholder image 5"  
+  - url: /assets/images/seychelles/house.jpg
+    image_path: /assets/images/seychelles/house.jpg
+    alt: "placeholder image 5"
+  - url: /assets/images/seychelles/bay.jpg
+    image_path: /assets/images/seychelles/bay.jpg
+    alt: "placeholder image 5"   
 ---
-
-
 
 {% include gallery caption="Seychelles." %}
 

@@ -8,6 +8,8 @@ main:
     url: /publications
   - title: "CV"
     url: /cv
+  - title: "Easy Reading"
+    url: /easyreading
   - title: "Photography"
     url: /portfolio-archive/
   - title: "R Blog"
