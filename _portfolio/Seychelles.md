@@ -13,12 +13,12 @@ sidebar:
   - title: "Responsibilities"
     text: "Tropical Pacific Fish Biodiversity &amp; Abundance Surveys"
 gallery:
-  - url: /assets/images/seychelles/2665429993_176c6997e4_o.jpg
-    image_path: /assets/images/seychelles/2665429993_176c6997e4_o.jpg
-    alt: "placeholder image 1"
   - url: /assets/images/seychelles/beachnwatertreeedirt1.jpg
     image_path: /assets/images/seychelles/beachnwatertreeedirt1.jpg
     alt: "placeholder image 2"
+  - url: /assets/images/seychelles/2665429993_176c6997e4_o.jpg
+    image_path: /assets/images/seychelles/2665429993_176c6997e4_o.jpg
+    alt: "placeholder image 1"  
   - url: /assets/images/seychelles/beachwateredit1.jpg
     image_path: /assets/images/seychelles/beachwateredit1.jpg
     alt: "placeholder image 3"
