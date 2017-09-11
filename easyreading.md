@@ -8,9 +8,11 @@ header:
 ---
 
 ## Easy Reading
+* [Australian farmers & scientists make a surprise discovery when they team up to fight an invasive weed](https://ensia.com/articles/invasive/) *ENSIA*. By [Viki Cramer](https://twitter.com/VikiCramer).
+
 * [Native Seed Supply & The Restoration Species Pool](http://ser-insr.org/news/2017/7/4/native-seed-supply-the-restoration-species-pool) *International Network for Seed-Based Restoration (INSR) Blog*. Research Summary, By Emma Ladouceur.
 
-* [Research, management and local knowledge: an innovative approach to invasive species control](https://jappliedecologyblog.wordpress.com/2017/07/06/research-management-and-local-knowledge/) *Journal of Applied Ecology Blog*. Research Summary, by Executive Editor Marc Cadotte.
+* [Research, management and local knowledge: an innovative approach to invasive species control](https://jappliedecologyblog.wordpress.com/2017/07/06/research-management-and-local-knowledge/) *Journal of Applied Ecology Blog*. Research Summary, by Executive Editor [Marc Cadotte](https://twitter.com/urban_sci).
 {: .notice}
 
 ## Press Releases
