@@ -8,6 +8,8 @@ header:
 ---
 
 ## Easy Reading
+* [Scientists and farmers work together to wipe out African lovegrass](https://www.sciencedaily.com/releases/2017/09/170921101741.htm) *Science Daily*. By Queensland University of Technology.
+
 * [Australian farmers & scientists make a surprise discovery when they team up to fight an invasive weed](https://ensia.com/articles/invasive/) *ENSIA*. By [Viki Cramer](https://twitter.com/VikiCramer).
 
 * [Native Seed Supply & The Restoration Species Pool](http://ser-insr.org/news/2017/7/4/native-seed-supply-the-restoration-species-pool) *International Network for Seed-Based Restoration (INSR) Blog*. Research Summary, By Emma Ladouceur.
