@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 header:
   image: /assets/images/visual_cv.png
-date: 2017-07-04T18:38:52+00:00
+date: 2017-09-28T18:38:52+00:00
 ---
 
 
