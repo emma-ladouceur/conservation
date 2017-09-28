@@ -21,7 +21,7 @@ header:
 
 * Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **2017** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology* (Early View)
 
-* **Emma Ladouceur**, Margaret Morrow Mayfield. **2017** [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/full) *Restoration Ecology* volume 25, issue 5, 689-695. (Fire Treatments on Issue Cover)
+* **Emma Ladouceur**, Margaret Morrow Mayfield. **2017** [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/full) *Restoration Ecology*. Volume 25, Issue 5, 689-695. (Fire Treatments Featured on Issue Cover)
 {: .notice}
 
 ## Technical Reports
