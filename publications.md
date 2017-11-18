@@ -10,7 +10,7 @@ header:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
 
 ## In Revision
-* **Emma Ladouceur**, Borja Jiménez-Alfaro, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Costantino Bonomi. The regeneration niche and the trait spectrum of European temperate grasslands. *Journal of Vegetation Science*
+* **Emma Ladouceur**, Borja Jiménez-Alfaro, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Costantino Bonomi. The regeneration niche and the trait spectrum of European temperate grassland specialists. *Journal of Vegetation Science*
 
 * Maria Tudela-Isanta, **Emma Ladouceur**, Malaka Wijayasinghe, Hugh W. Pritchard, Andrea Mondoni. The seed germination niche limits the distribution of some plant species in calcareous or siliceous alpine bedrocks. *Alpine Botany*
 
