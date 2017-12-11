@@ -21,7 +21,7 @@ header:
 ## 2017
 * **Emma Ladouceur**, Borja Jiménez-Alfaro, Maria Marin, Marcello De Vitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh Pritchard. **2017** [Native Seed Supply and the Restoration Species Pool](http://onlinelibrary.wiley.com/doi/10.1111/conl.12381/abstract) *Conservation Letters* (Early View)
 
-* Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **2017** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology*, **Editors Pick** (Early View)
+* Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **2018** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology*, **Editors Pick** , Volume 55, Issue 1, Pages 321-330.
 
 * **Emma Ladouceur**, Margaret Morrow Mayfield. **2017** [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/full) *Restoration Ecology*. Volume 25, Issue 5, 689-695. (Fire Treatments Featured on Issue Cover)
 {: .notice}
