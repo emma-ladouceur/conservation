@@ -23,7 +23,7 @@ header:
 {: .notice}
 
 ## 2017
-* **Emma Ladouceur**, Borja Jiménez-Alfaro, Maria Marin, Marcello De Vitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh Pritchard. **2017** [Native Seed Supply and the Restoration Species Pool](http://onlinelibrary.wiley.com/doi/10.1111/conl.12381/abstract) *Conservation Letters* (Early View)
+* **Emma Ladouceur**, Borja Jiménez-Alfaro, Maria Marin, Marcello De Vitis, Holly Abbandonato, Pietro Iannetta, Costantino Bonomi, Hugh W. Pritchard. **2017** [Native Seed Supply and the Restoration Species Pool](http://onlinelibrary.wiley.com/doi/10.1111/conl.12381/abstract) *Conservation Letters* (Early View)
 
 * **Emma Ladouceur**, Margaret Morrow Mayfield. **2017** [The early response of subtropical grasslands to restoration treatments](http://onlinelibrary.wiley.com/doi/10.1111/rec.12491/full) *Restoration Ecology*. Volume 25, Issue 5, 689-695. (Fire Treatments Featured on Issue Cover)
 {: .notice}
