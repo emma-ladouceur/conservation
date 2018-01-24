@@ -17,7 +17,7 @@ header:
 
 
 ## 2018
-* Maria Tudela-Isanta, **Emma Ladouceur**, Malaka Wijayasinghe, Hugh W. Pritchard, Andrea Mondoni. **In Press** The seed germination niche limits the distribution of some plant species in calcareous or siliceous alpine bedrocks. *Alpine Botany*
+* Maria Tudela-Isanta, **Emma Ladouceur**, Malaka Wijayasinghe, Hugh W. Pritchard, Andrea Mondoni. **2018** [The seed germination niche limits the distribution of some plant species in calcareous or siliceous alpine bedrocks.](https://link.springer.com/article/10.1007/s00035-018-0199-0) *Alpine Botany*
 
 * Jennifer Firn, **Emma Ladouceur**, Josh Dorrough. **2018** [Integrating local knowledge and scientific surveys to assess the impacts of an invasive exotic grass on critically endangered grassy woodlands](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12928/full) *Journal of Applied Ecology*, **Editors Pick** , Volume 55, Issue 1, 321-330.
 {: .notice}
