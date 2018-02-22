@@ -9,7 +9,7 @@ comments: true
 share: true
 related: true
 tags:
-  - Learning
+  - Photography
 ---
 
 
