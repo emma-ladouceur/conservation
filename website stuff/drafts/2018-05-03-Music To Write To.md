@@ -13,7 +13,7 @@ tags:
 ---
 
 
-Writing ain't easy. It helps to have good music to write to. When I have good music lined up, I really look forward to getting my writing groove on. I prefer music with minimal lyrics, or without lyrics all together. Unfortunately i find jazz distracting. Here I share some of my favorite writing playlists I've compiled on YouTube and I will be adding to them so anyone can access and share them.
+Writing ain't easy. I once saw a writing coach who told me, writing as part of your profession should be treated like olympic training, *'train and practice'* they advised me, and, *'don't be hard on yourself'*, because writing is *never perfect* and extremely *subjective*. It helps to have good music to write to. When I have good music lined up, I really look forward to getting my writing groove on. I prefer music with minimal lyrics, or without lyrics all together. Unfortunately i find jazz distracting. Here I share some of my favorite writing playlists I've compiled on my YouTube channel and I will be adding to them so anyone can access and share them. Enjoy!
 
 ## Ambient Writing Music *(Is My Favorite)*:
 
