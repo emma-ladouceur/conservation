@@ -10,8 +10,12 @@ header:
 ## This Site
 Welcome to my personal research website. I'll be using this site for sharing updates on my career, research articles, R code, MARXAN, and blog posts. I taught myself to build this page with help from the [Algonquin College Desgin School You Tube Videos](https://www.youtube.com/user/acinteractivedesign/videos), [Github pages](https://guides.github.com/features/pages/), and from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/). 
 
+## Current Research
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/idiv logo.png){: .align-center}
+Check out my personal iDiv [profile](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html). In the [Biodiversity Synthesis Group](https://www.idiv.de/groups_and_people/core_groups/synthesis/research_areas.html) & Physiological Diversity Lab I am focused on Community Assembly and Ecosystem Function [(CAFE)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895). We will be using datasets from long-term and [global experiments](http://www.nutnet.umn.edu/), collecting donated data for meta-analyses, and developing new tools to lead the next generation of ecosystem-biodiversity interaction studies.
 
-## Research, Background & Reviewer Statment
+
+## Background & Reviewer Statment
 I am a vegetation and seed ecologist interested in applied practical research, systematic decision making, and solutions to address the most pressing issues in restoration ecology, conservation biology and ecosystem function.
 
 I am formally trained in planning (urban & environmental), environmental management and conservation biology. I am able to peer review research articles surrounding any of these topics. Please see my Publications & CV in the navigation menu above for more details. Please see my review experience by clicking on my *Publons* profile in the menu to the left.
