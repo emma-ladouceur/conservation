@@ -30,7 +30,7 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+          <i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
         </li>
       {% endif %}
 
@@ -46,7 +46,7 @@
         <li>
           <a href="mailto:{{ author.email }}">
             <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
           </a>
         </li>
       {% endif %}
@@ -62,7 +62,7 @@
       {% if author.twitter %}
         <li>
           <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
       {% endif %}
@@ -78,7 +78,7 @@
       {% if author.google_plus %}
         <li>
           <a href="https://plus.google.com/+{{ author.google_plus }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
+            <i class="fab fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
           </a>
         </li>
       {% endif %}
@@ -223,7 +223,7 @@
        {% if author.researchgate %}
         <li>
           <a href="https://www.researchgate.net/profile/{{ author.researchgate }}" itemprop="sameAs">
-            <i class="fa fa-file-o" aria-hidden="true"></i>  Research Gate
+            <i class="far fa-file" aria-hidden="true"></i>  Research Gate
           </a>
         </li>
       {% endif %}
@@ -231,7 +231,7 @@
         {% if author.publons %}
         <li>
           <a href="https://publons.com/author/{{ author.publons }}" itemprop="sameAs">
-            <i class="fa fa-check-circle" aria-hidden="true"></i>  Publons
+            <i class="fas fa-check-circle" aria-hidden="true"></i>  Publons
           </a>
         </li>
       {% endif %}
@@ -239,7 +239,7 @@
 {% if author.googlescholar %}
         <li>
           <a href="https://scholar.google.com.au/{{ author.googlescholar }}" itemprop="sameAs">
-            <i class="fa fa-google-plus-square" aria-hidden="true"></i>  Google Scholar
+            <i class="fab fa-google-plus" aria-hidden="true"></i>  Google Scholar
           </a>
         </li>
       {% endif %}
@@ -247,7 +247,7 @@
 {% if author.orcid %}
         <li>
           <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
-            <i class="fa fa-pencil-square" aria-hidden="true"></i>  ORCID
+            <i class="fas fa-pen-square" aria-hidden="true"></i>  ORCID
           </a>
         </li>
       {% endif %}           
