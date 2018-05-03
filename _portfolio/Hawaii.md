@@ -1,6 +1,6 @@
 ---
 title: "Hawaii"
-excerpt: "The Big Island-8 of the worlds 13 climate zones"
+excerpt: "The Big Island-10 of the worlds 14 climate zones"
 layout: single
 header:
   image: /assets/images/hawaii/header.JPG
