@@ -21,14 +21,14 @@ Thank you to the at the [Association of German native seed and plant producers (
 
 
 <figure class="third">
-	<img src="/conservation/assets/images//seeds/seeds_for_restoration_Farming_for_biodiversity_3_Emma_Ladouceur.jpg">
+	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_3_Emma_Ladouceur.jpg">
 	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_2_Emma_Ladouceur.jpg">
 	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_5_Emma_Ladouceur.jpg">
 </figure>
 
 <figure class="half">
-    <a href="/conservation/assets/images/image-filename-1-large.jpg"><img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_1_Emma_Ladouceur.jpg"></a>
-    <a href="/conservation/assets/images/image-filename-2-large.jpg"><img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_4_Emma_Ladouceur.jpg"></a>
+    <a href="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_1_Emma_Ladouceur.jpg"><img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_1_Emma_Ladouceur.jpg"></a>
+    <a href="//conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_4_Emma_Ladouceur.jpg"><img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_4_Emma_Ladouceur.jpg"></a>
 </figure>
 
 <figure class="third">
