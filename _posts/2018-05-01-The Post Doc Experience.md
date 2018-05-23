@@ -13,7 +13,7 @@ tags:
 ---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/idiv_banner2.png){: .align-center}
 
-I feel very fortunte to be starting a Postdoctoral Fellowship with the German Centre for Integrative Biodiversity aka [iDiv](https://www.idiv.de/), in Leipzig, Germany today! It's strange because I am not physically there, I am away taking a Structural Equation Modelling course. But a symbolic day for me nonetheless, so a few notes from the road. What's in a title? Does the mental transition from PhD student to postdoc happen instantly, or will it take time? I wonder if Alice in Wonderland has some cookies for that. Either way, I'm excited.
+I feel very fortunate to be starting a Postdoctoral Fellowship with the German Centre for Integrative Biodiversity aka [iDiv](https://www.idiv.de/), in Leipzig, Germany today! It's strange because I am not physically there, I am away taking a Structural Equation Modelling course. But a symbolic day for me nonetheless, so a few notes from the road. What's in a title? Does the mental transition from PhD student to postdoc happen instantly, or will it take time? I wonder if Alice in Wonderland has some cookies for that. Either way, I'm excited.
 
 I am joining Jonathan Chase's [Biodiversity Synthesis](https://www.idiv.de/groups_and_people/core_groups/synthesis.html) Group, & Stan Harpole's [Physiological Diversity](https://www.idiv.de/groups_and_people/core_groups/physiological_diversity.html) Group to look at the mechanisms of Community Assembly on Ecosystem Function- newly dubbed, the [CAFE](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895) approach by a previous iDiv- [sDiv](https://www.idiv.de/sdiv.html) working group.
 
