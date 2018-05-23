@@ -21,7 +21,7 @@ Thank you to the at the [Association of German native seed and plant producers (
 
 
 <figure class="third">
-	<img src="/assets/images//seeds/seeds_for_restoration_Farming_for_biodiversity_3_Emma_Ladouceur.jpg">
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images//seeds/seeds_for_restoration_Farming_for_biodiversity_3_Emma_Ladouceur.jpg">
 	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_2_Emma_Ladouceur.jpg">
 	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_5_Emma_Ladouceur.jpg">
 </figure>
@@ -32,7 +32,7 @@ Thank you to the at the [Association of German native seed and plant producers (
 </figure>
 
 <figure class="third">
-	<img src="/assets/images//seeds/seeds_for_restoration_Farming_for_biodiversity_6_Emma_Ladouceur.jpg">
+	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_6_Emma_Ladouceur.jpg">
 	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_7_Emma_Ladouceur.jpg">
 	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_8_Emma_Ladouceur.jpg">
 	<figcaption>Native Seed farms in East Germany.</figcaption>
