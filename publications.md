@@ -11,7 +11,6 @@ header:
 
 ## In Revision
 * **Emma Ladouceur**, Costantino Bonomi, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Borja Jiménez-Alfaro. The functional species pool of European temperate grasslands *Journal of Vegetation Science*
-
 {: .notice}
 
 
