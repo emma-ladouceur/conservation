@@ -12,13 +12,13 @@ Welcome to my personal research website. I'll be using this site for sharing upd
 
 ## Current Research
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/idiv logo.png){: .align-center}
-Check out my personal iDiv [profile](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html). In the [Biodiversity Synthesis Group](https://www.idiv.de/groups_and_people/core_groups/synthesis/research_areas.html) & [Physiological Diversity Lab](https://www.idiv.de/groups_and_people/core_groups/physiological_diversity.html) I am focused on Community Assembly and Ecosystem Function [(CAFE)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895). We will be using datasets from long-term and [global experiments](http://www.nutnet.umn.edu/), collecting donated data for meta-analyses, and developing new tools to lead the next generation of ecosystem-biodiversity interaction studies.
+Check out my personal iDiv [profile](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html). In the [Biodiversity Synthesis Group](https://www.idiv.de/groups_and_people/core_groups/synthesis/research_areas.html) & [Physiological Diversity Lab](https://www.ufz.de/index.php?de=34230) I am focused on Community Assembly and Ecosystem Function [(CAFE)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895). We will be using datasets from long-term and [global experiments](http://www.nutnet.umn.edu/), collecting donated data for meta-analyses, and developing new tools to lead the next generation of ecosystem-biodiversity interaction studies.
 
 
 ## Background & Reviewer Statment
 I am a vegetation and seed ecologist interested in applied practical research, systematic decision making, and solutions to address the most pressing issues in restoration ecology, conservation biology and ecosystem function.
 
-I am formally trained in planning (urban & environmental), environmental management and conservation biology. I am able to peer review research articles surrounding any of these topics. Please see my Publications & CV in the navigation menu above for more details. Please see my review experience by clicking on my *Publons* profile in the menu to the left.
+I am formally trained in planning (urban & environmental), environmental management, ecology and conservation biology. I am able to peer review research articles surrounding any of these topics. Please see my Publications & CV in the navigation menu above for more details. Please see my review experience by clicking on my *Publons* profile in the menu to the left.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/fieldwork.jpg){: .align-center}
 
