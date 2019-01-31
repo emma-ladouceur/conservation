@@ -10,14 +10,16 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 locale                   : "en"
 title                    : "Emma Ladouceur"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Emma Ladouceur"
-description              : "Conservation Science &amp; Photography"
+description              : "Conservation & Restoration Ecology"
 url                      :  https://emma-ladouceur.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /conservation # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+repository               : emma-ladouceur/conservation
+teaser                   : "/assets/images/reflection2.jpeg"
+logo                     : "/assets/images/idiv_circle.png"
+masthead_title           : "Custom Title"
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               :  "disqus"
@@ -74,7 +76,7 @@ analytics:
 author:
   name             : "Emma Ladouceur"
   avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Conservation Science &amp; Photography"
+  bio              : "Research Ecologist"
   location         : "Leipzig, Germany"
   email            : "emmala[at]gmail[dot]com"
   uri              :

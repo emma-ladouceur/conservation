@@ -1,6 +1,8 @@
 ---
 title: "Music To Write To"
 author: Emma Ladouceur
+header:
+  teaser: /assets/images/pine.jpeg
 layout: single
 share: true
 author_profile: true

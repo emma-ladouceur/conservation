@@ -1,6 +1,9 @@
 ---
 title: "Published Cover Photo"
 author: Emma Ladouceur
+header:
+  teaser: /assets/images/publications banner/Restoration_Ecology_Emma_Ladouceur.png
+
 layout: single
 share: true
 author_profile: true

@@ -1,6 +1,8 @@
 ---
 title: "Essential Ecology Books"
 layout: single
+header:
+  teaser: /assets/images/birch.jpeg
 share: true
 author_profile: true
 read_time: true

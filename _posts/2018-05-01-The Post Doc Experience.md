@@ -1,5 +1,7 @@
 ---
 title: "The Postdoc Experience"
+header:
+  teaser: /assets/images/reflection.jpeg
 author: Emma Ladouceur
 layout: single
 share: true

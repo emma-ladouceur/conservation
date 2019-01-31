@@ -12,7 +12,7 @@ Welcome to my personal research website. I'll be using this site for sharing upd
 
 ## Current Research
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/idiv logo.png){: .align-center}
-Check out my personal iDiv [profile](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html). In the [Biodiversity Synthesis Group](https://www.idiv.de/groups_and_people/core_groups/synthesis/research_areas.html) & [Physiological Diversity Lab](https://www.ufz.de/index.php?de=34230) I am focused on Community Assembly and Ecosystem Function [(CAFE)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895). We will be using datasets from long-term and [global experiments](http://www.nutnet.umn.edu/), collecting donated data for meta-analyses, and developing new tools to lead the next generation of ecosystem-biodiversity interaction studies.
+Check out my personal iDiv [profile](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html). In the [Biodiversity Synthesis Group](https://www.idiv.de/groups_and_people/core_groups/synthesis/research_areas.html) & [Physiological Diversity Lab](https://www.ufz.de/index.php?de=34230) I am focused on Community Assembly & The Functioning of Ecosystems [(CAFE)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895). We will be using datasets from long-term and [global experiments](http://www.nutnet.umn.edu/), collecting open source and donated data for meta-analyses, and developing new tools to lead the next generation of ecosystem-biodiversity interaction studies.
 
 
 ## Background & Reviewer Statment

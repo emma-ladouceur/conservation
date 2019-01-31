@@ -1,6 +1,8 @@
 ---
 title: "Native Seed Supply & The RSP"
 author: Emma Ladouceur
+header:
+ teaser: /assets/images/alpine meadows/meadow.jpg
 layout: single
 share: true
 author_profile: true

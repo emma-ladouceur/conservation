@@ -1,6 +1,8 @@
 ---
 title: "Farming for Biodiversity"
 author: Emma Ladouceur
+header:
+  teaser: /assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_2_Emma_Ladouceur.jpg
 layout: single
 share: true
 author_profile: true
