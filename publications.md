@@ -5,6 +5,7 @@ author_profile: true
 permalink: /publications/
 header:
   overlay_image: /assets/images/blackdown_moss.jpg
+classes: wide  
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
@@ -14,11 +15,9 @@ header:
 * **Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro. An objective-based prioritization approach to deliver ecosystem functions for ecological restoration.
 {: .notice}
 
-## In Press
-* **Emma Ladouceur**, Costantino Bonomi, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans C. Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Borja Jiménez-Alfaro. The functional trait spectrum of European temperate grasslands *Journal of Vegetation Science*
-{: .notice}
-
 ## 2019
+* **Emma Ladouceur**, Costantino Bonomi, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans C. Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Borja Jiménez-Alfaro. **In Press** The functional trait spectrum of European temperate grasslands. *Journal of Vegetation Science*.
+
 * Jennifer Firn, James M. McGree, Eric Harvey, Habacuc Flores-Moreno, Martin Schütz, Yvonne M. Buckley, Elizabeth T. Borer  , Eric W. Seabloom  , Kimberly J. La Pierre, Andrew M. MacDougall, Suzanne M. Prober, Carly J. Stevens, Lauren L. Sullivan, Erica Porter, **Emma Ladouceur**, Charlotte Allen, Karine H. Moromizato, John W. Morgan, W. Stanley Harpole, Yann Hautier, Nico Eisenhauer, Justin P. Wright, Peter B. Adler, Carlos Alberto Arnillas, Jonathan D. Bakker, Lori Biederman, Arthur A. D. Broadbent, Cynthia S. Brown, Miguel N. Bugalho, Maria C. Caldeira, Elsa E. Cleland, Anne Ebeling, Philip A. Fay, Nicole Hagenah, Andrew R. Kleinhesselink, Rachel Mitchell, Joslin L. Moore, Carla Nogueira, Pablo Luis Peri, Christiane Roscher, Melinda D. Smith, Peter D. Wragg & Anita C. Risch **2019** [Leaf nutrients, not specific leaf area, are consistent indicators of elevated nutrient inputs.](https://doi.org/10.1038/s41559-018-0790-1) *Nature Ecology & Evolution* [Interactive Figure](https://evidentlyso.com.au/clients/qut/functionalTraits0120/)
 {: .notice}
 

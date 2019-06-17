@@ -124,7 +124,7 @@ Upcoming presentations and opportunities to connect & chat:
  {: .notice--success}
 
 ## Participate
-Get in touch with us for any questions, comments, inquiries or discussion. We welcome your input and the participation of anyone from anywhere!
+Get in touch with us for any questions, comments, inquiries or discussion. We welcome your input and the participation of anyone from anywhere! Use the form below or email Emma Ladouceur: emmala (at) gmail.com
 {: .notice--primary}
 <form action="https://formspree.io/emmala@gmail.com"
       method="POST">

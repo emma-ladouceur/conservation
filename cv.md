@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 header:
   image: /assets/images/visual_cv.png
+classes: wide    
 date: 2018-05-01T18:38:52+00:00
 ---
 

@@ -16,22 +16,22 @@ intro:
   - excerpt: 'Core Project Team'
 feature_row:
   - image_path: assets/images/restore/team/emma_small2.jpg
-    image_caption: "[Emma Ladouceur](https://emma-ladouceur.github.io//conservation/about/), Organiser, Postdoc, iDiv"
+    image_caption: "[Emma Ladouceur](https://emma-ladouceur.github.io//conservation/about/), Organiser, Postdoc, Biodiversity Synthesis & Physiological Diversity, iDiv"
     alt: "placeholder image 1"
   - image_path: /assets/images/restore/team/jonathan_chase.jpg
-    image_caption: "[Jonathan M. Chase](https://www.idiv.de/groups_and_people/core_groups/synthesis.html), Professor, iDiv"
+    image_caption: "[Jonathan M. Chase](https://www.idiv.de/groups_and_people/core_groups/synthesis.html), Professor, Biodiversity Synthesis, iDiv"
     alt: "placeholder image 2"
   - image_path: /assets/images/restore/team/stan_small2.jpg
-    image_caption: "[Stanley Harpole](https://www.ufz.de/index.php?de=34230), Professor, iDiv"
+    image_caption: "[Stanley Harpole](https://www.ufz.de/index.php?de=34230), Professor, Physiological Diversity, iDiv"
 feature_row2:
   - image_path: /assets/images/restore/team/holly_small.jpg
-    image_caption: "[Holly P. Jones](https://hjones82.wixsite.com/website), Associate Professor, Northern Illinois University"
+    image_caption: "[Holly P. Jones](https://hjones82.wixsite.com/website), Associate Professor, Biological Sciences, Northern Illinois University"
     alt: "placeholder image 2"
   - image_path: /assets/images/restore/team/lars_small.jpg
-    image_caption: "[Lars Brudvig](https://brudviglab.plantbiology.msu.edu/), Associate Professor, Michigan State University"
+    image_caption: "[Lars Brudvig](https://brudviglab.plantbiology.msu.edu/), Associate Professor, Plant Biology, Michigan State University"
     alt: "placeholder image 2"
   - image_path: /assets/images/restore/team/nancy4.jpg
-    image_caption: "[Nancy Shakelford](https://www.restorationscience.net/), Postdoc, University of Colorado Boulder"
+    image_caption: "[Nancy Shakelford](https://www.restorationscience.net/), Postdoc, Institute of Arctic & Alpine Research, University of Colorado Boulder"
     alt: "placeholder image 2"
 ---
 

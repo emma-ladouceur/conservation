@@ -5,6 +5,7 @@ author_profile: true
 permalink: /about/
 header:
   overlay_image: /assets/images/rock.jpg
+classes: wide    
 ---
 
 ## This Site

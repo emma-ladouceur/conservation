@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "All Posts"
-    url: /year-archive/
   - title: "Publications"
     url: /publications/
   - title: "Projects"
@@ -11,11 +9,11 @@ main:
   - title: "CV"
     url: /cv
   - title: "Easy Reading"
-    url: /easyreading
-  - title: "Photography"
-    url: /portfolio-archive/
+    url: /easyreading/
   - title: "R Blog"
     url: /categories/rstats/
+  - title: "All Posts"
+    url: /year-archive/
 
       
 

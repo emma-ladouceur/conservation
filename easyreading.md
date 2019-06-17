@@ -5,6 +5,7 @@ author_profile: true
 permalink: /easyreading/
 header:
   overlay_image: /assets/images/lilypad.jpg
+classes: wide    
 ---
 
 ## Easy Reading

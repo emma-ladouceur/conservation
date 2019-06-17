@@ -9,15 +9,15 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 locale                   : "en"
-title                    : "Emma Ladouceur"
+title                    : "Home"
 title_separator          : "|"
 name                     : "Emma Ladouceur"
 description              : "Conservation & Restoration Ecology"
 url                      :  https://emma-ladouceur.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /conservation # the subpath of your site, e.g. "/blog"
 repository               : emma-ladouceur/conservation
-teaser                   : "/assets/images/reflection2.jpeg"
-logo                     : "/assets/images/idiv_circle.png"
+teaser                   : 
+logo                     : 
 masthead_title           : "Custom Title"
 breadcrumbs              : true
 words_per_minute         : 200
