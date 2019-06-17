@@ -21,7 +21,7 @@ sidebar:
     text: "To collaborate & learn what works & what doesn't to rapidly improve restoration outcomes as the decade of restoration begins."
     nav: sidebar-sample
   - title: "Collaboration"
-    text: "Meet our [Team](https://emma-ladouceur.github.io//conservation/projects/Restoration-Synthesis/team/)"
+    text: "Meet our [Team](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/)"
 share: true
 comments: true
 read_time: true
@@ -46,7 +46,7 @@ We are in the process of developing a large, cross-cutting and collaborative eff
 {: .notice--warning}
 
 ## Team
-Please see our core team [here](https://emma-ladouceur.github.io//conservation/projects/Restoration-Synthesis/team/). Project organiser, [Emma Ladouceur](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html) is a postdoc with the [Biodiversity Synthesis](https://www.idiv.de/groups_and_people/core_groups/synthesis/people.html) & [Physiological Diversity](https://www.ufz.de/index.php?de=38876) groups at the German Centre for Integrartive Biodiversity Research (iDiv) in Leipzig, Germany. She is supported by [iDiv](https://www.idiv.de/), Martin Luther University & The Hemholtz Centre for Environmental Research [(UFZ)](https://www.ufz.de/index.php?de=45949). She will initiate with the support of iDiv and continue this work with the support of the [Alexander Von Humboldt Foundation](https://www.humboldt-foundation.de/web/home.html) as a postdoctoral fellow.
+Please see our core team [here](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/). Project organiser, [Emma Ladouceur](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html) is a postdoc with the [Biodiversity Synthesis](https://www.idiv.de/groups_and_people/core_groups/synthesis/people.html) & [Physiological Diversity](https://www.ufz.de/index.php?de=38876) groups at the German Centre for Integrartive Biodiversity Research (iDiv) in Leipzig, Germany. She is supported by [iDiv](https://www.idiv.de/), Martin Luther University & The Hemholtz Centre for Environmental Research [(UFZ)](https://www.ufz.de/index.php?de=45949). She will initiate with the support of iDiv and continue this work with the support of the [Alexander Von Humboldt Foundation](https://www.humboldt-foundation.de/web/home.html) as a postdoctoral fellow.
 {: .notice--info}
 
 ## Focus

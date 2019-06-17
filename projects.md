@@ -3,8 +3,6 @@ title: "Projects"
 layout: splash
 permalink: /projects/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
   overlay_image: /assets/images/restore/fly.JPG
   caption: "Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
   cta_label: "The Time is Now"

@@ -2,7 +2,7 @@
 title: "Team"
 permalink: /projects/Restoration-Synthesis/team/
 author: Emma Ladouceur
-layout: splash
+layout: single
 header:
   teaser: /assets/images/reflection.jpeg
   overlay_image: /assets/images/restore/spoonbills.jpg
@@ -12,6 +12,16 @@ header:
 excerpt: "Restoration Sythesis Project"
 classes: wide
 author_profile: false
+sidebar:
+  - title: "Aim: Restoration Synthesis"
+    image: /assets/images/restore/alpine_walk.jpg
+    image_alt: "image"
+    text: "Compile existing restoration data, across ecosystems & restoration actions. "
+  - title: "Why?"
+    text: "To collaborate & learn what works & what doesn't to rapidly improve restoration outcomes as the decade of restoration begins."
+    nav: sidebar-sample
+  - title: "Project"
+    text: "Back to [Project Page](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/)"
 intro: 
   - excerpt: 'Core Project Team'
 feature_row:
