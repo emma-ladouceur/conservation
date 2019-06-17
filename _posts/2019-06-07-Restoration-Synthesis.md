@@ -6,7 +6,7 @@ layout: single
 header:
   teaser: /assets/images/reflection.jpeg
   overlay_image: /assets/images/restore/soil.jpg
-  caption: "Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io//conservation/portfolio-archive/)"
+  caption: "Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
   cta_label: "The Time is Now"
   cta_url: "https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity"
 excerpt: "The United Nations Decade on Ecosystem Restoration: 2021 - 2030"

@@ -13,7 +13,7 @@ title                    : "Home"
 title_separator          : "|"
 name                     : "Emma Ladouceur"
 description              : "Conservation & Restoration Ecology"
-url                      :  https://emma-ladouceur.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://emma-ladouceur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /conservation # the subpath of your site, e.g. "/blog"
 repository               : emma-ladouceur/conservation
 teaser                   : 
