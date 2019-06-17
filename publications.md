@@ -9,8 +9,13 @@ header:
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
 
-## In Revision
-* **Emma Ladouceur**, Costantino Bonomi, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Borja Jiménez-Alfaro. The functional trait spectrum of European temperate grasslands *Journal of Vegetation Science*
+
+## In Review
+* **Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro. An objective-based prioritization approach to deliver ecosystem functions for ecological restoration.
+{: .notice}
+
+## In Press
+* **Emma Ladouceur**, Costantino Bonomi, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans C. Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Borja Jiménez-Alfaro. The functional trait spectrum of European temperate grasslands *Journal of Vegetation Science*
 {: .notice}
 
 ## 2019

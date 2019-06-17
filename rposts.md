@@ -1,8 +1,8 @@
 ---
 title: "R blog"
-layout: archive
-permalink: /rposts/
-category: Rstats
+layout: category
+permalink: /categories/rstats/
+taxonomy: Rstats
 author_profile: true
 header:
   overlay_image: /assets/images/leaf.jpg

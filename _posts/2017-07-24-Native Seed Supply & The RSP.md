@@ -11,7 +11,7 @@ comments: true
 share: true
 related: true
 tags:
-  - Seed Science
+  - Restoration
 ---
 
 I am very excited that my most recent research resulting from my PhD dissertation has [been published](http://onlinelibrary.wiley.com/doi/10.1111/conl.12381/abstract) *open access* in the Journal of [Conservation Letters](http://bit.ly/1cYk4HL), a Journal of the [Society of Conservation Biology](https://conbio.org/) !

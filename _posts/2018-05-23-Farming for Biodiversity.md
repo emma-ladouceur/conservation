@@ -11,7 +11,7 @@ comments: true
 share: true
 related: true
 tags:
-  - Seed Science
+  - Restoration
 ---
 
 
@@ -23,19 +23,19 @@ Thank you to the at the [Association of German native seed and plant producers (
 
 
 <figure class="third">
-	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_3_Emma_Ladouceur.jpg">
-	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_2_Emma_Ladouceur.jpg">
-	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_5_Emma_Ladouceur.jpg">
+	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_3_Emma_Ladouceur.jpg">
+	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_2_Emma_Ladouceur.jpg">
+	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_5_Emma_Ladouceur.jpg">
 </figure>
 
 <figure class="half">
-    <a href="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_1_Emma_Ladouceur.jpg"><img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_1_Emma_Ladouceur.jpg"></a>
-    <a href="//conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_4_Emma_Ladouceur.jpg"><img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_4_Emma_Ladouceur.jpg"></a>
+    <a href="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_1_Emma_Ladouceur.jpg"><img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_1_Emma_Ladouceur.jpg"></a>
+    <a href="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_4_Emma_Ladouceur.jpg"><img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_4_Emma_Ladouceur.jpg"></a>
 </figure>
 
 <figure class="third">
-	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_6_Emma_Ladouceur.jpg">
-	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_7_Emma_Ladouceur.jpg">
-	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_8_Emma_Ladouceur.jpg">
+	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_6_Emma_Ladouceur.jpg">
+	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_7_Emma_Ladouceur.jpg">
+	<img src="/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_8_Emma_Ladouceur.jpg">
 	<figcaption>Native Seed farms in East Germany.</figcaption>
 </figure>

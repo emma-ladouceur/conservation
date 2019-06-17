@@ -1,10 +1,10 @@
 ---
-title: "R Post Archive"
+title: "Category Archive"
 layout: archive
 permalink: /categories/
 author_profile: true
 header:
-  overlay_image: /assets/images/leaf.jpg
+  overlay_image: /assets/images/alpine meadows/flowerpower.JPG
 ---
 
 {% include base_path %}
