@@ -21,7 +21,7 @@ sidebar:
     text: "To collaborate & learn what works & what doesn't to rapidly improve restoration outcomes as the decade of restoration begins."
     nav: sidebar-sample
   - title: "Collaboration"
-    text: "Meet our [Team](https://emma-ladouceur.github.io/projects/restoration-synthesis/team/)"
+    text: "Meet our [Team](https://emma-ladouceur.github.io//conservation/projects/Restoration-Synthesis/team/)"
 share: true
 comments: true
 read_time: true
@@ -86,9 +86,9 @@ Initially, we will focus data collection efforts on the systems and restoration 
 | Terrestrial | Passive | Tundra | Removal of disturbance | Plants | Richness & Cover |
 
 <figure class="third">
-  <img src="/assets/images/restore/marine1.jpg">
-  <img src="/assets/images/restore/terrestrial.jpeg">
-  <img src="/assets/images/restore/freshwater1.jpg">
+  <img src="/conservation/assets/images/restore/marine1.jpg">
+  <img src="/conservation/assets/images/restore/terrestrial.jpeg">
+  <img src="/conservation/assets/images/restore/freshwater1.jpg">
   <figcaption>Systems of future focus.</figcaption>
 </figure>
 
@@ -139,9 +139,9 @@ Get in touch with us for any questions, comments, inquiries or discussion. We we
 Join us as a collaborator! Check out our core [team](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/).
 {: .notice--success}
 <figure class="third">
-	<img src="/assets/images/logo/idiv.png">
-	<img src="/assets/images/logo/MLU.png">
-	<img src="/assets/images/logo/Logo_UFZ.png">
+	<img src="/conservation/assets/images/logo/idiv.png">
+	<img src="/conservation/assets/images/logo/MLU.png">
+	<img src="/conservation/assets/images/logo/Logo_UFZ.png">
 	<figcaption>Have a logo for us? Send it on over!</figcaption>
 </figure>
 
