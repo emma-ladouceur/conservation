@@ -46,7 +46,7 @@ We are in the process of developing a large, cross-cutting and collaborative eff
 {: .notice--warning}
 
 ## Team
-Please see our core team [here](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/). Project organiser, [Emma Ladouceur](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html) is a postdoc with the [Biodiversity Synthesis](https://www.idiv.de/groups_and_people/core_groups/synthesis/people.html) & [Physiological Diversity](https://www.ufz.de/index.php?de=38876) groups at the German Centre for Integrartive Biodiversity Research (iDiv) in Leipzig, Germany. She is supported by [iDiv](https://www.idiv.de/), Martin Luther University & The Hemholtz Centre for Environmental Research [(UFZ)](https://www.ufz.de/index.php?de=45949). She will initiate with the support of iDiv and continue this work with the support of the [Alexander Von Humboldt Foundation](https://www.humboldt-foundation.de/web/home.html) as a postdoctoral fellow.
+Please see our core team [here](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/). Project organiser, [Emma Ladouceur](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html) is a postdoc with the [Biodiversity Synthesis](https://www.idiv.de/groups_and_people/core_groups/synthesis/people.html) & [Physiological Diversity](https://www.ufz.de/index.php?de=38876) groups at The German Centre for Integrative Biodiversity Research (iDiv) in Leipzig, Germany. She is supported by [iDiv](https://www.idiv.de/), Martin Luther University & The Hemholtz Centre for Environmental Research [(UFZ)](https://www.ufz.de/index.php?de=45949). She will initiate this work with the support of iDiv and continue this work with the support of the [Alexander Von Humboldt Foundation](https://www.humboldt-foundation.de/web/home.html) and iDiv as a postdoctoral fellow.
 {: .notice--info}
 
 ## Focus
@@ -64,13 +64,20 @@ We will begin focused on grasslands and wetlands. Below are examples of the ecos
 | Terrestrial | Active | Grasslands | Seeding | Plants | Richness & Cover |
 |=====
 | Terrestrial | Passive | Grasslands | Removal of Agricultural Practices | Plants & Insects | Richness & Biomass |
+
+<figure class="third">
+  <img src="/conservation/assets/images/restore/wellingtonpoint.jpg">
+  <img src="/conservation/assets/images/restore/meadow_small.jpg">
+  <img src="/conservation/assets/images/restore/wetland_small.jpg">
+  <figcaption>Systems of current focus.</figcaption>
+</figure>
  
 ## Planned Work
-We are planning on investigating Community Assembly and the Functioning of Ecosystems [(CAFE)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895) and Measurements of Biodiversity [(MoB)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13102) in grasslands and wetlands **across space & time**. We would ideally like to compare **restored** sites to **degraded** and **pristine/healthy reference sites** in terms of their; **diversity, structure, and ecosystem function**. For this, at a minimum, we require site by species matrices. Multiple measurements across time are fantatstic, but not a requirement. We are also interested in structural functional traits of plants, funtional plant traits related to different types of ecosystem function (eg. pollination syndrome = pollination services), and species trophic interaction data (eg. insects, birds).
+Initially, we will focus data collection efforts on the systems and restoration types listed above with a particular interest in grasslands where seeding treatments have been applied. However we are also interested in other treatment types and passive restoration. We are planning on investigating Community Assembly and the Functioning of Ecosystems [(CAFE)](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12895) and Measurements of Biodiversity [(MoB)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13102) in grasslands and wetlands **across space & time**. We would ideally like to compare **restored** sites to **degraded** and **pristine/healthy reference sites** in terms of their; **diversity, structure, and ecosystem function**. For this, at a minimum, we require site by species matrices. Multiple measurements across time are fantatstic, but not a requirement. We are also interested in structural functional traits of plants, funtional plant traits related to different types of ecosystem function (eg. pollination syndrome = pollination services), and species trophic interaction data (eg. insects, birds).
 {: .notice--warning} 
 
 ## Future
-Initially, we will focus data collection efforts on the systems and restoration types listed above. However, our ambitions are not limited to these systems, and we are collecting data beyond that for further future syntheses, as we come across it in our search. We would like to collect raw data from marine, terretrial, & freshwater environments that have undegone different forms of active or passive restoration. This includes rewilding. Some examples are given in the table below, please get in touch for more details, discussion and with any further questions! If yuo are planning syntheses in one of these systems, we would love to hear from you to chat about your plans.
+Additionally, we are collecting data beyond that for further future syntheses, as we come across it in our search. We would like to collect raw data from marine, terretrial, & freshwater environments that have undegone different forms of active or passive restoration. This includes rewilding. Some examples are given in the table below, please get in touch for more details, discussion and with any further questions! **If you are planning syntheses in one of these systems, we would love to hear from you to chat about your plans.**
 {: .notice--primary}
 
 | Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure |
@@ -113,12 +120,14 @@ This work has started in **May 2019**. Initial data collection will continue unt
 
 ## Data Management
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/idiv_banner2.png){: .align-center}
-Data will be managed by [Emma Ladouceur](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html), archived in an open access public repository attached to the data paper.
+Data will be managed by [Emma Ladouceur](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html), and through various support mechanisms at iDiv, data will be archived in an open access public repository attached to the data paper.
 {: .notice--info}
 
 ## News
 Upcoming presentations and opportunities to connect & chat:
  * The [**International Association of Vegetation Science (IAVS)**](http://iavs.org/2019-Annual-Symposium/Home.aspx) Annual Symposium, Bremen, Germany, July 14-19, 2019. 
+
+ * The German Centre for Integrative Biodiversity Research [**(iDiv) Annual Conference**](https://www.idiv.de/conference2019.html), August 29-30 2019.
 
  * The [**Society for Ecological Restoration (SER)**](https://ser2019.org/) World Conference, Cape Town, South Africa, September 24-28, 2019
  {: .notice--success}
@@ -136,7 +145,7 @@ Get in touch with us for any questions, comments, inquiries or discussion. We we
 </form>
 
 ## Collaborators
-Join us as a collaborator! Check out our core [team](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/).
+Join us as a collaborator! Check out our core team [here](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/).
 {: .notice--success}
 <figure class="third">
 	<img src="/conservation/assets/images/logo/idiv.png">
@@ -144,7 +153,5 @@ Join us as a collaborator! Check out our core [team](https://emma-ladouceur.gith
 	<img src="/conservation/assets/images/logo/Logo_UFZ.png">
 	<figcaption>Have a logo for us? Send it on over!</figcaption>
 </figure>
-
-
 
 
