@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem Restoration Synthesis"
+title: "Ecological Restoration Synthesis"
 permalink: /projects/Restoration-Synthesis/
 author: Emma Ladouceur
 layout: single
