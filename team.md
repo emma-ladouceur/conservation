@@ -41,7 +41,7 @@ feature_row2:
     image_caption: "[Lars Brudvig](https://brudviglab.plantbiology.msu.edu/), Associate Professor, Plant Biology, Michigan State University"
     alt: "placeholder image 2"
   - image_path: /assets/images/restore/team/nancy4.jpg
-    image_caption: "[Nancy Shakelford](https://www.restorationscience.net/), Postdoc, Institute of Arctic & Alpine Research, University of Colorado Boulder"
+    image_caption: "[Nancy Shackelford](https://www.restorationscience.net/), Postdoc, Institute of Arctic & Alpine Research, University of Colorado Boulder"
     alt: "placeholder image 2"
 ---
 
