@@ -50,7 +50,7 @@ Please see our core team [here](https://emma-ladouceur.github.io/conservation/pr
 {: .notice--info}
 
 ## Focus
-We will begin focused on grasslands and wetlands. Below are examples of the ecosystems, habitats, degradation and restoration types we are interested in. As opposed to a traditional meta-analysis, which uses effect sizes for analyses, and is thus an analysis of analyses, we are interested in building a database of raw data, allowing more flexibility and power for syntheses to take place to maximise the learning potential of this endeavor.
+We are interested in ecological community data, and will begin focused on grasslands, drylands and wetlands. Below are examples of the ecosystems, habitats, degradation and restoration types we are interested in. As opposed to a traditional meta-analysis, which uses effect sizes for analyses, and is thus an analysis of analyses, we are interested in building a database of raw data, allowing more flexibility and power for syntheses to take place to maximise the learning potential of this endeavor.
 {: .notice--primary}
 
 | Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure |
@@ -61,7 +61,7 @@ We will begin focused on grasslands and wetlands. Below are examples of the ecos
 | Freshwater | Active | Wetland | Returning hydrological flow & Planting | Plants | Richness & Abundance |
 | Freshwater | Passive | Bog | Cessation of peat removal | Plants | Richness & Abundance |
 |----
-| Terrestrial | Active | Grasslands | Seeding | Plants | Richness & Cover |
+| Terrestrial | Active | Drylands | Seeding | Plants | Richness & Cover |
 |=====
 | Terrestrial | Passive | Grasslands | Removal of Agricultural Practices | Plants & Insects | Richness & Biomass |
 
@@ -73,11 +73,11 @@ We will begin focused on grasslands and wetlands. Below are examples of the ecos
 </figure>
  
 ## Planned Work
-Initially, we will focus data collection efforts on the systems and restoration types listed above with a particular interest in grasslands where seeding treatments have been applied. However we are also interested in other treatment types and passive restoration. We would ideally like to compare **restored** sites to **degraded** and **pristine/healthy reference sites** in terms of their; **diversity, structure, and ecosystem function**. For this, at a minimum, we require site by species matrices. Multiple measurements across time are fantatstic, but not a requirement. We are also interested in structural functional traits of plants, funtional plant traits related to different types of ecosystem function (eg. pollination syndrome = pollination services), and species trophic interaction data (eg. insects, birds).
+Initially, we will focus data collection efforts on ecological communities in the systems and restoration types listed above with a particular interest in grasslands where seeding treatments have been applied. However we are also interested in other treatment types and passive restoration. We would ideally like to to have community data, and compare **restored** sites to **degraded** and **pristine/healthy reference sites** in terms of their; **diversity, structure, and ecosystem function**. For this, at a minimum, we require site by species matrices. Multiple measurements across time are fantatstic, but not a requirement. We are also interested in structural functional traits of plants, funtional plant traits related to different types of ecosystem function (eg. pollination syndrome = pollination services), and species trophic interaction data (eg. insects, birds).
 {: .notice--warning} 
 
 ## Future
-Additionally, we are collecting data beyond that for further future syntheses, as we come across it in our search. We would like to collect raw data from marine, terretrial, & freshwater environments that have undegone different forms of active or passive restoration. This includes rewilding. Some examples are given in the table below, please get in touch for more details, discussion and with any further questions! **If you are planning syntheses in one of these systems, we would love to hear from you to chat about your plans.**
+Additionally, we are collecting data beyond those mentioned above for further future syntheses, as we come across it in our search. We would like to collect raw data from marine, terretrial, & freshwater environments that have undegone different forms of active or passive restoration. This includes rewilding. Some examples are given in the table below, please get in touch for more details, discussion and with any further questions! **If you are planning syntheses in one of these systems, we would love to hear from you to chat about your plans.**
 {: .notice--primary}
 
 | Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure |

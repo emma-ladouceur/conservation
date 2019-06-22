@@ -21,7 +21,7 @@ feature_row:
   - image_path:  /assets/images/restore/meadow_small.jpg
     alt: "placeholder image 2"
     title: "Terrestrial"
-    excerpt: "**Grasslands, arid zones, alpine**, agriculture, mine sites, forests, tundra..."
+    excerpt: "**Grasslands, drylands, alpine**, agriculture, mine sites, forests, tundra..."
     url: "https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/"
     btn_label: "Learn More"
     btn_class: "btn--success btn--x-large align-center"
