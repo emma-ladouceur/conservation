@@ -9,7 +9,7 @@ header:
   cta_url: "https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity"
 excerpt: "Featured Project: Synthesis in Restoration Ecology"
 intro: 
-  - excerpt: 'Together, lets learn as much as we can from restoration past & present to inform the future & achieve extraordinary outcomes.'
+  - excerpt: "Together, let's learn as much as we can from restoration past & present to inform the future & achieve extraordinary outcomes."
 feature_row:
   - image_path:  /assets/images/restore/wellingtonpoint.jpg
     alt: "placeholder image 1"
