@@ -4,7 +4,7 @@ permalink: /projects/Restoration-Synthesis/
 author: Emma Ladouceur
 layout: single
 header:
-  teaser: /assets/images/reflection.jpeg
+  teaser: /assets/images/restore/soil.jpg
   overlay_image: /assets/images/restore/soil.jpg
   caption: "Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
   cta_label: "The Time is Now"
