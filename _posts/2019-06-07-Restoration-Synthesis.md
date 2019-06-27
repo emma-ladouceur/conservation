@@ -50,7 +50,7 @@ Please see our core team [here](https://emma-ladouceur.github.io/conservation/pr
 {: .notice--info}
 
 ## Focus
-We are interested in ecological community data, and will begin by focusing on grasslands, drylands and wetlands. Below are examples of the ecosystems, habitats, degradation and restoration types we are interested in. As opposed to a traditional meta-analysis, which uses effect sizes for analyses, and is thus an analysis of analyses, we are interested in building a database of raw data, allowing more flexibility and power for syntheses to take place to maximise the learning potential of this endeavor.
+We are interested in ecological community data, and will begin by focusing on grasslands, drylands and wetlands. Below are examples of the ecosystems, habitats, degradation and restoration types we are interested in. As opposed to a traditional meta-analysis, which uses effect-sizes for analyses, and is thus an analysis of analyses, we are interested in building a database of raw data, allowing more flexibility and power for syntheses to take place to maximise the learning potential of this endeavor.
 {: .notice--primary}
 
 | Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure |
@@ -77,7 +77,7 @@ Initially, we will focus data collection efforts on ecological communities in th
 {: .notice--warning} 
 
 ## Future
-Additionally, we are collecting data beyond those mentioned above for further future syntheses, as we come across it in our search. We would like to collect raw data from marine, terretrial, & freshwater environments that have undegone different forms of active or passive restoration. This includes rewilding. Some examples are given in the table below. Please get in touch for more details, discussion and with any further questions! **If you are planning syntheses in one of these systems, we would love to hear from you to chat about your plans.**
+Additionally, we are collecting data beyond those mentioned above for further future syntheses, as we come across it in our search. We would like to collect raw data from marine, terrestrial, & freshwater environments that have undergone different forms of active or passive restoration. This includes rewilding. Some examples are given in the table below. Please get in touch for more details, discussion and with any further questions! **If you are planning syntheses in one of these systems, we would love to hear from you to chat about your plans.**
 {: .notice--primary}
 
 | Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure |
@@ -133,7 +133,7 @@ Upcoming presentations and opportunities to connect & chat:
  {: .notice--success}
 
 ## Participate
-Get in touch with us for any questions, comments, inquiries or discussion. We welcome your input and the participation of anyone from anywhere! Use the form below or email Emma Ladouceur: emmala (at) gmail (dot) com
+Get in touch with us for any questions, comments, inquiries or discussion. We welcome the input and the participation of anyone from anywhere! Use the form below or email Emma Ladouceur: emmala (at) gmail (dot) com
 {: .notice--primary}
 <form action="https://formspree.io/emmala@gmail.com"
       method="POST">
@@ -145,7 +145,7 @@ Get in touch with us for any questions, comments, inquiries or discussion. We we
 </form>
 
 ## Collaborators
-Join us as a collaborator! Check out our core team [here](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/).
+Join us as a collaborator! Check out our growing core team [here](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/).
 {: .notice--success}
 <figure class="third">
 	<img src="/conservation/assets/images/logo/idiv.png">

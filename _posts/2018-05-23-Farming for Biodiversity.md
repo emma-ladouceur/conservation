@@ -15,7 +15,7 @@ tags:
 ---
 
 
-Thank you to the at the [Association of German native seed and plant producers (VWW)](https://www.natur-im-vww.de/en/) for organising these visits to farms multiplying native seed for ecological restoration last week in East Germany. Photos below!
+Thank you to the [Association of German native seed and plant producers (VWW)](https://www.natur-im-vww.de/en/) for organising these visits to farms multiplying native seed for ecological restoration last week in East Germany. Photos below!
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last week the first European Native Seed Producers Convention was held in Germany with the aim of moving forward with the &quot;Formation of the European native seed producers association&quot;. Read our latest news to know everything about this exciting progress <a href="https://t.co/6uLV2AQw6h">https://t.co/6uLV2AQw6h</a> <a href="https://t.co/m1ebaaeRuu">pic.twitter.com/m1ebaaeRuu</a></p>&mdash; seed4restoration (@InfoInsr) <a href="https://twitter.com/InfoInsr/status/1001855192902651906?ref_src=twsrc%5Etfw">May 30, 2018</a></blockquote>
