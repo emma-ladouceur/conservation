@@ -50,20 +50,23 @@ Please see our core team [here](https://emma-ladouceur.github.io/conservation/pr
 {: .notice--info}
 
 ## Focus
-We are interested in ecological community data, and will begin by focusing on grasslands, drylands and wetlands. Below are examples of the ecosystems, habitats, degradation and restoration types we are interested in. As opposed to a traditional meta-analysis, which uses effect-sizes for analyses, and is thus an analysis of analyses, we are interested in building a database of raw data, allowing more flexibility and power for syntheses to take place to maximise the learning potential of this endeavor.
+We are interested in ecological **community data**, and will begin by focusing on grasslands, drylands and wetlands. Below are examples of the ecosystems, habitats, degradation and restoration types we are interested in. As opposed to a traditional meta-analysis, which uses effect-sizes for analyses, and is thus an analysis of analyses, we are interested in building a database of raw data, allowing more flexibility and power for syntheses to take place to maximise the learning potential of this endeavor. 
 {: .notice--primary}
 
-| Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure |
-|:--------|:-------:|--------:|--------:|--------:|--------:|
-| Marine | Active | Mangroves | Planting | Plants & Fish | Richness & Abundance |
-| Marine | Passive | Salt Marsh | Removal of effluent pipe | Invertebrates | Richness & Abundance |
+**We are also interested in cost data in the smallest units recorded.**
+{: .notice--danger}
+
+| Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure | Cost |
+|:--------|:-------:|--------:|--------:|--------:|--------:|--------:|
+| Marine | Active | Mangroves | Planting | Plants & Fish | Richness & Abundance | per tree |
+| Marine | Passive | Salt Marsh | Removal of effluent pipe | Invertebrates | Richness & Abundance | cost of removal |
 |----
-| Freshwater | Active | Wetland | Returning hydrological flow & Planting | Plants | Richness & Abundance |
-| Freshwater | Passive | Bog | Cessation of peat removal | Plants | Richness & Abundance |
+| Freshwater | Active | Wetland | Returning hydrological flow & Planting | Plants | Richness & Abundance | total cost |
+| Freshwater | Passive | Bog | Cessation of peat removal | Plants | Richness & Abundance | purchase of land |
 |----
-| Terrestrial | Active | Drylands | Seeding | Plants | Richness & Cover |
+| Terrestrial | Active | Drylands | Seeding | Plants | Richness & Cover | per m sq |
 |=====
-| Terrestrial | Passive | Grasslands | Removal of Agricultural Practices | Plants & Insects | Richness & Biomass |
+| Terrestrial | Passive | Grasslands | Removal of Agricultural Practices | Plants & Insects | Richness & Biomass | any associated costs |
 
 <figure class="third">
   <img src="/conservation/assets/images/restore/wellingtonpoint.jpg">
@@ -80,17 +83,20 @@ Initially, we will focus data collection efforts on ecological communities in th
 Additionally, we are collecting data beyond those mentioned above for further future syntheses, as we come across it in our search. We would like to collect raw data from marine, terrestrial, & freshwater environments that have undergone different forms of active or passive restoration. This includes rewilding. Some examples are given in the table below. Please get in touch for more details, discussion and with any further questions! **If you are planning syntheses in one of these systems, we would love to hear from you to chat about your plans.**
 {: .notice--primary}
 
-| Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure |
-|:--------|:-------:|--------:|--------:|--------:|--------:|
-| Marine | Active | Coral Reef | Artificial Reef | Coral | Richness & Cover |
-| Marine | Passive | Seagrass Meadows | Planting | Fish & Plants | Abundance & Cover |
+**We are also interested in cost data in the smallest units recorded.**
+{: .notice--danger}
+
+| Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure | Cost |
+|:--------|:-------:|--------:|--------:|--------:|--------:|--------:|
+| Marine | Active | Coral Reef | Artificial Reef | Coral | Richness & Cover | cost of reef structure |
+| Marine | Passive | Seagrass Meadows | Planting | Fish & Plants | Abundance & Cover | cost of planting |
 |----
-| Freshwater | Active | Lake | Toxic algae removal | Algae | Abundance |
-| Freshwater | Passive | River | Dam removal| Fish | Richness & Abundance |
+| Freshwater | Active | Lake | Toxic algae removal | Algae | Abundance | removal cost |
+| Freshwater | Passive | River | Dam removal| Fish | Richness & Abundance | total cost |
 |----
-| Terrestrial | Active | Forests | Planting | Plants | Richness & Cover |
+| Terrestrial | Active | Forests | Planting | Plants | Richness & Cover | per plant |
 |=====
-| Terrestrial | Passive | Tundra | Removal of disturbance | Plants | Richness & Cover |
+| Terrestrial | Passive | Tundra | Removal of disturbance | Plants | Richness & Cover | any associated costs |
 
 <figure class="third">
   <img src="/conservation/assets/images/restore/marine1.jpg">
