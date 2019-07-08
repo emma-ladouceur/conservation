@@ -21,7 +21,7 @@ sidebar:
     text: "To collaborate & learn what works & what doesn't to rapidly improve restoration outcomes as the decade of restoration begins."
     nav: sidebar-sample
   - title: "Collaboration"
-    text: "Meet our growing[Team](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/)"
+    text: "Meet our growing [Team](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/)"
 share: true
 comments: true
 read_time: true
