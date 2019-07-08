@@ -37,5 +37,5 @@ Thank you to the [Association of German native seed and plant producers (VWW)](h
 	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_6_Emma_Ladouceur.jpg">
 	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_7_Emma_Ladouceur.jpg">
 	<img src="/conservation/assets/images/seeds/seeds_for_restoration_Farming_for_biodiversity_8_Emma_Ladouceur.jpg">
-	<figcaption>Native Seed farms in East Germany.</figcaption>
+	<figcaption>Native Seed farms in North-East Germany.</figcaption>
 </figure>
