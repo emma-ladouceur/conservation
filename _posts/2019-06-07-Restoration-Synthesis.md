@@ -6,7 +6,7 @@ layout: single
 header:
   teaser: /assets/images/restore/soil.jpg
   overlay_image: /assets/images/restore/soil.jpg
-  caption: "Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
+  caption: "Basalt cracking clay soil, Central Highlands, Queensland, Australia. Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
   cta_label: "The Time is Now"
   cta_url: "https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity"
 excerpt: "The United Nations Decade on Ecosystem Restoration: 2021 - 2030"
@@ -21,7 +21,7 @@ sidebar:
     text: "To collaborate & learn what works & what doesn't to rapidly improve restoration outcomes as the decade of restoration begins."
     nav: sidebar-sample
   - title: "Collaboration"
-    text: "Meet our [Team](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/)"
+    text: "Meet our growing[Team](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/team/)"
 share: true
 comments: true
 read_time: true

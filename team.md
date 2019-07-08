@@ -6,7 +6,7 @@ layout: single
 header:
   teaser: /assets/images/reflection.jpeg
   overlay_image: /assets/images/restore/spoonbills.jpg
-  caption: "Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
+  caption: "Spoonbills at sunset, North Stradbroke Island, Queensland, Australia. Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
   cta_label: "Back to Project Info"
   cta_url: "https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/"
 excerpt: "Restoration Sythesis Project"

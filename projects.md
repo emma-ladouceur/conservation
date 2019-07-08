@@ -4,7 +4,7 @@ layout: splash
 permalink: /projects/
 header:
   overlay_image: /assets/images/restore/fly.JPG
-  caption: "Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
+  caption: "Bluegrass Downs, Central Highlands, Queensland, Australia. Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
   cta_label: "The Time is Now"
   cta_url: "https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity"
 excerpt: "Featured Project: Synthesis in Restoration Ecology"
