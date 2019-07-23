@@ -32,7 +32,7 @@ Becoming a collaborator is open to restoration ecologists who are comitted to jo
 
 * Play well with other members of the team;
 * Donate your Data;
-* Agree that your data can be shared open access as apart of our planned [data paper](https://www.nature.com/sdata/)).
+* Agree that your data can be shared open access as apart of our planned [data paper](https://www.nature.com/sdata/).
 
 ## Co-Authorship Criteria
 There are some initial papers planned attached to this effort. If your data is suitable for use in the first papers and is used, this will be indicated as apart of initial discussions, and you will be invited to opt-in to the paper for collaboration.
