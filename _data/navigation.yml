@@ -15,13 +15,19 @@ main:
   - title: "All Posts"
     url: /year-archive/
 
-      
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # sidebar navigation list sample
+sidebar-restore:
+  - title: "Project"
+    children:
+      - title: "Project Intro"
+        url: /projects/
+      - title: "Restoration Synthesis"
+        url: /projects/Restoration-Synthesis
+      - title: "Participate"
+        url: /projects/Restoration-Synthesis/participate  
+  - title: "People"
+    children:
+      - title: "Team & Collaborators"
+        url: /projects/Restoration-Synthesis/team/
+      - title: "Collaborator Guidelines"
+        url: /projects/Restoration-Synthesis/collaborator-guidelines/

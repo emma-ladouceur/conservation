@@ -13,17 +13,13 @@ excerpt: "Restoration Sythesis Project"
 classes: wide
 author_profile: false
 sidebar:
-  - title: "Aim: Restoration Synthesis"
-    image: /assets/images/restore/alpine_walk.jpg
-    image_alt: "image"
-    text: "Compile existing restoration data, across ecosystems & restoration actions. "
-  - title: "Why?"
-    text: "To collaborate & learn what works & what doesn't to rapidly improve restoration outcomes as the decade of restoration begins."
-    nav: sidebar-sample
-  - title: "Project"
-    text: "Back to [Project Page](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/)"
+  title: "Restoration Synthesis"
+  nav: sidebar-restore
+categories:
+  - Projects
+  - Restoration Synthesis
 intro: 
-  - excerpt: 'Core Project Team'
+  - excerpt: 'Team & Collaborators'
 feature_row:
   - image_path: assets/images/restore/team/emma_small2.jpg
     image_caption: "[Emma Ladouceur](https://emma-ladouceur.github.io//conservation/about/), Organiser, Postdoc, Biodiversity Synthesis & Physiological Diversity, iDiv"
@@ -32,7 +28,7 @@ feature_row:
     image_caption: "[Jonathan M. Chase](https://www.idiv.de/groups_and_people/core_groups/synthesis.html), Professor, Biodiversity Synthesis, iDiv"
     alt: "placeholder image 2"
   - image_path: /assets/images/restore/team/stan_small2.jpg
-    image_caption: "[Stanley Harpole](https://www.ufz.de/index.php?de=34230), Professor, Physiological Diversity, iDiv"
+    image_caption: "[Stanley Harpole](https://www.ufz.de/index.php?de=34230), Professor, Physiological Diversity, iDiv" 
 feature_row2:
   - image_path: /assets/images/restore/team/holly_small.jpg
     image_caption: "[Holly P. Jones](https://hjones82.wixsite.com/website), Associate Professor, Biological Sciences, Northern Illinois University"
@@ -43,11 +39,23 @@ feature_row2:
   - image_path: /assets/images/restore/team/nancy4.jpg
     image_caption: "[Nancy Shackelford](https://www.restorationscience.net/), Postdoc, Institute of Arctic & Alpine Research, University of Colorado Boulder"
     alt: "placeholder image 2"
+date: 2019-07-01T18:38:52+00:00
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2"  %}
+{% include feature_row id="feature_row2" %}
+
+## Join Us
+This collaborator section is actively growing and may not be fully up-to-date yet! Join us as a collaborator! Check out our detailed [participation details](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/participate/) and [collaborator guidelines](https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/collaborator-guidelines/) for more info.
+{: .notice--success}
+<figure class="third">
+  <img src="/conservation/assets/images/logo/idiv.png">
+  <img src="/conservation/assets/images/logo/MLU.png">
+  <img src="/conservation/assets/images/logo/Logo_UFZ.png">
+  <figcaption>Have a logo for us? Send it on over!</figcaption>
+</figure>
+
 
