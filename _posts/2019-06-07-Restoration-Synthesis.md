@@ -29,11 +29,11 @@ tags:
 The recently declared [‘Decade on Ecological Restoration’](https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity) by the United Nations represents a timely opportunity to develop a strong and integrative path forward for ecological restoration. 
 
 
-This project aims to bring together restoration researchers globally to pool existing data and knowledge for a deeper understanding of restoration science.
+The [Global Restore Project (GRP)](https://www.globalrestoreproject.com) aims to bring together restoration researchers globally to pool existing data and knowledge for a deeper understanding of restoration science.
 
 Restoration has been taking place for decades across ecosystems, in every part of the world, with millions being spent. Different types of restoration ‘action’ have been taking place, depending on the definitions and targets of individual projects and their context. Data collected are used for monitoring, the results of which are sometimes published in academic journals, sometimes not. Projects and investment will continue, the results of which will affect legacies for decades more.
 
-The [Global Restore Project (GRP)](https://www.globalrestoreproject.com) will develop a large, cross-cutting and collaborative effort to compile data from across the world, across ecosystems and across restoration efforts and types. The Global Arid Zone Project (GAZP) is a collaborative subset and drylands network of the Global Restore Project. Please visit the [GRP](https://www.globalrestoreproject.com) and [GAZP](https://drylandrestore.com) project websites for more information!
+Together, we will develop a large, cross-cutting and collaborative effort to compile data from across the world, across ecosystems and across restoration efforts and types, and build a global network of restoration practitioners and projects. The Global Arid Zone Project (GAZP) is a collaborative subset and drylands network of the Global Restore Project. Please visit the [GRP](https://www.globalrestoreproject.com) and [GAZP](https://drylandrestore.com) project websites for more information!
 
 
 <figure class="third">
