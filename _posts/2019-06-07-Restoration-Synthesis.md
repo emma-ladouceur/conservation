@@ -33,7 +33,7 @@ The [Global Restore Project (GRP)](https://www.globalrestoreproject.com) aims to
 
 Restoration has been taking place for decades across ecosystems, in every part of the world, with millions being spent. Different types of restoration ‘action’ have been taking place, depending on the definitions and targets of individual projects and their context. Data collected are used for monitoring, the results of which are sometimes published in academic journals, sometimes not. Projects and investment will continue, the results of which will affect legacies for decades more.
 
-Together, we will develop a large, cross-cutting and collaborative effort to compile data from across the world, across ecosystems and across restoration efforts and types, and build a global network of restoration practitioners and projects. The Global Arid Zone Project (GAZP) is a collaborative subset and drylands network of the Global Restore Project. Please visit the [GRP](https://www.globalrestoreproject.com) and [GAZP](https://drylandrestore.com) project websites for more information!
+Together, we will develop a large, cross-cutting and collaborative effort to compile data from across the world, across ecosystems and across restoration efforts and types, and build a global network of restoration practitioners and projects. The Global Arid Zone Project (GAZP) Database is a collaborative drylands subset and network of the Global Restore Project. Please visit the [GRP](https://www.globalrestoreproject.com) and [GAZP](https://drylandrestore.com) project websites for more information!
 
 
 <figure class="third">
