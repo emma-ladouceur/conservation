@@ -13,7 +13,7 @@ intro:
 feature_row:
   - image_path:  /assets/images/restore/wellingtonpoint.jpg
     alt: "placeholder image 1"
-    title: "Marine"
+    title: "Marine" 
     excerpt: "**Saltwater marsh, mangroves**, seagrass meadows, coral reefs..."
     url: "https://emma-ladouceur.github.io/conservation/projects/Restoration-Synthesis/"
     btn_label: "Learn More"
