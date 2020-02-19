@@ -4,9 +4,9 @@ permalink: /cv/
 layout: single
 author_profile: true
 header:
-  image: /assets/images/visual_cv.png
+  image: /assets/images/visualcv_2020.png
 classes: wide    
-date: 2018-05-01T18:38:52+00:00
+date: 2020-02-01T18:38:52+00:00
 ---
 
 
@@ -15,13 +15,15 @@ date: 2018-05-01T18:38:52+00:00
 
 
 ## Recent Presentations
-* Ladouceur, E. (2017) Prioritizing for regeneration in ecological restoration: implications for species selection, decision-making, conservation, & policy. Seed Quality of Native Species: Ecology, Production & Policy Conference, Royal Botanic Gardens, Kew, London, United Kingdom.
+* Ladouceur, E. et al. (2019) Plans for Urgent Synthesis in Restoration. Society for Ecological Restoration (SER) Conference, Cape Town, South Africa.
 
-* Ladouceur, E. (2017). The regeneration niche and trait spectrum of temperate European grasslands. International Association of Vegetation Science (IAVS), Palermo, Italy.
+* Ladouceur, E. et al. (2019) Prioritizing for regeneration in ecological restoration: implications for species selection, decision-making, conservation, & policy. International Association of Vegetation Science (IAVS) Conference, Bremen, Germany.
 
-* Ladouceur, E. (2017). The regeneration niche and trait spectrum of temperate European grasslands. Italian Plant Traits Conference, Bologna Botanic Gardens, Italy.
+* Ladouceur, E. et al.  (2017) Prioritizing for regeneration in ecological restoration: implications for species selection, decision-making, conservation, & policy. Seed Quality of Native Species: Ecology, Production & Policy Conference, Royal Botanic Gardens, Kew, London, United Kingdom.
 
-* Ladouceur, E. (2016). A biogeographic approach to species selection for restoration projects. The German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany.
+* Ladouceur, E. et al. (2017). The regeneration niche and trait spectrum of temperate European grasslands. International Association of Vegetation Science (IAVS) Conference, Palermo, Italy.
 
-* Ladouceur, E. (2016). Native Seed Supply & The Restoration Species Pool. Italian Seed Bank Conference, Cagliari Botanic Gardens, Sardinia, Italy.
+* Ladouceur, E. et al. (2017). The regeneration niche and trait spectrum of temperate European grasslands. Italian Plant Traits Conference, Bologna Botanic Gardens, Italy.
+
+* Ladouceur, E. et al. (2016). Native Seed Supply & The Restoration Species Pool. Italian Seed Bank Conference, Cagliari Botanic Gardens, Sardinia, Italy.
 {: .notice}
