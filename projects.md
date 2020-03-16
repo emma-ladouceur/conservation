@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Featured Project"
 layout: splash
 permalink: /projects/
 header:
@@ -7,7 +7,7 @@ header:
   caption: "Bluegrass Downs, Central Highlands, Queensland, Australia. Emma Ladouceur Photography"
   cta_label: "The Time is Now"
   cta_url: "https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity"
-excerpt: "Featured Project: Synthesis in Restoration Ecology"
+excerpt: "Synthesis in Restoration Ecology: The Global Restore Project (GRP)"
 intro: 
   - excerpt: "Together, let's learn as much as we can from restoration past & present to inform the future & achieve extraordinary outcomes."
 feature_row:
