@@ -1,5 +1,5 @@
 
-## Personal Rsearch Website
+## Personal Research Website
 
 Made with the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
