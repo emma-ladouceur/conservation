@@ -11,9 +11,9 @@ classes: wide
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
 
 
-## In Review
-* **Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro. An objective-based prioritization approach to deliver ecosystem functions for ecological restoration.
-{: .notice}
+
+## 2020
+Jonathan M. Chase, Alienor Jeliazkov, **Emma Ladouceur**, Duarte S. Viana **2020** [Biodiversity conservation through the lens of metacommunity ecology]( https://doi.org/10.1111/nyas.14378) **Annals of the New York Academy of Sciences**
 
 ## 2019
 * **Emma Ladouceur**, Costantino Bonomi, Helge Bruelheide, Jitka Klimešová, Pietro Iannetta, Maria Tudela-Isanta, Andrea Mondoni, Peter Poschlod, Bernard Amiaud, Sabina Burrascano, Bruno E. L. Cerabolini, J. Hans C. Cornelissen, Joseph Craine, Frédérique Louault, Vanessa Minden, Kinga Öllerer, Vladimir Onipchenko, Nadejda A. Soudzilovskaia, Borja Jiménez-Alfaro. **2019** [The functional trait spectrum of European temperate grasslands](https://doi.org/10.1111/jvs.12784) **Journal of Vegetation Science**.
