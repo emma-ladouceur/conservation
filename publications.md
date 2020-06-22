@@ -13,6 +13,8 @@ classes: wide
 
 
 ## 2020
+* **Emma Ladouceur**,  W. Stanley Harpole,  Shane A. Blowes,  Christiane Roscher,  Harald Auge,  Eric W. Seabloom,  Jonathan M. Chase **2020** [Reducing dispersal limitation via seed addition increases species richness but not above‐ground biomass](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13566) **Ecology Letters**
+
 * Jonathan M. Chase, Alienor Jeliazkov, **Emma Ladouceur**, Duarte S. Viana **2020** [Biodiversity conservation through the lens of metacommunity ecology]( https://doi.org/10.1111/nyas.14378) **Annals of the New York Academy of Sciences**
 {: .notice}
 
