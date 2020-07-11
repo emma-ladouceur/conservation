@@ -37,7 +37,7 @@ Together, we will develop a large, cross-cutting and collaborative effort to com
 
 
 <figure class="third">
-  <img src="/conservation/assets/images/restore/wellingtonpoint.jpg">
+  <img src="/conservation/assets/images/restore/terrestrial.jpeg">
   <img src="/conservation/assets/images/restore/meadow_small.jpg">
   <img src="/conservation/assets/images/restore/wetland_small.jpg">
   <figcaption>Systems of current focus.</figcaption>
@@ -51,31 +51,8 @@ We are interested in ecological **community data**, and will begin by focusing o
 **We are also interested in cost data in the smallest units recorded.**
 {: .notice--danger}
 
-| Ecosystem Type | Restoration Type | Habitat | Example | Taxa | Measure | Cost |
-|:--------|:-------:|--------:|--------:|--------:|--------:|--------:|
-| Marine | Active | Mangroves | Planting | Plants & Fish | Richness & Abundance | per tree |
-| Marine | Passive | Salt Marsh | Removal of effluent pipe | Invertebrates | Richness & Abundance | cost of removal |
-|----
-| Freshwater | Active | Wetland | Returning hydrological flow & Planting | Plants | Richness & Abundance | total cost |
-| Freshwater | Passive | Bog | Cessation of peat removal | Plants | Richness & Abundance | purchase of land |
-|----
-| Terrestrial | Active | Drylands | Seeding | Plants | Richness & Cover | per m sq |
-|=====
-| Terrestrial | Passive | Grasslands | Removal of Agricultural Practices | Plants & Insects | Richness & Biomass | any associated costs |
-
-
  
 ## Join Our Team
 
 Please visit the [Global Restore Project](https://www.globalrestoreproject.com) and [Global Arid Zone Project](https://drylandrestore.com) project websites for information on how to get involved and join this collaborative effort!
-
-<figure class="third">
-  <img src="/conservation/assets/images/restore/marine1.jpg">
-  <img src="/conservation/assets/images/restore/terrestrial.jpeg">
-  <img src="/conservation/assets/images/restore/freshwater1.jpg">
-  <figcaption>Systems of future focus.</figcaption>
-</figure>
-
-
-
 
