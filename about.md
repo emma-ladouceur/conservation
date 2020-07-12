@@ -21,8 +21,6 @@ I am a community, vegetation & seed ecologist interested in applied practical re
 
 I am formally trained in planning (urban & environmental), environmental management, ecology and conservation biology. I am able to peer review research articles surrounding any of these topics. Please see my Publications & CV in the navigation menu above for more details. Please see my review experience by clicking on my *Publons* profile in the menu to the left.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/fieldwork.jpg){: .align-center}
-
 ## Contact 
 You can find all relevant contacts in the side menu on the left!
 
