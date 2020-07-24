@@ -19,7 +19,8 @@ I am based at [iDiv](https://www.idiv.de/groups_and_people/employees/details/esh
 ## Background & Reviewer Statment
 I am a community, vegetation & seed ecologist interested in applied practical research, systematic decision making, and solutions to address the most pressing issues in restoration ecology, conservation biology and the functioning of ecosystems.
 
-I am formally trained in planning (urban & environmental), environmental management, ecology and conservation biology. I am able to peer review research articles surrounding any of these topics. Please see my Publications & CV in the navigation menu above for more details. Please see my review experience by clicking on my *Publons* profile in the menu to the left.
+I am formally trained in planning (urban & environmental), environmental management, ecology and conservation biology. I am able to peer review research articles surrounding any of these topics. Please see my Publications in the navigation menu above for more details. Please see my review experience by clicking on my *Publons* profile in the menu to the left.
+
 
 ## Contact 
 You can find all relevant contacts in the side menu on the left!
