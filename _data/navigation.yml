@@ -8,8 +8,8 @@ main:
  #   url: /cv
   - title: "Easy Reading"
     url: /easyreading/
-  - title: "R Blog"
-    url: /categories/rstats/
+ # - title: "R Blog"
+  #  url: /categories/rstats/
   - title: "All Posts"
     url: /year-archive/
 
