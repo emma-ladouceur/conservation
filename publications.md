@@ -11,6 +11,8 @@ classes: wide
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
 
 
+## 2021
+**Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Roel van Klink, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro **2021** [An objective-based prioritization approach to improve trophic complexity through ecological restoration](https://doi.org/10.1101/2021.03.09.434521) **bioRxive**
 
 ## 2020
 * **Emma Ladouceur** & Nancy Shackelford **2020** [The power of data synthesis to shape the future of the restoration community and capacity](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13251) **Restoration Ecology**
