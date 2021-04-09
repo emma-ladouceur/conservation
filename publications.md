@@ -12,7 +12,9 @@ classes: wide
 
 
 ## 2021
-**Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Roel van Klink, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro **2021** [An objective-based prioritization approach to improve trophic complexity through ecological restoration](https://doi.org/10.1101/2021.03.09.434521) **bioRxive**
+* Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](www.doi.org/10.22541/au.161773271.14979565/v1) **Authorea pre-print server**
+
+* **Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Roel van Klink, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro **2021** [An objective-based prioritization approach to improve trophic complexity through ecological restoration](https://doi.org/10.1101/2021.03.09.434521) **bioRxive**
 {: .notice}
 
 ## 2020
