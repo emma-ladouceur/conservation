@@ -12,7 +12,7 @@ classes: wide
 
 
 ## 2021
-* Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://www.authorea.com/users/406117/articles/516907-title-the-function-dominance-correlation-drives-the-direction-and-strength-of-biodiversity-ecosystem-functioning-relationships-running-title-function-dominance-correlation-drives-bef-affiliations?commit=76698f603c44f56cc673fa08487b731fdb07671f) **Authorea pre-print server**
+* Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://www.authorea.com/users/407760/articles/517995-the-function-dominance-correlation-drives-the-direction-and-strength-of-biodiversity-ecosystem-functioning-relationships) **Authorea pre-print server**
 
 * **Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Roel van Klink, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro **2021** [An objective-based prioritization approach to improve trophic complexity through ecological restoration](https://doi.org/10.1101/2021.03.09.434521) **bioRxive**
 {: .notice}
