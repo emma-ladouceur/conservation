@@ -14,7 +14,7 @@ classes: wide
 ## 2021
 * **Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Roel van Klink, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro **2021** [An objective-based prioritization approach to support trophic complexity through ecological restoration](https://doi.org/10.1111/1365-2664.13943) **Journal of Applied Ecology**
 
-* Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://www.authorea.com/users/407760/articles/517995-the-function-dominance-correlation-drives-the-direction-and-strength-of-biodiversity-ecosystem-functioning-relationships?commit=33d547045c2bcbd72e724c7713d68f42984cac6c) **Authorea pre-print server (Accepted, Ecology Letters)**
+* Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://onlinelibrary.wiley.com/doi/10.1111/ele.13776) **Ecology Letters**
 
 * Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **2021** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **EcoEvoRxiv PrePrints**
 {: .notice}
