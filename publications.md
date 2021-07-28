@@ -17,6 +17,8 @@ classes: wide
 * Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://onlinelibrary.wiley.com/doi/10.1111/ele.13776) **Ecology Letters**
 
 * Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **2021** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **EcoEvoRxiv PrePrints**
+
+* Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
 {: .notice}
 
 ## 2020
