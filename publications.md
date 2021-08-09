@@ -19,6 +19,8 @@ classes: wide
 * Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **2021** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **EcoEvoRxiv PrePrints**
 
 * Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
+
+* Christopher P. Weiss-Lehman,  Chhaya M. Werner, Catherine H. Bowler, Lauren M. Hallett, Margaret M. Mayfield, Oscar Godoy, Lina Aoyama, György Barabás, Chengjin Chu, **Emma Ladouceur**,  Loralee Larios, Lauren G. Shoemaker. [Disentangling key species interactions in diverse and heterogeneous communities: A Bayesian sparse modeling approach](https://doi.org/10.1101/2021.07.23.453227) **BioRxiv PrePrint Server**
 {: .notice}
 
 ## 2020
