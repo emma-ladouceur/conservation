@@ -12,7 +12,7 @@ classes: wide
 
 
 ## 2021
-Rémy Beugnon, **Emma Ladouceur**, Marie Sünnemann, Simone Cesarz, Nico Eisenhauer. **2021** [Diverse forests are cool: Promoting diverse forests to mitigate carbon emissions and climate change](https://onlinelibrary.wiley.com/doi/full/10.1002/sae2.12005) **Journal of Sustainable Agriculture and Environment**
+* Rémy Beugnon, **Emma Ladouceur**, Marie Sünnemann, Simone Cesarz, Nico Eisenhauer. **2021** [Diverse forests are cool: Promoting diverse forests to mitigate carbon emissions and climate change](https://onlinelibrary.wiley.com/doi/full/10.1002/sae2.12005) **Journal of Sustainable Agriculture and Environment**
 
 * **Emma Ladouceur**, Jennifer McGowan, Patrick Huber, Hugh Possingham, Davide Scridel, Roel van Klink, Peter Poschlod, J. Hans C. Cornelissen, Costantino Bonomi, Borja Jiménez-Alfaro **2021** [An objective-based prioritization approach to support trophic complexity through ecological restoration](https://doi.org/10.1111/1365-2664.13943) **Journal of Applied Ecology**
 
