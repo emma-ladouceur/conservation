@@ -12,6 +12,9 @@ classes: wide
 
 
 ## 2022
+* **Emma Ladouceur**, Shane Blowes, Jonathan Chase, Adam Clark, Magda Garbowski, Juan Alberti, Carlos Arnillas, Jonathan Bakker, Isabel C. Barrio, Siddharth Bharath, Elizabeth Borer, Lars Brudvig, Marc Cadotte, Q. Q. Chen, Scott Collins, Christopher Dickman, Ian Donohue, Guo-Zhen Du, Anne Ebeling, Nico Eisenhauer, Philip Fay, Nicole Hagenah, Yann Hautier, Anke Jentsch, Ingibjörg Svala Jónsdóttir, Kimberly Komatsu, Andrew MacDougall, Jason Martina, Joslin Moore, John Morgan, Pablo Peri, Sally A Power, Zhengwei Ren, Anita Risch, Christiane Roscher, Max Schuchardt, Eric Seabloom, Carly Stevens, Ciska Veen, Risto Virtanen, Glenda Wardle, Peter Wilfahrt, Stan Harpole **In Review 2022** [Species losses, gains, and changes in persistent species are associated with distinct effects on ecosystem functioning in global grasslands](https://www.authorea.com/users/407763/articles/552504-species-losses-gains-and-changes-in-persistent-species-are-associated-with-distinct-effects-on-ecosystem-functioning-in-global-grasslands?commit=b6ac65457c7ac5ee0679967ace69a00042300acf) **Authorea Pre-Print Server**
+
+
 * **Emma Ladouceur**, Nancy Shackelford, Karma Bouazza, Lars Brudvig, Anna Bucharova, Timo Conradi, Todd E. Erickson, Magda Garbowski, Kelly Garvy, W. Stanley Harpole, Holly P. Jones, Tiffany Knight, Mlungele M. Nsikani, Gustavo Paterno, Katharine Suding, Vicky M. Temperton, Péter Török, Daniel E. Winkler, Jonathan M. Chase [Knowledge sharing for shared success in the decade on ecosystem restoration](https://doi.org/10.1002/2688-8319.12117) **Ecological Solutions and Evidence**
 
 * Christopher P. Weiss-Lehman,  Chhaya M. Werner, Catherine H. Bowler, Lauren M. Hallett, Margaret M. Mayfield, Oscar Godoy, Lina Aoyama, György Barabás, Chengjin Chu, **Emma Ladouceur**,  Loralee Larios, Lauren G. Shoemaker. [Disentangling key species interactions in diverse and heterogeneous communities: A Bayesian sparse modeling approach](https://doi.org/10.1101/2021.07.23.453227) **BioRxiv PrePrint Server** Accepted. **Ecology Letters**
@@ -24,9 +27,9 @@ classes: wide
 
 * Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://onlinelibrary.wiley.com/doi/10.1111/ele.13776) **Ecology Letters**
 
-* Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **2021** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **EcoEvoRxiv PrePrints**
+* Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **In Review 2021** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **EcoEvoRxiv PrePrints**
 
-* Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
+* Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. **In Review 2021** [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
 {: .notice}
 
 ## 2020
