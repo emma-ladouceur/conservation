@@ -17,6 +17,8 @@ classes: wide
 * **Emma Ladouceur**, Nancy Shackelford, Karma Bouazza, Lars Brudvig, Anna Bucharova, Timo Conradi, Todd E. Erickson, Magda Garbowski, Kelly Garvy, W. Stanley Harpole, Holly P. Jones, Tiffany Knight, Mlungele M. Nsikani, Gustavo Paterno, Katharine Suding, Vicky M. Temperton, Péter Török, Daniel E. Winkler, Jonathan M. Chase **2022** [Knowledge sharing for shared success in the decade on ecosystem restoration](https://doi.org/10.1002/2688-8319.12117) **Ecological Solutions and Evidence**
 
 * Christopher P. Weiss-Lehman,  Chhaya M. Werner, Catherine H. Bowler, Lauren M. Hallett, Margaret M. Mayfield, Oscar Godoy, Lina Aoyama, György Barabás, Chengjin Chu, **Emma Ladouceur**,  Loralee Larios, Lauren G. Shoemaker. **2022**  [Disentangling key species interactions in diverse and heterogeneous communities: A Bayesian sparse modeling approach](https://doi.org/10.1111/ele.13977) **Ecology Letters**
+
+* Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **Accepted Nature Sustainability 2022** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **EcoEvoRxiv PrePrints**
 {: .notice}
 
 ## 2021
@@ -25,8 +27,6 @@ classes: wide
 * Rémy Beugnon, **Emma Ladouceur**, Marie Sünnemann, Simone Cesarz, Nico Eisenhauer. **2021** [Diverse forests are cool: Promoting diverse forests to mitigate carbon emissions and climate change](https://onlinelibrary.wiley.com/doi/full/10.1002/sae2.12005) **Journal of Sustainable Agriculture and Environment**
 
 * Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://onlinelibrary.wiley.com/doi/10.1111/ele.13776) **Ecology Letters**
-
-* Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **In Review 2021** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **EcoEvoRxiv PrePrints**
 
 * Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. **In Review 2021** [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
 {: .notice}
