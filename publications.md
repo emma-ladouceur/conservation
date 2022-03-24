@@ -21,6 +21,8 @@ classes: wide
 * Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **Accepted 2022** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/)  **Nature Sustainability (EcoEvoRxiv PrePrint)**
 
 * Rebecca Spake, Paola Barajas-Barbosa, Shane Blowes, Diana Bowler, Corey Callaghan, Magda Garbowski, Stephanie Jurburg, Lotte Korrell, **Emma Ladouceur**, Roberto Rozzi, Roel van Klink, Duarte Viana, Wubing Xu, Jonathan Chase. **Accepted 2022** Detecting thresholds of ecological changes in the Anthropocene: challenges and opportunities. **Annual Review of Environment and Resources**
+
+* Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. **Accepted 2022** [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
 {: .notice}
 
 ## 2021
@@ -29,8 +31,6 @@ classes: wide
 * Rémy Beugnon, **Emma Ladouceur**, Marie Sünnemann, Simone Cesarz, Nico Eisenhauer. **2021** [Diverse forests are cool: Promoting diverse forests to mitigate carbon emissions and climate change](https://onlinelibrary.wiley.com/doi/full/10.1002/sae2.12005) **Journal of Sustainable Agriculture and Environment**
 
 * Michael S. Crawford, Kathryn E. Barry, Adam T. Clark, Caroline E. Farrior, Jes Hines, **Emma Ladouceur**, Jeremy W. Lichstein, Isabelle Maréchaux, Felix May, Akira S. Mori, Björn Reineking, Lindsay A. Turnbull, Christian Wirth & Nadja Rüger **2021** [The function-dominance correlation drives the direction and strength of biodiversity- ecosystem functioning relationships](https://onlinelibrary.wiley.com/doi/10.1111/ele.13776) **Ecology Letters**
-
-* Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. **In Review 2021** [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
 {: .notice}
 
 ## 2020
