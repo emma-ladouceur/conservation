@@ -22,7 +22,7 @@ classes: wide
 
 * Rebecca Spake, Paola Barajas-Barbosa, Shane Blowes, Diana Bowler, Corey Callaghan, Magda Garbowski, Stephanie Jurburg, Lotte Korrell, **Emma Ladouceur**, Roberto Rozzi, Roel van Klink, Duarte Viana, Wubing Xu, Jonathan Chase. **Accepted 2022** Detecting thresholds of ecological changes in the Anthropocene: challenges and opportunities. **Annual Review of Environment and Resources**
 
-* Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. **Accepted 2022** [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Authorea Pre-Print Server**
+* Lina Aoyama, Lauren Shoemaker, Benjamin Gilbert, Sharon Collinge, Akasha Faist, Nancy Shackelford, Vicky Temperton, Gyorgy Barabas, Loralee Larios, **Emma Ladouceur**, Oscar Godoy, Catherine Bowler, Lauren Hallett. **Accepted 2022** [Diagnosing restoration trajectories using demographic modeling and modern coexistence theory](https://www.authorea.com/users/427939/articles/531999-diagnosing-restoration-trajectories-using-demographic-modeling-and-modern-coexistence-theory) **Ecological Applications (Authorea Pre-Print)**
 {: .notice}
 
 ## 2021
