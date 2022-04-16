@@ -12,13 +12,15 @@ classes: wide
 
 
 ## 2022
+* **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **In Review 2022** [The recovery of biodiversity and species composition after agricultural abandonment across spatial scales](https://doi.org/10.1101/2022.04.14.488351) **BioRxiv Preprint Server**
+
 * **Emma Ladouceur**, Shane Blowes, Jonathan Chase, Adam Clark, Magda Garbowski, Juan Alberti, Carlos Arnillas, Jonathan Bakker, Isabel C. Barrio, Siddharth Bharath, Elizabeth Borer, Lars Brudvig, Marc Cadotte, Q. Q. Chen, Scott Collins, Christopher Dickman, Ian Donohue, Guo-Zhen Du, Anne Ebeling, Nico Eisenhauer, Philip Fay, Nicole Hagenah, Yann Hautier, Anke Jentsch, Ingibjörg Svala Jónsdóttir, Kimberly Komatsu, Andrew MacDougall, Jason Martina, Joslin Moore, John Morgan, Pablo Peri, Sally A Power, Zhengwei Ren, Anita Risch, Christiane Roscher, Max Schuchardt, Eric Seabloom, Carly Stevens, Ciska Veen, Risto Virtanen, Glenda Wardle, Peter Wilfahrt, Stan Harpole **In Review 2022** [Species losses, gains, and changes in persistent species are associated with distinct effects on ecosystem functioning in global grasslands](https://www.authorea.com/users/407763/articles/552504-species-losses-gains-and-changes-in-persistent-species-are-associated-with-distinct-effects-on-ecosystem-functioning-in-global-grasslands?commit=b6ac65457c7ac5ee0679967ace69a00042300acf) **Authorea Pre-Print Server**
 
 * **Emma Ladouceur**, Nancy Shackelford, Karma Bouazza, Lars Brudvig, Anna Bucharova, Timo Conradi, Todd E. Erickson, Magda Garbowski, Kelly Garvy, W. Stanley Harpole, Holly P. Jones, Tiffany Knight, Mlungele M. Nsikani, Gustavo Paterno, Katharine Suding, Vicky M. Temperton, Péter Török, Daniel E. Winkler, Jonathan M. Chase **2022** [Knowledge sharing for shared success in the decade on ecosystem restoration](https://doi.org/10.1002/2688-8319.12117) **Ecological Solutions and Evidence**
 
 * Christopher P. Weiss-Lehman,  Chhaya M. Werner, Catherine H. Bowler, Lauren M. Hallett, Margaret M. Mayfield, Oscar Godoy, Lina Aoyama, György Barabás, Chengjin Chu, **Emma Ladouceur**,  Loralee Larios, Lauren G. Shoemaker. **2022**  [Disentangling key species interactions in diverse and heterogeneous communities: A Bayesian sparse modeling approach](https://doi.org/10.1111/ele.13977) **Ecology Letters**
 
-* Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **Accepted 2022** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/)  **Nature Sustainability (EcoEvoRxiv PrePrint)**
+* Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **Accepted 2022** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **Nature Sustainability (EcoEvoRxiv PrePrint)**
 
 * Rebecca Spake, Paola Barajas-Barbosa, Shane Blowes, Diana Bowler, Corey Callaghan, Magda Garbowski, Stephanie Jurburg, Lotte Korrell, **Emma Ladouceur**, Roberto Rozzi, Roel van Klink, Duarte Viana, Wubing Xu, Jonathan Chase. **Accepted 2022** Detecting thresholds of ecological changes in the Anthropocene: challenges and opportunities. **Annual Review of Environment and Resources**
 
