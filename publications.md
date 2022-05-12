@@ -18,9 +18,9 @@ classes: wide
 
 * **Emma Ladouceur**, Nancy Shackelford, Karma Bouazza, Lars Brudvig, Anna Bucharova, Timo Conradi, Todd E. Erickson, Magda Garbowski, Kelly Garvy, W. Stanley Harpole, Holly P. Jones, Tiffany Knight, Mlungele M. Nsikani, Gustavo Paterno, Katharine Suding, Vicky M. Temperton, Péter Török, Daniel E. Winkler, Jonathan M. Chase **2022** [Knowledge sharing for shared success in the decade on ecosystem restoration](https://doi.org/10.1002/2688-8319.12117) **Ecological Solutions and Evidence**
 
-* Christopher P. Weiss-Lehman,  Chhaya M. Werner, Catherine H. Bowler, Lauren M. Hallett, Margaret M. Mayfield, Oscar Godoy, Lina Aoyama, György Barabás, Chengjin Chu, **Emma Ladouceur**,  Loralee Larios, Lauren G. Shoemaker. **2022**  [Disentangling key species interactions in diverse and heterogeneous communities: A Bayesian sparse modeling approach](https://doi.org/10.1111/ele.13977) **Ecology Letters**
+* Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino, Ingmar Staude. **2022** [Urban conservation gardening in the decade of restoration](https://www.nature.com/articles/s41893-022-00882-z) **Nature Sustainability**
 
-* Ingmar Staude, Josiane Segar, Corey T. Callaghan, **Emma Ladouceur**, Jasper N. Meya, Henrique M. Pereira, Andrea Perino. **Accepted 2022** [Urban conservation gardening in the decade of restoration](https://ecoevorxiv.org/p2syu/) **Nature Sustainability (EcoEvoRxiv PrePrint)**
+* Christopher P. Weiss-Lehman,  Chhaya M. Werner, Catherine H. Bowler, Lauren M. Hallett, Margaret M. Mayfield, Oscar Godoy, Lina Aoyama, György Barabás, Chengjin Chu, **Emma Ladouceur**,  Loralee Larios, Lauren G. Shoemaker. **2022**  [Disentangling key species interactions in diverse and heterogeneous communities: A Bayesian sparse modeling approach](https://doi.org/10.1111/ele.13977) **Ecology Letters**
 
 * Rebecca Spake, Paola Barajas-Barbosa, Shane Blowes, Diana Bowler, Corey Callaghan, Magda Garbowski, Stephanie Jurburg, Lotte Korrell, **Emma Ladouceur**, Roberto Rozzi, Roel van Klink, Duarte Viana, Wubing Xu, Jonathan Chase. **Accepted 2022** Detecting thresholds of ecological changes in the Anthropocene: challenges and opportunities. **Annual Review of Environment and Resources**
 
