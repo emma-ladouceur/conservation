@@ -9,6 +9,8 @@ classes: wide
 ---
 
 ## Easy Reading
+* [Knowledge sharing for shared success in the decade on ecosystem restoration](https://appliedecologistsblog.com/2022/04/05/knowledge-sharing-for-shared-success-in-the-decade-on-ecosystem-restoration/) *The Applied Ecologist* By Emma Ladouceur and Pia Bradler
+
 * [Behind the paper: Operating instructions for using leaf traits as barometers](https://natureecoevocommunity.nature.com/users/105785-jennifer-firn/posts/43150-leaf-traits-are-barometers-of-short-term-perturbations-in-grasslands-but-operating-instructions-apply) *Nature Ecology & Evolution Blog* By Jennifer Firn
 
 * [Scientists and farmers work together to wipe out African lovegrass](https://www.sciencedaily.com/releases/2017/09/170921101741.htm) *Science Daily*. By Queensland University of Technology.
