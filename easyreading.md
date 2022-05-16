@@ -9,7 +9,9 @@ classes: wide
 ---
 
 ## Easy Reading
-* [Knowledge sharing for shared success in the decade on ecosystem restoration](https://appliedecologistsblog.com/2022/04/05/knowledge-sharing-for-shared-success-in-the-decade-on-ecosystem-restoration/) *The Applied Ecologist* By Emma Ladouceur and Pia Bradler
+* [The Decade on Ecosystem Restoration: How can we succeed as restoration scientists through knowledge sharing?](https://science4sustainability.wordpress.com/2022/05/16/the-decade-on-ecosystem-restoration-how-can-we-succeed-as-restoration-scientists-through-knowledge-sharing/) Leuphana University Social Ecological Systems (SES) Blog. By Anna Gniwotta
+
+* [Knowledge sharing for shared success in the decade on ecosystem restoration](https://appliedecologistsblog.com/2022/04/05/knowledge-sharing-for-shared-success-in-the-decade-on-ecosystem-restoration/) *The Applied Ecologist* By Emma Ladouceur & Pia Bradler
 
 * [Behind the paper: Operating instructions for using leaf traits as barometers](https://natureecoevocommunity.nature.com/users/105785-jennifer-firn/posts/43150-leaf-traits-are-barometers-of-short-term-perturbations-in-grasslands-but-operating-instructions-apply) *Nature Ecology & Evolution Blog* By Jennifer Firn
 
