@@ -5,7 +5,7 @@ excerpt: "The ecology of change"
 author_profile: true
 permalink: /publications/
 header:
-  overlay_image: /assets/images/alpine meadows/IMG_1493.JPG
+  overlay_image: /assets/images/alpine meadows/IMG_0407.JPG
 classes: wide  
 ---
 

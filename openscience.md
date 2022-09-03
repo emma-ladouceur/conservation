@@ -5,7 +5,7 @@ excerpt: "The ecology of change"
 author_profile: true
 permalink: /open_science/
 header:
-  overlay_image: /assets/images/alpine meadows/IMG_1606.JPG
+  overlay_image: /assets/images/australia/dichanthium.jpg
 classes: wide    
 ---
 

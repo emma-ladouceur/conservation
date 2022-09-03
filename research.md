@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 permalink: /research/
 header:
-  overlay_image: /assets/images/alpine meadows/eucleaf.JPG
+  overlay_image: /assets/images/alpine meadows/oxytropis.jpg
 classes: wide    
 ---
 
@@ -20,7 +20,7 @@ I am formally trained in planning (urban & environmental), environmental managem
 
 <figure class="third">
   <img src="/conservation/assets/images/australia/emus.jpg">
-  <img src="/conservation/assets/images/australia/dichanthium..jpg">
+  <img src="/conservation/assets/images/alpine meadows/IMG_1493.JPG">
   <img src="/conservation/assets/images/australia/dragonfly_milaa_milaa_falls.jpg">
   <figcaption>Understanding assembly, reassembly, functioning, & regeneration.</figcaption>
 </figure>
@@ -32,6 +32,6 @@ I am currently co-leading the [Global Restore Project](https://www.globalrestore
 
 <figure class="third">
   <img src="/conservation/assets/images/australia/canopy.jpg">
+  <img src="/conservation/assets/images/alpine meadows/globularia.JPG">
   <img src="/conservation/assets/images/australia/ferny.jpg">
-  <img src="/conservation/assets/images/australia/eucrace.jpg">
 </figure>
