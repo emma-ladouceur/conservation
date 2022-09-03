@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 permalink: /research/
 header:
-  overlay_image: /assets/images/alpine meadows/oxadalis.jpg
+  overlay_image: /assets/images/alpine meadows/IMG_1606.JPG
 classes: wide    
 ---
 
@@ -26,7 +26,7 @@ I am currently co-leading the [Global Restore Project](https://www.globalrestore
 
 
 <figure class="third">
-  <img src="/conservation/assets/images/restore/terrestrial.jpeg">
+  <img src="/conservation/assets/images/restore/IMG_7899.jpg">
   <img src="/conservation/assets/images/restore/meadow_small.jpg">
   <img src="/conservation/assets/images/restore/wetland_small.jpg">
   <figcaption>Systems of current focus.</figcaption>

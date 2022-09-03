@@ -1,10 +1,11 @@
 ---
 title: "Publications"
 layout: single
+excerpt: "The ecology of change"
 author_profile: true
 permalink: /publications/
 header:
-  overlay_image: /assets/images/alpine meadows/gentiana.JPG
+  overlay_image: /assets/images/alpine meadows/IMG_1493.JPG
 classes: wide  
 ---
 
