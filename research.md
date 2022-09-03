@@ -1,5 +1,6 @@
 ---
 title: "Research"
+excerpt: "The ecology of change"
 layout: single
 author_profile: true
 permalink: /research/
