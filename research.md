@@ -6,6 +6,7 @@ author_profile: true
 permalink: /research/
 header:
   overlay_image: /assets/images/alpine meadows/oxytropis.jpg
+  caption: "Alpe di Siusi, Italy."
 classes: wide    
 ---
 

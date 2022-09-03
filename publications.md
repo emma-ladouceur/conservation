@@ -6,6 +6,7 @@ author_profile: true
 permalink: /publications/
 header:
   overlay_image: /assets/images/alpine meadows/IMG_0407.JPG
+  caption: "Val Tonale, Italy."
 classes: wide  
 ---
 
