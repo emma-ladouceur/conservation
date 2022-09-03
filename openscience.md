@@ -5,13 +5,14 @@ excerpt: "The ecology of change"
 author_profile: true
 permalink: /open_science/
 header:
-  overlay_image: /assets/images/alpine meadows/silene.JPG
+  overlay_image: /assets/images/alpine meadows/IMG_1606.JPG
 classes: wide    
 ---
 
 I am an open science advocate and strive for all of my work to be open and available for others to access, learn from, and use. You can find  data I have been able to make open access and code listed below. Don't hesitate to reach out if you have questions.
 {: style="text-align: center;"}
 
+## Data & Code
 * Ladouceur, E. (2022) The recovery of plant community composition following passive restoration across spatial scales, Environmental Data Initiative (EDI). [Dataset]() & [Code](https://github.com/emma-ladouceur/CCRScale)
 
 * Ladouceur, E. (2022) Linking changes in species composition and biomass in a globally distributed grassland experiment, Environmental Data Initiative (EDI). [Dataset]() & [Code](https://github.com/emma-ladouceur/NutNet-CAFE) & [Shiny-App](https://emma-ladouceur.shinyapps.io/nn-cafe-app/)
