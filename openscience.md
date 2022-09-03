@@ -9,6 +9,7 @@ classes: wide
 ---
 
 I am an open science advocate and strive for all of my work to be open and available for others to access, learn from, and use. You can find  data I have been able to make open access and code listed below. Don't hesitate to reach out if you have questions.
+{: style="text-align: center;"}
 
 * Ladouceur, E. (2022) The recovery of plant community composition following passive restoration across spatial scales, Environmental Data Initiative (EDI). [Dataset]() & [Code](https://github.com/emma-ladouceur/CCRScale)
 
