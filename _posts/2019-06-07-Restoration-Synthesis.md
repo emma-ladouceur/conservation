@@ -6,10 +6,10 @@ layout: single
 header:
   teaser: /assets/images/restore/soil.jpg
   overlay_image: /assets/images/restore/soil.jpg
-  caption: "Basalt cracking clay soil, Central Highlands, Queensland, Australia. Emma Ladouceur [**Photography**](https://emma-ladouceur.github.io/conservation/portfolio-archive/)"
+  caption: "Basalt cracking clay soil, Central Highlands, Queensland, Australia."
   cta_label: "The Time is Now"
   cta_url: "https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity"
-excerpt: "Linking people & knowledge for restoration"
+excerpt: "Knowledge sharing for shared success in the Decade on Ecosystem Restoration"
 classes: wide
 author_profile: false
 share: true
@@ -35,13 +35,6 @@ Restoration has been taking place for decades across ecosystems, in every part o
 
 Together, we will develop a large, cross-cutting and collaborative effort to compile data from across the world, across ecosystems and across restoration efforts and types, and build a global network of restoration practitioners and projects. The Global Arid Zone Project (GAZP) Database is a collaborative drylands subset and network of the Global Restore Project. Please visit the [GRP](https://www.globalrestoreproject.com) and [GAZP](https://drylandrestore.com) project websites for more information!
 
-
-<figure class="third">
-  <img src="/conservation/assets/images/restore/terrestrial.jpeg">
-  <img src="/conservation/assets/images/restore/meadow_small.jpg">
-  <img src="/conservation/assets/images/restore/wetland_small.jpg">
-  <figcaption>Systems of current focus.</figcaption>
-</figure>
 
 
 ## Focus
