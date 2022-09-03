@@ -4,12 +4,13 @@ layout: single
 author_profile: true
 permalink: /publications/
 header:
-  overlay_image: /assets/images/blackdown_moss.jpg
+  overlay_image: /assets/images/alpine meadows/gentiana.JPG
 classes: wide  
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pub_banner.png){: .align-center}
 
+Please reach out to request if you do not have access.
 
 ## 2022
 * **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **In Review 2022** [The recovery of biodiversity and species composition after agricultural abandonment across spatial scales](https://doi.org/10.1101/2022.04.14.488351) **BioRxiv Preprint Server**

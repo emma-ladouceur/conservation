@@ -24,7 +24,7 @@ tags:
   - Ecology
 ---
 
-## Initiating Synthesis in Restoration Ecology
+## Knowledge sharing for shared success
 {: style="text-align: center;"}
 The recently declared [‘Decade on Ecological Restoration’](https://www.unenvironment.org/news-and-stories/press-release/new-un-decade-ecosystem-restoration-offers-unparalleled-opportunity) by the United Nations represents a timely opportunity to develop a strong and integrative path forward for ecological restoration. 
 
