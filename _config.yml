@@ -76,7 +76,7 @@ analytics:
 author:
   name             : "Emma Ladouceur"
   avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ecologist"
+  bio              : 
   location         : "Leipzig, Germany"
   email            : "emmala[at]gmail[dot]com"
   uri              :
