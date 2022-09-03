@@ -33,6 +33,6 @@ I am currently co-leading the [Global Restore Project](https://www.globalrestore
 
 <figure class="third">
   <img src="/conservation/assets/images/australia/canopy.jpg">
-  <img src="/conservation/assets/images/alpine meadows/globularia.JPG">
+  <img src="/conservation/assets/images/australia/piller.JPG">
   <img src="/conservation/assets/images/australia/ferny.jpg">
 </figure>
