@@ -13,7 +13,7 @@ classes: wide
 
 I am a Postdoctoral researcher based at [iDiv](https://www.idiv.de/groups_and_people/employees/details/eshow/ladouceur_emma.html) with guest status at [UFZ](https://www.ufz.de/index.php?en=45949) as a member of both the the [Biodiversity Synthesis](hhttps://www.idiv.de/en/groups-and-people/core-groups/synthesis.html) & [Physiological Diversity](https://www.ufz.de/index.php?de=34230) Groups.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/idiv logo.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/support.jpg){: .align-center}
 
 I am a community, vegetation & seed ecologist interested applied practical research, systematic decision making, and solutions to address the most pressing issues in restoration ecology, conservation biology and the functioning of ecosystems.
 
