@@ -16,7 +16,7 @@ I am an open science advocate and strive for all of my work to be open and avail
 ## Data & Code
 * *Coming soon* Ladouceur, E. et al. (2022) The recovery of plant community composition following passive restoration across spatial scales
 
-* Ladouceur, E. et al. (2022) Linking changes in species composition and biomass in a globally distributed grassland experiment.[Code](https://github.com/emma-ladouceur/NutNet-CAFE) & [Shiny-App](https://emma-ladouceur.shinyapps.io/nn-cafe-app/) *Data & final paper coming soon*
+* Ladouceur, E. et al. (2022) Linking changes in species composition and biomass in a globally distributed grassland experiment. [Code](https://github.com/emma-ladouceur/NutNet-CAFE) & [Shiny-App](https://emma-ladouceur.shinyapps.io/nn-cafe-app/) *Data & final paper coming soon*
 
 * Ladouceur, E. et al. et al. (2021), An objective-based prioritization approach to support trophic complexity through ecological restoration, Dryad, [Dataset](https://doi.org/10.5061/dryad.rjdfn2zbj) & [Code](https://github.com/emma-ladouceur/Prioritize-Species-Restoration)
 
