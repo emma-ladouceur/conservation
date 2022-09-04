@@ -1,10 +1,12 @@
 ---
 title: "All Posts"
 layout: archive
+excerpt: "The ecology of change"
 permalink: /year-archive/
 author_profile: true
 header:
-  overlay_image: /assets/images/kingbluegrassinthewind.jpg
+  overlay_image: /assets/images/film/360_view_double_exposure_beach_and _palms.jpg
+  caption: "Double exposure, Cape Tribulation, Australia"
 ---
 
 {% include base_path %}
