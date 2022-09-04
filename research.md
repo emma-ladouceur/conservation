@@ -20,13 +20,13 @@ I am a community, vegetation & seed ecologist interested applied practical resea
 I am formally trained in planning (urban & environmental), environmental management, ecology and conservation biology. I am able to peer review research articles surrounding any of these topics. I am currently serving a a Director-at-large for the [International Network for Seed-Based Restoration (INSR)](https://ser-insr.org/), a [Society for Ecological Restoration (SER)](https://www.ser.org/) Section, and as an editor for [Conservation Letters](https://conbio.onlinelibrary.wiley.com/journal/1755263x?utm_source=google&utm_medium=paidsearch&utm_campaign=R3MR425&utm_content=LifeSciences). Review experience detailed in my *Publons* profile in the menu to the left.
 
 <figure class="third">
-  <img src="/conservation/assets/images/hawaii/avatar.pg">
+  <img src="/conservation/assets/images/hawaii/avatar.jpg">
   <img src="/conservation/assets/images/australia/avatar.jpg">
   <img src="/conservation/assets/images/new zealand/avatar.jpg">
 </figure>
 
 ## Research
-I study the ecology of change. My research focuses on the processes and interactions that drive, and sustain diverse and functioning ecological systems in a changing world. I ask how disturbance disrupts functioning systems across different scales, and how they recover, to better inform evidence-based and policy-relevant conservation outcomes. I aim to improve how we plan, make decisions for, manage and restore human-impacted systems as complementary conservation action. The approaches I use integrate sustainable land use planning, evidence synthesis, ecological theory, regneration ecology and conservation biology. ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/GRP_50.png){: .align-right} 
+I study the ecology of change. My research focuses on the processes and interactions that drive, and sustain diverse and functioning ecological systems in a changing world. I ask how disturbance disrupts functioning systems across different scales, and how they recover, to better inform evidence-based and policy-relevant conservation outcomes. I aim to improve how we plan, make decisions for, manage and restore human-impacted systems as complementary conservation action. The approaches I use integrate sustainable land use planning, evidence synthesis, ecological theory, regneration ecology and conservation biology. ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/GRP_150.png){: .align-right} 
 
 I am currently co-leading the [Global Restore Project](https://www.globalrestoreproject.com/). We collect, standardize and and synthesize vegetation community data from ecological restoration projects around the world. The intention is to build this resource and make it open for everyone to use. Stay tuned!
 
