@@ -5,8 +5,8 @@ excerpt: "The ecology of change"
 author_profile: true
 permalink: /publications/
 header:
-  overlay_image: /assets/images/alpine meadows/IMG_0407.JPG
-  caption: "Val Tonale, Italy."
+  overlay_image: /assets/images/driftwood.jpg
+  caption: "Salt Spring Island, British Columbia, Canada"
 classes: wide  
 ---
 
