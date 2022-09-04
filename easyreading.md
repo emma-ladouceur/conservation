@@ -31,3 +31,12 @@ classes: wide
 
 * [Native plant seeds: An essential resource to ecological restoration in Europe](http://www.muse.it/en/news/Archivio/Pages/ricerca-piante-autoctone.aspx) *Museo delle Scienze (MUSE)*. 
 {: .notice}
+
+<figure class="third">
+  <img src="/conservation/assets/images/canada/forest.JPG">
+  <img src="/conservation/assets/images/canada/mistytreebandw.jpg">
+  <img src="/conservation/assets/images/blackdown_moss.jpg">
+</figure>
+
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/support.jpg){: .align-center}
