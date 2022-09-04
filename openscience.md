@@ -26,5 +26,5 @@ I am an open science advocate and strive for all of my work to be open and avail
 
 
 ## Projects
-* [The Global Restore Project](https://www.globalrestoreproject.com/)
+* [The Global Restore Project](https://www.globalrestoreproject.com/) An in-progress open synthesis project. 
 {: .notice}
