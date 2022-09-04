@@ -23,7 +23,6 @@ I am formally trained in planning (urban & environmental), environmental managem
   <img src="/conservation/assets/images/australia/straddie.JPG">
   <img src="/conservation/assets/images/alpine meadows/IMG_1493.JPG">
   <img src="/conservation/assets/images/australia/themedatriandra.JPG">
-  <figcaption>Understanding assembly, reassembly, functioning, & regeneration.</figcaption>
 </figure>
 
 ## Research
