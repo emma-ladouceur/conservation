@@ -20,9 +20,9 @@ I am a community, vegetation & seed ecologist interested applied practical resea
 I am formally trained in planning (urban & environmental), environmental management, ecology and conservation biology. I am able to peer review research articles surrounding any of these topics. I am currently serving a a Director-at-large for the [International Network for Seed-Based Restoration (INSR)](https://ser-insr.org/), a [Society for Ecological Restoration (SER)](https://www.ser.org/) Section, and as an editor for [Conservation Letters](https://conbio.onlinelibrary.wiley.com/journal/1755263x?utm_source=google&utm_medium=paidsearch&utm_campaign=R3MR425&utm_content=LifeSciences). Review experience detailed in my *Publons* profile in the menu to the left.
 
 <figure class="third">
-  <img src="/conservation/assets/images/australia/emus.jpg">
+  <img src="/conservation/assets/images/australia/straddie.JPG">
   <img src="/conservation/assets/images/alpine meadows/IMG_1493.JPG">
-  <img src="/conservation/assets/images/australia/dragonfly_milaa_milaa_falls.jpg">
+  <img src="/conservation/assets/images/australia/themedatriandra.JPG">
   <figcaption>Understanding assembly, reassembly, functioning, & regeneration.</figcaption>
 </figure>
 
