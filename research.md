@@ -27,9 +27,8 @@ I am formally trained in planning (urban & environmental), environmental managem
 </figure>
 
 ## Research
-I study the ecology of change. My research focuses on the processes and interactions that drive, and sustain diverse and functioning ecological systems in a changing world. I ask how disturbance disrupts functioning systems across different scales, and how they recover, to better inform evidence-based and policy-relevant conservation outcomes. I aim to improve and inform how we plan, make decisions for, manage and restore human-impacted systems as complementary conservation action. The approaches I use integrate sustainable land use planning, evidence synthesis, ecological theory, regneration ecology and conservation biology. 
-
-I am currently co-leading the [Global Restore Project](https://www.globalrestoreproject.com/). We collect, standardize and and synthesize vegetation community data from ecological restoration projects around the world. The intention is to build this resource and make it open for everyone to use. Stay tuned!
+I study the ecology of change. My research focuses on the processes and interactions that drive, and sustain diverse and functioning ecological systems in a changing world. I ask how disturbance disrupts functioning systems across different scales, and how they recover, to better inform evidence-based and policy-relevant conservation outcomes. I aim to improve how we plan, make decisions for, manage and restore human-impacted systems as complementary conservation action. The approaches I use integrate sustainable land use planning, evidence synthesis, ecological theory, regneration ecology and conservation biology. 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/GRP.png){: .align-right} I am currently co-leading the [Global Restore Project](https://www.globalrestoreproject.com/). We collect, standardize and and synthesize vegetation community data from ecological restoration projects around the world. The intention is to build this resource and make it open for everyone to use. Stay tuned!
 
 <figure class="third">
   <img src="/conservation/assets/images/australia/canopy.jpg">
