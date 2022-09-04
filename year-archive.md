@@ -5,8 +5,8 @@ excerpt: "The ecology of change"
 permalink: /year-archive/
 author_profile: true
 header:
-  overlay_image: /assets/images/film/360_view_double_exposure_beach_and _palms.jpg
-  caption: "Double exposure, Cape Tribulation, Australia"
+  overlay_image: /assets/images/australia/darksand.jpg
+  caption: "North Stradbroke Island, Queensland, Australia"
 ---
 
 {% include base_path %}
