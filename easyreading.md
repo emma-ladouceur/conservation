@@ -27,7 +27,7 @@ classes: wide
 {: .notice}
 
 ## Press Releases
-* [Native plant seeds: An essential resource to ecological restoration in Europe](https://www.idiv.de/news/news_single_view/news_article/native_plant.html) *The German Centre for Integrative Biodiversity Research (iDiv)*. 
+* [Native plant seeds: An essential resource to ecological restoration in Europe](https://www.idiv.de/en/news/archive-2017/news-2017-single-view/1105.html) *The German Centre for Integrative Biodiversity Research (iDiv)*. 
 
 * [Native plant seeds: An essential resource to ecological restoration in Europe](http://www.muse.it/en/news/Archivio/Pages/ricerca-piante-autoctone.aspx) *Museo delle Scienze (MUSE)*. 
 {: .notice}
