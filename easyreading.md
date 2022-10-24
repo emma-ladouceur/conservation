@@ -27,7 +27,9 @@ classes: wide
 {: .notice}
 
 ## Press Releases
-* [Native plant seeds: An essential resource to ecological restoration in Europe](https://www.idiv.de/en/news/archive-2017/news-2017-single-view/1105.html) *The German Centre for Integrative Biodiversity Research (iDiv)*. 
+* [More yield, fewer species: How human nutrient inputs alter grasslands](https://www.idiv.de/en/news/news_single_view/4627.html) *German Centre for Integrative Biodiversity Research Halle-Jena-Leipzig (iDiv)*
+
+* [Native plant seeds: An essential resource to ecological restoration in Europe](https://www.idiv.de/en/news/archive-2017/news-2017-single-view/1105.html) *German Centre for Integrative Biodiversity Research Halle-Jena-Leipzig (iDiv)*. 
 
 * [Native plant seeds: An essential resource to ecological restoration in Europe](http://www.muse.it/en/news/Archivio/Pages/ricerca-piante-autoctone.aspx) *Museo delle Scienze (MUSE)*. 
 {: .notice}
