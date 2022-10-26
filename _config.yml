@@ -78,7 +78,7 @@ author:
   avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Leipzig, Germany"
-  email            : "emmala[at]gmail[dot]com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   lastfm           :
   linkedin         :
   pinterest        :
-  publons          : 1225065
+  publons          :
   researchgate     :  
   orcid            : "0000-0002-4943-4358"
   soundcloud       :
