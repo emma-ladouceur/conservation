@@ -21,6 +21,8 @@ I am an open science advocate and strive for all of my work to be open and avail
 * Ladouceur, E. et al. et al. (2021), An objective-based prioritization approach to support trophic complexity through ecological restoration, Dryad, [Dataset](https://doi.org/10.5061/dryad.rjdfn2zbj) & [Code](https://github.com/emma-ladouceur/Prioritize-Species-Restoration)
 
 * Ladouceur, E. et al. et al. (2020): Reducing dispersal limitation via seed addition increases species richness but not aboveground biomass. figshare. [Dataset](https://doi.org/10.6084/m9.figshare.12319682.v1) & [Code](https://github.com/emma-ladouceur/SeedAdditionSynthesis)
+
+* Ladouceur, E. et al. (2019) The functional trait spectrum of European temperate grasslands. Journal of Vegetation Science [Dataset - Supplementary Information](https://doi.org/10.1111/jvs.12784)
 {: .notice}
 
 
