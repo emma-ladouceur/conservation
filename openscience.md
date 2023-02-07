@@ -14,9 +14,9 @@ I am an open science advocate and strive for all of my work to be open and avail
 {: style="text-align: center;"}
 
 ## Data & Code
-* *Coming soon* Ladouceur, E. *et al.*, (2022) The recovery of plant community composition following passive restoration across spatial scales. [Dataset](https://doi.org/10.6073/pasta/c8ee28959736ac4dc72f7adf6e2be9fd) & [Code](https://github.com/emma-ladouceur/CCRScale)
+* Ladouceur, E. *et al.*, (2023) The recovery of plant community composition following passive restoration across spatial scales. [Dataset](https://doi.org/10.6073/pasta/c8ee28959736ac4dc72f7adf6e2be9fd) & [Code](https://github.com/emma-ladouceur/CCRScale)
 
-* Ladouceur, E. et al., (2022) Linking temporal changes in species composition and biomass in a globally distributed grassland experiment. Environmental data Initiative (EDI). [Dataset](https://doi.org/10.6073/pasta/293faff7ed2e287b56e85796c87c3e4b), [Analyses Code](https://github.com/emma-ladouceur/NutNet-CAFE), [Shiny-App](https://emma-ladouceur.shinyapps.io/nn-cafe-app/), & [Shiny-App Code](https://github.com/emma-ladouceur/NN-CAFE-App) 
+* Ladouceur, E. *et al.*, (2022) Linking temporal changes in species composition and biomass in a globally distributed grassland experiment. Environmental data Initiative (EDI). [Dataset](https://doi.org/10.6073/pasta/293faff7ed2e287b56e85796c87c3e4b), [Analyses Code](https://github.com/emma-ladouceur/NutNet-CAFE), [Shiny-App](https://emma-ladouceur.shinyapps.io/nn-cafe-app/), & [Shiny-App Code](https://github.com/emma-ladouceur/NN-CAFE-App) 
 
 * Ladouceur, E. *et al.*, (2021), An objective-based prioritization approach to support trophic complexity through ecological restoration, Dryad, [Dataset](https://doi.org/10.5061/dryad.rjdfn2zbj) & [Code](https://github.com/emma-ladouceur/Prioritize-Species-Restoration)
 
