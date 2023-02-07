@@ -27,6 +27,8 @@ classes: wide
 {: .notice}
 
 ## Press Releases
+* [Plant diversity may never fully recover from agriculture without a helping hand](https://www.idiv.de/en/news/news_single_view/5078.html) *German Centre for Integrative Biodiversity Research Halle-Jena-Leipzig (iDiv)*
+
 * [More yield, fewer species: How human nutrient inputs alter grasslands](https://www.idiv.de/en/news/news_single_view/4627.html) *German Centre for Integrative Biodiversity Research Halle-Jena-Leipzig (iDiv)*
 
 * [Native plant seeds: An essential resource to ecological restoration in Europe](https://www.idiv.de/en/news/archive-2017/news-2017-single-view/1105.html) *German Centre for Integrative Biodiversity Research Halle-Jena-Leipzig (iDiv)*. 
