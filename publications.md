@@ -17,6 +17,7 @@ Please reach out to request a pdf if you do not have access.
 
 ## 2023
 * **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of biodiversity and species composition after agricultural abandonment across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
+{: .notice}
 
 ## 2022
 * **Emma Ladouceur**, Shane A. Blowes, Jonathan M. Chase, Adam T. Clark, Magda Garbowski, Juan Alberti, Carlos Arnillas, Jonathan Bakker, Isabel C. Barrio, Siddharth Bharath, Elizabeth Borer, Lars Brudvig, Marc Cadotte, Q. Q. Chen, Scott Collins, Christopher Dickman, Ian Donohue, Guo-Zhen Du, Anne Ebeling, Nico Eisenhauer, Philip Fay, Nicole Hagenah, Yann Hautier, Anke Jentsch, Ingibjörg Svala Jónsdóttir, Kimberly Komatsu, Andrew MacDougall, Jason Martina, Joslin Moore, John Morgan, Pablo Peri, Sally A Power, Zhengwei Ren, Anita Risch, Christiane Roscher, Max Schuchardt, Eric Seabloom, Carly Stevens, Ciska Veen, Risto Virtanen, Glenda Wardle, Peter Wilfahrt, W. Stanley Harpole **2022** [Linking changes in species composition and biomass in a globally distributed grassland experiment](https://doi.org/10.1111/ele.14126) **Ecology Letters** 
