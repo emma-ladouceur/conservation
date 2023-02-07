@@ -11,6 +11,10 @@ classes: wide
 ---
 
 ## Easy Reading
+* [iDiv researchers' messages to the UN Biodiversity Conference CBD COP 15](https://www.idiv.de/en/web/cbd-cop-15.html) *iDiv Media*
+
+* [Linking changes in species composition and biomass in a globally distributed grassland experiment](https://www.idiv.de/en/newsletter/2022-1/editors-choice-2-1.html) *iDiv newsletter December 2022*
+
 * [The Decade on Ecosystem Restoration: How can we succeed as restoration scientists through knowledge sharing?](https://science4sustainability.wordpress.com/2022/05/16/the-decade-on-ecosystem-restoration-how-can-we-succeed-as-restoration-scientists-through-knowledge-sharing/) Leuphana University Social Ecological Systems (SES) Blog. By Anna Gniwotta
 
 * [Knowledge sharing for shared success in the decade on ecosystem restoration](https://appliedecologistsblog.com/2022/04/05/knowledge-sharing-for-shared-success-in-the-decade-on-ecosystem-restoration/) *The Applied Ecologist* By Emma Ladouceur & Pia Bradler
