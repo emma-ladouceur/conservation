@@ -16,7 +16,7 @@ Please reach out to request a pdf if you do not have access.
 {: style="text-align: center;"}
 
 ## 2023
-* **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of biodiversity and species composition after agricultural abandonment across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
+* **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of plant community composition following passive restoration across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
 {: .notice}
 
 ## 2022
