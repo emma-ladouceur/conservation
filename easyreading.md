@@ -11,6 +11,8 @@ classes: wide
 ---
 
 ## Easy Reading
+* [Recovery after disturbance is slow across space and time; can these patterns tell us how to actively restore ecosystems better?](https://jecologyblog.com/2023/02/10/recovery-after-disturbance-is-slow-across-space-and-time-can-these-patterns-tell-us-how-to-actively-restore-ecosystems-better/) *Journal of Ecology Blog* By Emma Ladouceur and Jonathan Chase
+
 * [iDiv researchers' messages to the UN Biodiversity Conference CBD COP 15](https://www.idiv.de/en/web/cbd-cop-15.html) *iDiv Media*
 
 * [Linking changes in species composition and biomass in a globally distributed grassland experiment](https://www.idiv.de/en/newsletter/2022-1/editors-choice-2-1.html) *iDiv newsletter December 2022*

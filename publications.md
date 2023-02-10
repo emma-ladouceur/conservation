@@ -17,6 +17,8 @@ Please reach out to request a pdf if you do not have access.
 
 ## 2023
 * **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of plant community composition following passive restoration across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
+
+* Daniel Slodowicz, Aure Durbecq, **Emma Ladouceur**, Rene Eschen, Jean-Yves Humbert, Raphael Arlettaz. **Accepted 2023.** The relative effectiveness of different grassland restoration methods: a systematic literature search and meta-analysis. **Ecological Solutions and Evidence.**
 {: .notice}
 
 ## 2022
