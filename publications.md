@@ -18,7 +18,7 @@ Please reach out to request a pdf if you do not have access.
 ## 2023
 * **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of plant community composition following passive restoration across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
 
-* Daniel Slodowicz, Aure Durbecq, **Emma Ladouceur**, Rene Eschen, Jean-Yves Humbert, Raphael Arlettaz. **Accepted 2023.** The relative effectiveness of different grassland restoration methods: a systematic literature search and meta-analysis. **Ecological Solutions and Evidence.**
+* Daniel Slodowicz, Aure Durbecq, **Emma Ladouceur**, Rene Eschen, Jean-Yves Humbert, Raphael Arlettaz. **2023.** [The relative effectiveness of different grassland restoration methods: a systematic literature search and meta-analysis](https://doi.org/10.1002/2688-8319.12221) **Ecological Solutions and Evidence.**
 
 * Magda Garbowski, Elizabeth Boughton, Anne Ebling, Philip Fay, Yann Hautier, Hanna Holz, Anke Jentsch, Stephanie D. Jurburg, **Emma Ladouceur**, Jason Martina, Timothy Ohlert, Xavier Raynaud, Christiane Roscher, Gregory Sonnier, Pedro Maximiliano Tognetti, Laura Yahdjian, Peter Wilfahrt, W. Stanley Harpole **In Review 2022** [Temperature seasonality and nutrient enrichment drive intra-annual community turnover in global grasslands](https://www.biorxiv.org/content/10.1101/2022.10.24.513509v1.full.pdf+html) **BioRxiv Preprint Server**
 {: .notice}
