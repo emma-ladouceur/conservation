@@ -18,7 +18,7 @@ Please reach out to request a pdf if you do not have access.
 ## 2023
 * Diana Bertuol Garcia, Emma Ladouceur, Lars A. Brudvig; Daniel Charles Laughlin; Seth M. Munson; Michael F Curran; Kirk W Davies; Lauren N Svejcar, Nancy Shackelford **Accepted** Testing the hierarchy of predictability in grassland restoration across a gradient of environmental severity **Ecological Applications**
 
-* Saneesh Cherapurath Soman, Paradesi Anjaneyulu, Anil Kumar, Himani Sharma, **Emma Ladouceur**, Tiffany M. Knight **Accepted** Enhancing Ecosystem Services through Collaborative Grass Removal and Fire Exclusion in the Eastern Ghats **Biotropica**
+* Saneesh Cherapurath Soman, Paradesi Anjaneyulu, Anil Kumar, Himani Sharma, **Emma Ladouceur**, Tiffany M. Knight **Accepted** Enhancing ecosystem Services through collaborative grass removal and fire exclusion in the Eastern Ghats **Biotropica**
 
 * Magda Garbowski, Elizabeth Boughton, Anne Ebeling, Philip Fay, Yann Hautier, Hanna Holz, Anke Jentsch, Stephanie D. Jurburg, **Emma Ladouceur**, Jason Martina, Timothy Ohlert, Xavier Raynaud, Christiane Roscher, Gregory Sonnier, Pedro Maximiliano Tognetti, Laura Yahdjian, Peter Wilfahrt, W. Stanley Harpole **Accepted** [Temperature seasonality and nutrient enrichment drive intra-annual community turnover in global grasslands](https://www.biorxiv.org/content/10.1101/2022.10.24.513509v1.full.pdf+html) **Journal of Ecology (BioRxiv Preprint Server)**
 
