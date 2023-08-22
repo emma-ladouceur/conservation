@@ -20,7 +20,7 @@ Please reach out to request a pdf if you do not have access.
 
 * Saneesh Cherapurath Soman, Paradesi Anjaneyulu, Anil Kumar, Himani Sharma, **Emma Ladouceur**, Tiffany M. Knight **Accepted** Enhancing ecosystem Services through collaborative grass removal and fire exclusion in the Eastern Ghats **Biotropica**
 
-* Magda Garbowski, Elizabeth Boughton, Anne Ebeling, Philip Fay, Yann Hautier, Hanna Holz, Anke Jentsch, Stephanie D. Jurburg, **Emma Ladouceur**, Jason Martina, Timothy Ohlert, Xavier Raynaud, Christiane Roscher, Gregory Sonnier, Pedro Maximiliano Tognetti, Laura Yahdjian, Peter Wilfahrt, W. Stanley Harpole **2023** [Nutrient enrichment alters seasonal β-diversity in global grasslands](https://doi.org/10.1111/1365-2745.14182) **Journal of Ecology**
+* Magda Garbowski, Elizabeth Boughton, Anne Ebeling, Philip Fay, Yann Hautier, Hanna Holz, Anke Jentsch, Stephanie D. Jurburg, **Emma Ladouceur**, Jason Martina, Timothy Ohlert, Xavier Raynaud, Christiane Roscher, Gregory Sonnier, Pedro Maximiliano Tognetti, Laura Yahdjian, Peter Wilfahrt, W. Stanley Harpole **2023** [Nutrient enrichment alters seasonal β-diversity in global grasslands](https://doi.org/10.1111/1365-2745.14182) **Journal of Ecology** [Check out our short video explaining the paper](https://youtu.be/czP5c6aQzjc)
 
 * Lauren M. Hallett, Lina Aoyama, György Barabás, Benjamin Gilbert, Loralee Larios, Nancy Shackelford, Chhaya M. Werner, Oscar Godoy, **Emma R. Ladouceur**, Jacob E Lucero, Christopher P. Weiss-Lehman, Jonathan M. Chase, Chengjin Chu, W. Stanley Harpole, Margaret M. Mayfield, Akasha M. Faist, Lauren G. Shoemaker **2023** [Restoration ecology through the lens of coexistence theory](https://doi.org/10.1016/j.tree.2023.06.004) **Trends in Ecology & Evolution**
 
