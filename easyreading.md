@@ -11,6 +11,8 @@ classes: wide
 ---
 
 ## Easy Reading
+* [Passive restoration can help former farmlands in Minnesota, USA to recover their biodiversity, but even 80 years is not enough for full recovery](https://environment.ec.europa.eu/news/passive-restoration-can-help-former-farmlands-minnesota-usa-recover-their-biodiversity-even-80-years-2023-10-19_en)“Science for Environment Policy”: European Commission DG Environment News Alert Service, edited by the Science Communication Unit, The University of the West of England, Bristol. Issue 611.
+
 * [Recovery after disturbance is slow across space and time; can these patterns tell us how to actively restore ecosystems better?](https://jecologyblog.com/2023/02/10/recovery-after-disturbance-is-slow-across-space-and-time-can-these-patterns-tell-us-how-to-actively-restore-ecosystems-better/) *Journal of Ecology Blog* By Emma Ladouceur and Jonathan Chase
 
 * [Grassland restoration tactics explored to aid biodiversity](https://www.britishecologicalsociety.org/grassland-restoration-tactics-explored-to-aid-biodiversity/) *British Ecological Society (BES)*
