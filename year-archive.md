@@ -1,7 +1,7 @@
 ---
 title: "All Posts"
 layout: archive
-excerpt: "The ecology of change"
+excerpt: ""
 permalink: /year-archive/
 author_profile: true
 header:

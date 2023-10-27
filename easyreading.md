@@ -2,7 +2,7 @@
 title: "Easy Reading"
 layout: single
 author_profile: true
-excerpt: "The ecology of change"
+excerpt: ""
 permalink: /easyreading/
 header:
   overlay_image: /assets/images/lilypad.jpg

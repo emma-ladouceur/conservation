@@ -1,7 +1,7 @@
 ---
 title: "Open Science"
 layout: single
-excerpt: "The ecology of change"
+excerpt: ""
 author_profile: true
 permalink: /open_science/
 header:

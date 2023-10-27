@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Emma Ladouceur"
 title_separator          : "|"
 name                     : ""
-description              : "The ecology of change"
+description              : ""
 url                      :  https://emma-ladouceur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /conservation # the subpath of your site, e.g. "/blog"
 repository               : emma-ladouceur/conservation

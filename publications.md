@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 layout: single
-excerpt: "The ecology of change"
+excerpt: ""
 author_profile: true
 permalink: /publications/
 header:
