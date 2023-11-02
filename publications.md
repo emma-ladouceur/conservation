@@ -16,6 +16,8 @@ Please reach out to request a pdf if you do not have access.
 {: style="text-align: center;"}
 
 ## 2023
+* **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of plant community composition following passive restoration across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
+
 * Diana Bertuol Garcia, Emma Ladouceur, Lars A. Brudvig; Daniel Charles Laughlin; Seth M. Munson; Michael F Curran; Kirk W Davies; Lauren N Svejcar, Nancy Shackelford **2023** [Testing the hierarchy of predictability in grassland restoration across a gradient of environmental severity](https://doi.org/10.1002/eap.2922) **Ecological Applications**
 
 * Saneesh Cherapurath Soman, Paradesi Anjaneyulu, Anil Kumar, Himani Sharma, **Emma Ladouceur**, Tiffany M. Knight **2023** [Enhancing ecosystem Services through collaborative grass removal and fire exclusion in the Eastern Ghats](https://doi.org/10.1111/btp.13269) **Biotropica**
@@ -23,8 +25,6 @@ Please reach out to request a pdf if you do not have access.
 * Magda Garbowski, Elizabeth Boughton, Anne Ebeling, Philip Fay, Yann Hautier, Hanna Holz, Anke Jentsch, Stephanie D. Jurburg, **Emma Ladouceur**, Jason Martina, Timothy Ohlert, Xavier Raynaud, Christiane Roscher, Gregory Sonnier, Pedro Maximiliano Tognetti, Laura Yahdjian, Peter Wilfahrt, W. Stanley Harpole **2023** [Nutrient enrichment alters seasonal β-diversity in global grasslands](https://doi.org/10.1111/1365-2745.14182) **Journal of Ecology** [Check out our short video explaining the paper](https://youtu.be/czP5c6aQzjc)
 
 * Lauren M. Hallett, Lina Aoyama, György Barabás, Benjamin Gilbert, Loralee Larios, Nancy Shackelford, Chhaya M. Werner, Oscar Godoy, **Emma R. Ladouceur**, Jacob E Lucero, Christopher P. Weiss-Lehman, Jonathan M. Chase, Chengjin Chu, W. Stanley Harpole, Margaret M. Mayfield, Akasha M. Faist, Lauren G. Shoemaker **2023** [Restoration ecology through the lens of coexistence theory](https://doi.org/10.1016/j.tree.2023.06.004) **Trends in Ecology & Evolution**
-
-* **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of plant community composition following passive restoration across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
 
 * Daniel Slodowicz, Aure Durbecq, **Emma Ladouceur**, Rene Eschen, Jean-Yves Humbert, Raphael Arlettaz. **2023** [The relative effectiveness of different grassland restoration methods: a systematic literature search and meta-analysis](https://doi.org/10.1002/2688-8319.12221) **Ecological Solutions and Evidence**
 {: .notice}
