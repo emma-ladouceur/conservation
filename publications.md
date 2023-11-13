@@ -16,6 +16,9 @@ Please reach out to request a pdf if you do not have access.
 {: style="text-align: center;"}
 
 ## 2023
+
+* **Alistair G Auffret, Emma Ladouceur (joint)**, Natalie S Haussmann, Petr Keil, Eirini Daouti, Tatiana G Elumeeva, Ineta Kačergytė, Jonas Knape, Dorota Kotowska, Matthew Low, Vladimir G Onipchenko, Matthieu Paquet, Diana Rubene, Jan Plue **2023** [Soil seed bank richness, abundance and density across spatial scales and global biomes](https://doi.org/10.1101/2023.11.08.566230) **bioRxiv**
+
 * **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of plant community composition following passive restoration across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
 
 * Diana Bertuol Garcia, Emma Ladouceur, Lars A. Brudvig; Daniel Charles Laughlin; Seth M. Munson; Michael F Curran; Kirk W Davies; Lauren N Svejcar, Nancy Shackelford **2023** [Testing the hierarchy of predictability in grassland restoration across a gradient of environmental severity](https://doi.org/10.1002/eap.2922) **Ecological Applications**
