@@ -77,7 +77,7 @@ author:
   name             : "Emma Ladouceur"
   avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Leipzig, Germany"
+  location         :
   email            :
   uri              :
   bitbucket        :
