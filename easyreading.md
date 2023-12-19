@@ -11,6 +11,8 @@ classes: wide
 ---
 
 ## Easy Reading
+* [sReStoReS: SynFlex - Insights into a flexible synthesis funding mechanism](https://www.idiv.de/en/sdiv/newsletter/newsletter-2023-1.html) *iDiv Synthesis Centre (sDiv)  Newsletter 2023* By Emma Ladouceur
+
 * [Passive restoration can help former farmlands in Minnesota, USA to recover their biodiversity, but even 80 years is not enough for full recovery](https://environment.ec.europa.eu/news/passive-restoration-can-help-former-farmlands-minnesota-usa-recover-their-biodiversity-even-80-years-2023-10-19_en) “Science for Environment Policy”: European Commission DG Environment News Alert Service, edited by the Science Communication Unit, The University of the West of England, Bristol. Issue 611.
 
 * [Our shared garden: The importance of native plants](https://canadiangeographic.ca/articles/our-shared-garden-the-importance-of-native-plants/) *Canadian Geographic* By Michela Rosano. Featuring our perspective, [Urban conservation gardening in the decade of restoration](https://www.nature.com/articles/s41893-022-00882-z) in *Nature Sustainability*
