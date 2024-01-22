@@ -15,10 +15,13 @@ classes: wide
 Please reach out to request a pdf if you do not have access.
 {: style="text-align: center;"}
 
+## 2024
+* Daniel E. Winkler, Magda Garbowski, Kevin Kožić, **Emma Ladouceur**, Julie Larson, Sarah Martin, Christoph Rosche, Christiane Roscher, Mandy L. Slate, Lotte Korell **2024** [Facilitating comparable research in seedling functional ecology](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14288) **Methods in Ecology & Evolution**
+
+* **Alistair G Auffret, Emma Ladouceur (joint)**, Natalie S Haussmann, Petr Keil, Eirini Daouti, Tatiana G Elumeeva, Ineta Kačergytė, Jonas Knape, Dorota Kotowska, Matthew Low, Vladimir G Onipchenko, Matthieu Paquet, Diana Rubene, Jan Plue **In Review 2023-2024** [Soil seed bank richness, abundance and density across spatial scales and global biomes](https://www.biorxiv.org/content/10.1101/2023.11.08.566230v1) **bioRxiv Preprint Server**
+{: .notice}
+
 ## 2023
-
-* **Alistair G Auffret, Emma Ladouceur (joint)**, Natalie S Haussmann, Petr Keil, Eirini Daouti, Tatiana G Elumeeva, Ineta Kačergytė, Jonas Knape, Dorota Kotowska, Matthew Low, Vladimir G Onipchenko, Matthieu Paquet, Diana Rubene, Jan Plue **In Review 2023** [Soil seed bank richness, abundance and density across spatial scales and global biomes](https://www.biorxiv.org/content/10.1101/2023.11.08.566230v1) **bioRxiv Preprint Server**
-
 * **Emma Ladouceur**, Forest Isbell, Adam T. Clark, W. Stanley Harpole, Peter B. Reich, G. David Tilman, Jonathan M. Chase **2023** [The recovery of plant community composition following passive restoration across spatial scales](https://doi.org/10.1111/1365-2745.14063) **Journal of Ecology**
 
 * Diana Bertuol Garcia, Emma Ladouceur, Lars A. Brudvig; Daniel Charles Laughlin; Seth M. Munson; Michael F Curran; Kirk W Davies; Lauren N Svejcar, Nancy Shackelford **2023** [Testing the hierarchy of predictability in grassland restoration across a gradient of environmental severity](https://doi.org/10.1002/eap.2922) **Ecological Applications**
