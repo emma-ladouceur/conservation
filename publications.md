@@ -16,7 +16,7 @@ Please reach out to request a pdf if you do not have access.
 {: style="text-align: center;"}
 
 ## 2024
-* James T Stroud, Benjamin M Delory, Elle M Barnes, Jonathan M Chase, Luc De Meester, Julia Dieskau, Tess N Grainger, Fletcher W Halliday, Paul Kardol, Tiffany M Knight, Emma Ladouceur, Chelsea J Little, Christiane Roscher, Judith M Sarneel, Vicky M Temperton, Tamara LH van Steijn, Chhaya M Werner, Corlette W Wood, Tadashi Fukami **2024** [Priority effects transcend scales and disciplines in biology](https://doi.org/10.1016/j.tree.2024.02.004) **Trends in Ecology & Evolution**
+* James T Stroud, Benjamin M Delory, Elle M Barnes, Jonathan M Chase, Luc De Meester, Julia Dieskau, Tess N Grainger, Fletcher W Halliday, Paul Kardol, Tiffany M Knight, **Emma Ladouceur**, Chelsea J Little, Christiane Roscher, Judith M Sarneel, Vicky M Temperton, Tamara LH van Steijn, Chhaya M Werner, Corlette W Wood, Tadashi Fukami **2024** [Priority effects transcend scales and disciplines in biology](https://doi.org/10.1016/j.tree.2024.02.004) **Trends in Ecology & Evolution**
 
 * Daniel E. Winkler, Magda Garbowski, Kevin Kožić, **Emma Ladouceur**, Julie Larson, Sarah Martin, Christoph Rosche, Christiane Roscher, Mandy L. Slate, Lotte Korell **2024** [Facilitating comparable research in seedling functional ecology](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14288) **Methods in Ecology & Evolution**
 
